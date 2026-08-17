@@ -1,0 +1,1405 @@
+{
+ "meta": {
+  "schema_version": "1.0",
+  "dna_id": "elements-luxury-living",
+  "title": "Elements Luxury Living — Luxury Is Subjective",
+  "source": {
+   "type": "reference_video",
+   "ref": "Elements Luxury Living - AI Real Estate Film | Can of Tales",
+   "premise_input": "Reference film from URL: Elements Luxury Living - AI Real Estate Film | Can of Tales"
+  },
+  "format_profile": "ad",
+  "duration_target_s": 51,
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "resolution": "1920x1080",
+  "analysis_confidence": 0.82,
+  "research_depth": "deep",
+  "created": "2026-07-28",
+  "frames_seen": 100,
+  "frames_skipped": [],
+  "read_sections": [
+   "narrative",
+   "world",
+   "scenes",
+   "cinematography",
+   "color_light",
+   "editing",
+   "sound",
+   "consistency",
+   "segments",
+   "room"
+  ],
+  "compiled_at": "2026-07-28T11:18:30",
+  "compile_warnings": 0,
+  "duration_target_by": "you",
+  "style": {
+   "id": "as-referenced",
+   "name": "Same as your reference",
+   "family": "as-referenced",
+   "route": null,
+   "source": "reference",
+   "picked_at": "2026-08-12T12:41:34"
+  }
+ },
+ "dials": {
+  "narrative": 50,
+  "visual": 50,
+  "color": 50,
+  "sound": 50,
+  "editing": 50,
+  "continuity": 50,
+  "genre_blend": {
+   "luxury_brand_film": 0.5,
+   "surreal_fantasy": 0.3,
+   "lifestyle_montage": 0.2
+  }
+ },
+ "narrative": {
+  "logline": "A luxury developer argues that luxury is personal by touring a dozen impossible dream-spaces — each one someone's private definition — before handing the definition to you.",
+  "theme": "Luxury is subjective — it is whatever the individual decides it is.",
+  "tone_keywords": [
+   "aspirational",
+   "playful",
+   "surreal",
+   "opulent",
+   "witty",
+   "serene",
+   "confident"
+  ],
+  "narrative_pov": "second-person address — the VO speaks directly to 'you'",
+  "narrative_engine": "escalation",
+  "structure_model": "anaphora montage — a chain of 'it's…' vignettes escalating to a brand reveal",
+  "dialogue_density": "sparse (VO-only, short fragments)",
+  "beats": [
+   {
+    "id": "b1",
+    "name": "The question",
+    "pct_in": 0,
+    "synopsis": "'Luxury?' holds in gold over a grand living room — the thesis is posed.",
+    "emotional_charge": 1,
+    "tension": 30
+   },
+   {
+    "id": "b2",
+    "name": "It's subjective",
+    "pct_in": 3,
+    "synopsis": "Greenhouse bedroom, chinoiserie room, terracotta corridor and a teapot bathroom flash by — luxury refuses one look.",
+    "emotional_charge": 2,
+    "tension": 45
+   },
+   {
+    "id": "b3",
+    "name": "The moon flex",
+    "pct_in": 11,
+    "synopsis": "A man lounges on the moon — 'no suit, no shuttle, just custom flooring.'",
+    "emotional_charge": 3,
+    "tension": 50
+   },
+   {
+    "id": "b4",
+    "name": "Play & romance",
+    "pct_in": 22,
+    "synopsis": "A youth glides on a hoverboard by an infinity pool, then a couple waltzes in an empty ballroom.",
+    "emotional_charge": 3,
+    "tension": 55
+   },
+   {
+    "id": "b5",
+    "name": "Style, silence, water",
+    "pct_in": 35,
+    "synopsis": "A yellow-suited man with a bow-tied dog, a hushed library, an empty calm pool.",
+    "emotional_charge": 2,
+    "tension": 50
+   },
+   {
+    "id": "b6",
+    "name": "Queen, groove, outfits",
+    "pct_in": 58,
+    "synopsis": "A Moroccan spa, a dancer in a surreal pop room, a woman in a walk-in closet — the brightest run.",
+    "emotional_charge": 4,
+    "tension": 65
+   },
+   {
+    "id": "b7",
+    "name": "The owners",
+    "pct_in": 77,
+    "synopsis": "Mr. Shinoy takes high tea in an elevator; Mrs.' luxury purrs — a live cheetah.",
+    "emotional_charge": 4,
+    "tension": 70
+   },
+   {
+    "id": "b8",
+    "name": "For you to define",
+    "pct_in": 90,
+    "synopsis": "Fade to black; the ELEMENTS 'Luxury Living' logo resolves in white.",
+    "emotional_charge": 3,
+    "tension": 40
+   }
+  ],
+  "hook": {
+   "type": "provocative one-word question",
+   "promise": "we will redefine what luxury means — and it will surprise you",
+   "first_frame_visual": "a grand double-height living room with a floating white staircase, the word LUXURY? in gold serif across it",
+   "must_land_by_s": 2.1
+  },
+  "payoff": {
+   "at_pct": 92,
+   "description": "the ELEMENTS 'Luxury Living' logo resolves out of black with the line 'for you to define' — the anaphora is handed back to the viewer."
+  },
+  "loop": {
+   "enabled": false,
+   "seam_note": "ends on a brand end-card, not built to loop back to the open."
+  }
+ },
+ "world": {
+  "setting": "A suite of imaginary high-end interiors — each a self-contained fantasy of luxury living, in a real-estate / architectural-showcase register.",
+  "scale_logic": "Each vignette is a complete world of its own; there is no shared geography. The through-line is tone and the recurring gold accent, not place.",
+  "world_rules": [
+   "every space is aspirational, impossibly clean and fully styled",
+   "reality bends for the fantasy — a moon-floor lounge, a giant teapot shower, a pet cheetah indoors",
+   "one 'owner' character inhabits each hero space",
+   "the brand's argument (luxury = personal) overrides physical logic"
+  ],
+  "locations": [
+   {
+    "id": "@grand_living",
+    "name": "Grand double-height living room",
+    "visual_signature": "floating white cantilever staircase LEFT, tall central arched mirror, botanical wall mural, tan sofa + ottoman, cream palette",
+    "plate_ref": "kf01",
+    "default_tod": "soft daytime"
+   },
+   {
+    "id": "@greenhouse_bedroom",
+    "name": "Conservatory bedroom",
+    "visual_signature": "black steel four-poster bed under a full glass roof draped with hanging plants, warm wood floor, jungle of greenery on all sides",
+    "plate_ref": "kf03",
+    "default_tod": "dappled daylight"
+   },
+   {
+    "id": "@chinoiserie_bedroom",
+    "name": "Chinoiserie bedroom",
+    "visual_signature": "gilded folding screen painted with birds and blossoms, crimson bedding + red hanging lantern, potted palm, dark walls",
+    "plate_ref": "kf05",
+    "default_tod": "low warm interior"
+   },
+   {
+    "id": "@terracotta_corridor",
+    "name": "Vaulted terracotta corridor",
+    "visual_signature": "warm terracotta arches receding to a softly-lit white bed, vertical light-drape, trailing plants, single floor candle",
+    "plate_ref": "kf06",
+    "default_tod": "golden hour"
+   },
+   {
+    "id": "@teapot_bathroom",
+    "name": "Teapot bathroom",
+    "visual_signature": "blue-and-white delft-tiled bath with a GIANT teapot-shaped glass shower stall, glass skylight, twin gilt mirrors, patterned floor",
+    "plate_ref": "kf07",
+    "default_tod": "bright airy daylight"
+   },
+   {
+    "id": "@moon_lounge",
+    "name": "Moon lounge",
+    "visual_signature": "grey cratered lunar floor, mustard tufted 3-seat sofa, huge moon mural on the wall, two gold dome floor lamps, potted palms",
+    "plate_ref": "kf16",
+    "default_tod": "teal-and-gold twilight"
+   },
+   {
+    "id": "@poolside_terrace",
+    "name": "Villa poolside terrace",
+    "visual_signature": "glossy mirror-polished stone floor, glass walls, rectangular infinity pool over a valley, clipped topiary in planters, sun loungers",
+    "plate_ref": "kf27",
+    "default_tod": "bright midday"
+   },
+   {
+    "id": "@ballroom",
+    "name": "Grand columned ballroom",
+    "visual_signature": "vast white neoclassical hall, crystal chandeliers, grand piano LEFT, tall backlit draped windows, polished reflective floor",
+    "plate_ref": "kf30",
+    "default_tod": "cool backlit daylight"
+   },
+   {
+    "id": "@rose_parlor",
+    "name": "Rose-panelled parlor",
+    "visual_signature": "dusty-rose wainscot panelling, striped ochre 2-seat sofa, twin ornate floor lamps, small framed landscape, red-and-cream checkerboard marble floor",
+    "plate_ref": "kf42",
+    "default_tod": "warm window light"
+   },
+   {
+    "id": "@plant_library",
+    "name": "Overgrown library",
+    "visual_signature": "floor-to-ceiling wooden bookshelves, hanging plants, stacked old books, white blossoms in the foreground, misty window",
+    "plate_ref": "kf49",
+    "default_tod": "soft misty daylight"
+   },
+   {
+    "id": "@forest_pool",
+    "name": "Forest infinity pool",
+    "visual_signature": "still indoor pool facing a full glass wall onto forested mountains, gridded steel-framed glazing, potted palm in the corner",
+    "plate_ref": "kf55",
+    "default_tod": "overcast daylight"
+   },
+   {
+    "id": "@moroccan_spa",
+    "name": "Moroccan spa hall",
+    "visual_signature": "hand-plastered pink-beige walls, row of tall keyhole arches, sunken green reflecting pool, rust modular sofa + rug, potted palms, garden beyond",
+    "plate_ref": "kf61",
+    "default_tod": "soft diffused daylight"
+   },
+   {
+    "id": "@teal_pop_room",
+    "name": "Surreal pop room",
+    "visual_signature": "mint/teal moulded walls, pink chaise centre, twin red vintage hi-fi speaker stacks, pink frilled lamps, red-and-white checkerboard floor",
+    "plate_ref": "kf69",
+    "default_tod": "stylised interior, teal cast"
+   },
+   {
+    "id": "@pink_closet",
+    "name": "Pink walk-in closet",
+    "visual_signature": "all-pink arched dressing room, backlit shelves of shoes and handbags, round yellow velvet ottoman, patterned rug, drum chandelier",
+    "plate_ref": "kf75",
+    "default_tod": "even boutique light"
+   },
+   {
+    "id": "@wood_elevator",
+    "name": "Wood-panelled elevator",
+    "visual_signature": "dark walnut-panelled lift car, two brass swirl wall sconces with bulbs, tight symmetrical box",
+    "plate_ref": "kf82",
+    "default_tod": "warm bulb interior"
+   },
+   {
+    "id": "@gallery_salon",
+    "name": "Eclectic gallery salon",
+    "visual_signature": "terracotta-red walls packed with framed art and animal prints, round pedestal table, red armchair, patterned tile floor, many plants",
+    "plate_ref": "kf88",
+    "default_tod": "warm afternoon"
+   },
+   {
+    "id": "@logo_card",
+    "name": "Brand end-card",
+    "visual_signature": "solid black field; white serif ELEMENTS wordmark above a barcode-like skyscraper mark, spaced 'LUXURY LIVING' tagline beneath",
+    "plate_ref": "kf95",
+    "default_tod": "n/a — graphic card"
+   }
+  ],
+  "characters": [
+   {
+    "id": "@moon_man",
+    "name": "Moon-lounge man",
+    "role": "owner of the moon vignette",
+    "visual_signature": "tailored mid-blue suit, grey knit under, tan leather wingtip brogues, short beard, relaxed open posture",
+    "materials": "wool suit, leather brogues",
+    "motion_signature": "leans back, one arm along the sofa, faint satisfied smile — near-still",
+    "sheet_ref": "kf13",
+    "scale_anchor": "adult male seated on a 3-seat sofa",
+    "voice_desc": null
+   },
+   {
+    "id": "@hoverboard_rider",
+    "name": "Hoverboard youth",
+    "role": "owner of the poolside vignette",
+    "visual_signature": "salmon-pink hooded sweatshirt, white shorts, white crew socks, white sneakers, over-ear teal headphones, short dark curls",
+    "materials": "cotton hoodie, foam sneakers",
+    "motion_signature": "glides on a self-balancing board, arms out for balance, drifts toward the pool",
+    "sheet_ref": "kf27",
+    "scale_anchor": "adult standing on a hoverboard",
+    "voice_desc": null
+   },
+   {
+    "id": "@ballroom_woman",
+    "name": "Dancing woman",
+    "role": "half of the ballroom couple",
+    "visual_signature": "floor-length golden-mustard satin gown, dark hair up, later in a pale embroidered top; graceful extended arm",
+    "materials": "satin gown",
+    "motion_signature": "waltzes, gown trailing, spins into the man's lead",
+    "sheet_ref": "kf31",
+    "scale_anchor": "adult female standing",
+    "voice_desc": null
+   },
+   {
+    "id": "@ballroom_man",
+    "name": "Dancing man",
+    "role": "half of the ballroom couple",
+    "visual_signature": "dark navy/charcoal suit, silver-grey hair, older, hand at the woman's back",
+    "materials": "wool suit",
+    "motion_signature": "leads the waltz, turning slowly",
+    "sheet_ref": "kf34",
+    "scale_anchor": "adult male standing",
+    "voice_desc": null
+   },
+   {
+    "id": "@dapper_dog_man",
+    "name": "Yellow-suit gentleman",
+    "role": "owner of the rose parlor",
+    "visual_signature": "canary-yellow three-piece suit, straw boater hat, patterned tie, tan brogues, seated with one hand on the dog",
+    "materials": "linen/wool suit, straw hat",
+    "motion_signature": "poses seated, symmetrical, adjusting the dog's bow tie",
+    "sheet_ref": "kf42",
+    "scale_anchor": "adult male seated on a 2-seat sofa",
+    "voice_desc": null
+   },
+   {
+    "id": "@book_reader",
+    "name": "Library reader",
+    "role": "owner of the library vignette",
+    "visual_signature": "dark clothing, grey-streaked hair, seated cross-legged reading a book among plants and flowers",
+    "materials": "dark knit/coat, leather shoes",
+    "motion_signature": "sits still, turns a page, absorbed",
+    "sheet_ref": "kf49",
+    "scale_anchor": "adult seated in a book alcove",
+    "voice_desc": null
+   },
+   {
+    "id": "@swimmer",
+    "name": "Pool swimmer",
+    "role": "owner of the forest-pool vignette",
+    "visual_signature": "long dark wet hair, bare shoulders, rises and turns in the water with eyes closed, serene",
+    "materials": "water",
+    "motion_signature": "surfaces, turns, sweeps arms through the water — gentle splashes",
+    "sheet_ref": "kf55",
+    "scale_anchor": "adult female shoulder-deep in a pool",
+    "voice_desc": null
+   },
+   {
+    "id": "@spa_woman",
+    "name": "Spa woman",
+    "role": "owner of the Moroccan spa",
+    "visual_signature": "loose white robe/kaftan set, dark hair down, barefoot, reclined on a rust sofa, eyes closed",
+    "materials": "white robe",
+    "motion_signature": "reclines, near-still, faint restful smile",
+    "sheet_ref": "kf61",
+    "scale_anchor": "adult female reclining",
+    "voice_desc": null
+   },
+   {
+    "id": "@pop_dancer",
+    "name": "Pop-room dancer",
+    "role": "owner of the surreal pop room",
+    "visual_signature": "blue-check overshirt over white tee, light-mint baggy jeans, round white sunglasses, red high-top sneakers, dark curls",
+    "materials": "cotton shirt, denim, canvas sneakers",
+    "motion_signature": "big energetic wide-legged poses and gestures on/over the pink chaise",
+    "sheet_ref": "kf69",
+    "scale_anchor": "adult male seated/posing on a low chaise",
+    "voice_desc": null
+   },
+   {
+    "id": "@closet_woman",
+    "name": "Closet woman",
+    "role": "owner of the walk-in closet",
+    "visual_signature": "spaghetti-strap golden-yellow gown, long wavy dark hair, holding a burgundy clutch, turns to camera",
+    "materials": "chiffon gown, leather clutch",
+    "motion_signature": "turns from the shelves toward camera, holds the clutch up, smiles",
+    "sheet_ref": "kf75",
+    "scale_anchor": "adult female standing",
+    "voice_desc": null
+   },
+   {
+    "id": "@tea_gentleman",
+    "name": "Mr. Shinoy",
+    "role": "named owner — elevator vignette",
+    "visual_signature": "pink tweed three-piece suit, waxed grey handlebar moustache, slicked hair, mint pocket square, sipping from a teacup",
+    "materials": "tweed suit, porcelain cup",
+    "motion_signature": "raises the teacup, sips, lowers it with a wide-eyed satisfied look",
+    "sheet_ref": "kf82",
+    "scale_anchor": "adult male seated/standing in a lift car",
+    "voice_desc": null
+   },
+   {
+    "id": "@cheetah_host",
+    "name": "Gallery eccentric (Mrs.)",
+    "role": "owner of the gallery salon",
+    "visual_signature": "vertically-striped red kaftan, round dark glasses, headwrap, seated poised in an armchair",
+    "materials": "striped robe",
+    "motion_signature": "sits very still, regal, facing camera",
+    "sheet_ref": "kf88",
+    "scale_anchor": "adult seated in an armchair",
+    "voice_desc": null
+   },
+   {
+    "id": "@pet_cheetah",
+    "name": "Pet cheetah",
+    "role": "the 'it purrs' punchline animal",
+    "visual_signature": "spotted cheetah, standing then sitting beside the armchair, indoors as a house pet",
+    "materials": "fur",
+    "motion_signature": "stands, then settles and sits at the host's side",
+    "sheet_ref": "kf90",
+    "scale_anchor": "adult cheetah beside a seated human",
+    "voice_desc": null
+   }
+  ],
+  "props": [
+   {
+    "id": "@elements_logo",
+    "name": "ELEMENTS 'Luxury Living' logo",
+    "hero": true,
+    "visual_signature": "white serif ELEMENTS wordmark, a barcode-like skyscraper mark above it, spaced 'LUXURY LIVING' tagline below, on black",
+    "ref": "kf95",
+    "states": [
+     "black kf91-92",
+     "'ELEMENTS' only kf93",
+     "wordmark + mark + full tagline built kf95-100"
+    ]
+   },
+   {
+    "id": "@yellow_bowtie",
+    "name": "Yellow bow tie",
+    "hero": false,
+    "visual_signature": "a bright canary-yellow bow tie fastened at the throat of a speckled pointer dog",
+    "ref": "kf38",
+    "states": [
+     "being fastened by a hand kf37-39",
+     "worn by the seated dog kf40-43"
+    ]
+   },
+   {
+    "id": "@bowtie_dog",
+    "name": "Bow-tied pointer dog",
+    "hero": false,
+    "visual_signature": "brown-and-white speckled pointer/hound, floppy ears, seated upright, wearing the yellow bow tie",
+    "ref": "kf42",
+    "states": [
+     "alone on the striped sofa kf37-39",
+     "seated beside the yellow-suit man kf40-43"
+    ]
+   },
+   {
+    "id": "@hoverboard",
+    "name": "Self-balancing hoverboard",
+    "hero": false,
+    "visual_signature": "white two-wheel self-balancing board, black tyres, red LED strip, foot-pads with a centre pillar",
+    "ref": "kf22",
+    "states": [
+     "ridden facing camera kf19-23",
+     "ridden away toward the pool kf24-28"
+    ]
+   },
+   {
+    "id": "@teacup",
+    "name": "Gold-rimmed teacup",
+    "hero": false,
+    "visual_signature": "white porcelain teacup + saucer with a gold rim/motif, held to Mr. Shinoy's lips",
+    "ref": "kf82",
+    "states": [
+     "raised and sipping kf76,81",
+     "lowered kf83"
+    ]
+   },
+   {
+    "id": "@old_book",
+    "name": "Old hardback",
+    "hero": false,
+    "visual_signature": "thick yellowed-page hardback held open in the hands, warm library behind",
+    "ref": "kf45",
+    "states": [
+     "pages turning in elderly hands kf44-46",
+     "held by the seated library reader kf47-51"
+    ]
+   },
+   {
+    "id": "@elevator_panel",
+    "name": "Elevator floor indicator",
+    "hero": false,
+    "visual_signature": "brass-framed cream panel with round numbered buttons 1 2 3 4 5, two bulb lights above",
+    "ref": "kf80",
+    "states": [
+     "none lit kf79",
+     "the '3' illuminated kf80"
+    ]
+   }
+  ],
+  "continuity_rules": [
+   "moon man: blue suit + tan wingtip brogues in the low insert (kf09-11) must match the seated figure on the moon sofa (kf12-18)",
+   "yellow bow tie: fastened by a mustard-sleeved hand on the dog (kf37-39) → worn by the seated dog beside the yellow-suit man (kf40-43)",
+   "elevator floor panel: no button lit (kf79) → the '3' lights up (kf80); same walnut car as the tea gentleman (kf76-83)",
+   "brand end-card build: solid black (kf91-92) → 'ELEMENTS' alone (kf93) → wordmark + building mark + 'LUXURY LIVING' tagline fully formed (kf95-100)",
+   "the gold/mustard-yellow accent must recur at least once per vignette (gold word, yellow sofa, mustard gown, yellow suit + bow tie, yellow gown) — it is the film's visual signature"
+  ]
+ },
+ "cinematography": {
+  "camera_analog": "clean digital-cinema look styled as a high-end real-estate / commercial reel; AI-generated, so no true lens — the feel is anamorphic-flavoured widescreen",
+  "format_texture": "crisp and glossy; high-key in the daylight spaces, moody chiaroscuro in the ballroom and elevator; minimal grain",
+  "lens_set": [
+   "wide establishing (~24-35mm feel)",
+   "detail inserts (~50-85mm feel)",
+   "one low ultra-wide for the pop room"
+  ],
+  "depth_of_field": "mostly deep for the interiors so the whole space reads; shallow on the detail inserts (shoes, hands, bow tie, teacup)",
+  "movement_vocab": [
+   "slow push-in",
+   "slow orbit/arc",
+   "locked wide with the subject moving inside it",
+   "tracking follow (hoverboard)",
+   "static detail insert"
+  ],
+  "movement_forbidden": [
+   "shaky handheld",
+   "whip pans",
+   "fast punch-zooms",
+   "drone-style flybys"
+  ],
+  "shot_size_mix": {
+   "ECU": 5,
+   "CU": 15,
+   "MCU": 10,
+   "MS": 20,
+   "WS": 35,
+   "EWS": 15
+  },
+  "angle_bias": "eye-level to slightly low; strong central symmetry favoured; one dramatic low ultra-wide for the pop-room dance",
+  "composition_rules": [
+   "centre the hero space symmetrically",
+   "let the architecture frame the subject (arches, columns, doorways, the lift box)",
+   "leave negative space early for the on-screen serif word",
+   "make the subject small inside a large, richly-dressed volume"
+  ]
+ },
+ "color_light": {
+  "palette": {
+   "primary": [
+    {
+     "hex": "#EDE6D6",
+     "name": "warm cream"
+    },
+    {
+     "hex": "#B4506A",
+     "name": "dusty rose"
+    },
+    {
+     "hex": "#4FB0B0",
+     "name": "pop teal"
+    }
+   ],
+   "secondary": [
+    {
+     "hex": "#3E5A3A",
+     "name": "foliage green"
+    },
+    {
+     "hex": "#2E6FA7",
+     "name": "suit blue"
+    },
+    {
+     "hex": "#A85C3B",
+     "name": "terracotta"
+    }
+   ],
+   "accent": [
+    {
+     "hex": "#E0A81E",
+     "name": "luxury gold"
+    },
+    {
+     "hex": "#F2C230",
+     "name": "canary yellow"
+    },
+    {
+     "hex": "#C0392B",
+     "name": "vermilion"
+    }
+   ],
+   "forbidden": [
+    "flat lifeless grey as a dominant field (reserved only for the black end-card reset)"
+   ]
+  },
+  "color_script": [
+   {
+    "beat_id": "b1",
+    "dominant_hue": "warm cream / beige",
+    "saturation": "medium",
+    "brightness": "high",
+    "mood": "inviting, poised"
+   },
+   {
+    "beat_id": "b2",
+    "dominant_hue": "green + delft blue + crimson (shifting)",
+    "saturation": "high",
+    "brightness": "mixed",
+    "mood": "eclectic, restless"
+   },
+   {
+    "beat_id": "b3",
+    "dominant_hue": "teal + mustard gold",
+    "saturation": "medium-high",
+    "brightness": "medium",
+    "mood": "surreal, playful"
+   },
+   {
+    "beat_id": "b4",
+    "dominant_hue": "bright daylight blue, then cool desaturated blue",
+    "saturation": "medium",
+    "brightness": "high→low",
+    "mood": "free, then grand"
+   },
+   {
+    "beat_id": "b5",
+    "dominant_hue": "dusty rose + yellow; warm amber; teal-green",
+    "saturation": "medium",
+    "brightness": "mixed",
+    "mood": "witty, hushed, serene"
+   },
+   {
+    "beat_id": "b6",
+    "dominant_hue": "blush + green; teal/pink/red; pink + yellow",
+    "saturation": "high",
+    "brightness": "high",
+    "mood": "the brightest, most joyful run"
+   },
+   {
+    "beat_id": "b7",
+    "dominant_hue": "warm wood + pink; terracotta red",
+    "saturation": "medium-high",
+    "brightness": "medium",
+    "mood": "eccentric, comic"
+   },
+   {
+    "beat_id": "b8",
+    "dominant_hue": "black + white",
+    "saturation": "none",
+    "brightness": "low",
+    "mood": "clean, definitive"
+   }
+  ],
+  "grade": {
+   "look_name": "glossy luxury-commercial",
+   "contrast": "medium-high",
+   "film_stock": "digital, clean (no stock emulation)",
+   "grain": {
+    "amount": "low",
+    "size": "fine"
+   },
+   "halation": "subtle bloom around windows, skylights and practicals"
+  },
+  "lighting": {
+   "style_key": "motivated natural light — big windows, skylights and backlight carry most spaces",
+   "quality": "soft, wrapping",
+   "key_fill_ratio": "varies by vignette: high-key/near-even in the pool, hoverboard and closet; low-key chiaroscuro in the ballroom and elevator",
+   "motivation": "windows, chandeliers, floor lamps and wall sconces as practicals",
+   "hue_lock": "warm daylight as the default, with a cool blue reserved for the moody vignettes (moon, ballroom)"
+  }
+ },
+ "editing": {
+  "asl_target_s": 2.12,
+  "shot_count_estimate": 24,
+  "pace_curve": [
+   {
+    "at_pct": 5,
+    "asl_s": 1
+   },
+   {
+    "at_pct": 15,
+    "asl_s": 1.3
+   },
+   {
+    "at_pct": 35,
+    "asl_s": 2.3
+   },
+   {
+    "at_pct": 60,
+    "asl_s": 2.5
+   },
+   {
+    "at_pct": 90,
+    "asl_s": 4.5
+   }
+  ],
+  "rhythm_style": "anaphoric montage that settles — quick teasing cuts up front (~1.0-1.5s), opening out to longer contemplative holds on the hero spaces (up to ~6s)",
+  "transitions": {
+   "default": "hard cut",
+   "allowed": [
+    "hard cut",
+    "fade to black (into the logo)"
+   ],
+   "forbidden": [
+    "dissolve",
+    "wipe",
+    "whip pan"
+   ]
+  },
+  "match_cut_motifs": [
+   "the gold/mustard-yellow accent is carried across cuts as the visual glue",
+   "the on-screen gold serif word (LUXURY? → IT'S SUBJECTIVE → SUBJECTIVE) links the first three shots"
+  ],
+  "longest_hold_s": 5.96
+ },
+ "sound": {
+  "music": {
+   "genre": "upbeat, groove-forward bed — bright and percussive (measured, not named)",
+   "bpm": 143.6,
+   "instrumentation": [
+    "prominent percussion / hi-hats (57% percussive energy)",
+    "a bright harmonic layer — synth or plucked (42% harmonic, centroid ~2300 Hz = airy)",
+    "steady low-end groove"
+   ],
+   "dynamics_arc": "flat and loud — only 2.0 LU of range and -10.7 LUFS integrated; drives continuously with no dips under the whole film (instrument names are inferred from brightness + harmonic/percussive split — treat as approximate)"
+  },
+  "vo": {
+   "presence": "wall-to-wall — one continuous voiced take covering ~86% of the runtime (first word 0.0s, last 49.6s)",
+   "style": "conversational, playful and fragmentary — a running list of definitions of luxury",
+   "voice_desc": "MEASURED delivery only: ~129 WPM while words land (112 gross), median pitch 78.2 Hz across a wide 13.5-semitone range (animated, not flat), no breath pauses, pushing faster toward the close. Timbre, age, gender and accent were not measured and are not claimed.",
+   "delivery": {
+    "wpm": 129,
+    "pace_note": "conversational while landing; 112 WPM gross across the runtime; accelerates from ~106 WPM at the open to ~160 WPM near the close",
+    "pause_style": "no measured silence between the first and last word — the delivery never stops for breath; inter-line beats sit ~0.9-1.5s (longest 1.47s)",
+    "pitch_note": "low median at 78.2 Hz, reaching 141.8 Hz at p90 and dropping to 65.0 Hz at p10",
+    "range_note": "13.5 semitones — an animated, varied read, well clear of a monotone"
+   },
+   "accent": {
+    "claim": null,
+    "basis": null
+   },
+   "script": [
+    {
+     "i": 1,
+     "t": 0.6,
+     "line": "Luxury.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "the hook — names the subject as a single loaded word",
+     "over": "grand double-height living room, the gold word LUXURY? held across it",
+     "why_it_lands": "a bare abstract noun over a picture-perfect room dares you to define it"
+    },
+    {
+     "i": 2,
+     "t": 1.6,
+     "line": "It's subjective.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "the turn — refuses a fixed meaning",
+     "over": "glass greenhouse bedroom as gold 'IT'S SUBJECTIVE' builds on",
+     "why_it_lands": "the thesis lands exactly as the space flips from grand to wild"
+    },
+    {
+     "i": 3,
+     "t": 2.9,
+     "line": "Deeply subjective.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "doubles down on the thesis",
+     "over": "fast flashes of a chinoiserie bedroom, a terracotta corridor, a teapot bathroom",
+     "why_it_lands": "the rapid cuts sell how many ways luxury can look"
+    },
+    {
+     "i": 4,
+     "t": 4.5,
+     "line": "Fil.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "a clipped fragment riding the cut into the surreal turn",
+     "over": "low insert of tan brogues on a grey moon-cratered floor",
+     "why_it_lands": "a half-word on a fast cut keeps the montage breathless (caption fragment; picture doesn't prove a fix)"
+    },
+    {
+     "i": 5,
+     "t": 5.7,
+     "line": "It's the moon.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "example #1 — an absurd flex",
+     "over": "man in a blue suit lounging on a mustard sofa on the lunar surface, giant moon behind",
+     "why_it_lands": "the literal moon-room makes 'subjective' visual and funny"
+    },
+    {
+     "i": 6,
+     "t": 6.8,
+     "line": "No suit, no shuttle, just custom flooring.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "the joke's punch — reframes the moon as an interiors brag",
+     "over": "the same moon-lounge hero hold, cratered 'floor' filling the frame",
+     "why_it_lands": "'custom flooring' turns a spacewalk into a design flex"
+    },
+    {
+     "i": 7,
+     "t": 10.1,
+     "line": "It's hoverboarding because walking is so par.",
+     "corrected": true,
+     "heard_as": "It's overboarding because walking is so par.",
+     "does": "example #2 — luxury as effortless play",
+     "over": "youth in a pink hoodie gliding on a hoverboard toward an infinity pool",
+     "why_it_lands": "the hoverboard is literally on screen — 'overboarding' is a mishear of 'hoverboarding'"
+    },
+    {
+     "i": 8,
+     "t": 14.9,
+     "line": "Perhaps it's dancing in a ballroom meant for two.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "example #3 — romance and grandeur",
+     "over": "a couple waltzing alone in a vast white columned ballroom",
+     "why_it_lands": "'meant for two' is literalized by the empty hall built for one couple"
+    },
+    {
+     "i": 9,
+     "t": 19.1,
+     "line": "Or it's the kind of style that makes walls blush.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "example #4 — style as personality",
+     "over": "a man in a yellow suit + boater beside a bow-tied dog in a rose-pink room",
+     "why_it_lands": "the blushing rose walls pay off 'makes walls blush' as a visual pun"
+    },
+    {
+     "i": 10,
+     "t": 23.2,
+     "line": "A conversation between privacy and silence.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "example #5 — luxury as solitude",
+     "over": "a figure reading in a hushed, plant-and-book-filled library",
+     "why_it_lands": "the still book-lined room is the picture of private silence"
+    },
+    {
+     "i": 11,
+     "t": 27.1,
+     "line": "It's a pool with no screaming children.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "example #6 — the witty comfort flex",
+     "over": "a woman alone, serene, rising in a still indoor infinity pool by the forest",
+     "why_it_lands": "the empty calm pool is the literal payoff of 'no screaming children'"
+    },
+    {
+     "i": 12,
+     "t": 30.7,
+     "line": "Maybe it's living like a queen or a room that matches your groove.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "example #7 — two options folded into one line",
+     "over": "the Moroccan-spa hold, then a young man grooving in a surreal pop room",
+     "why_it_lands": "'queen' and 'groove' split cleanly across the spa-then-dance visuals"
+    },
+    {
+     "i": 13,
+     "t": 36.4,
+     "line": "It's an outfit for every mood.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "example #8 — luxury as self-expression",
+     "over": "a woman in a yellow gown turning in a pink walk-in closet of shoes and bags",
+     "why_it_lands": "the endless closet is 'an outfit for every mood' made concrete"
+    },
+    {
+     "i": 14,
+     "t": 39.4,
+     "line": "For Mr. Shinoy, it's high tea in an elevator.",
+     "corrected": true,
+     "heard_as": "For Mr. Shinoy, it's Heidi in an elevator.",
+     "does": "names a specific owner — personalizes the thesis",
+     "over": "a mustached gentleman in a pink suit sipping tea inside a wood-panelled elevator",
+     "why_it_lands": "he is literally taking tea in a lift — 'high tea' fits the picture; 'Heidi' is a mishear"
+    },
+    {
+     "i": 15,
+     "t": 42.6,
+     "line": "And for Mrs.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "sets up the paired gag, then trails off",
+     "over": "cut to an eccentric in a striped robe and dark glasses in an art-crammed salon",
+     "why_it_lands": "the unfinished 'Mrs.' hands the reveal to the picture that follows"
+    },
+    {
+     "i": 16,
+     "t": 44.6,
+     "line": "It purrs.",
+     "corrected": true,
+     "heard_as": "It burrs",
+     "does": "the button on the pair — the punchline",
+     "over": "a live cheetah stands, then sits, beside the seated eccentric",
+     "why_it_lands": "the big cat is the thing that 'purrs'; 'burrs' is the caption's mishear"
+    },
+    {
+     "i": 17,
+     "t": 46.7,
+     "line": "Elements luxury living — for you to define.",
+     "corrected": false,
+     "heard_as": null,
+     "does": "the brand button — hands the definition back to the viewer",
+     "over": "black screen resolving into the white ELEMENTS 'Luxury Living' logo",
+     "why_it_lands": "'for you to define' closes the anaphora by returning every 'it's…' to you"
+    }
+   ],
+   "pattern": {
+    "device": "anaphora — most lines begin 'It's…' (8 of ~17: 5 bare, 3 carried in on perhaps / or / maybe)",
+    "line_shape": "a short fragment, ~6 words, each delivering one surprising definition of luxury",
+    "how_it_opens": "a flat abstract noun ('Luxury.') immediately undercut by the thesis ('It's subjective')",
+    "how_it_lands": "names two specific owners, then hands the definition to the audience — 'for you to define'",
+    "borrow_this": "keep the 'it's…' anchor on ~8 of ~17 lines — the repetition IS the structure; do not vary it away"
+   }
+  },
+  "sfx_motifs": [
+   {
+    "name": "cat purr",
+    "desc": "a low feline purr",
+    "trigger": "the 'it purrs' line / the cheetah on screen (shot 23)"
+   },
+   {
+    "name": "water",
+    "desc": "pool splashes and water movement",
+    "trigger": "the swimming and spa vignettes (shots 17-18)"
+   }
+  ],
+  "ambience_beds": [
+   {
+    "location_id": "@forest_pool",
+    "desc": "indoor pool water lapping, glassy room tone"
+   },
+   {
+    "location_id": "@moroccan_spa",
+    "desc": "quiet trickling water and still, warm air"
+   }
+  ],
+  "silence_policy": "none — the track never drops below -45 dBFS for 0.35s; music and VO run wall-to-wall with no held silence, the mix pushed loud (-10.7 LUFS, true peak 0.6 dBFS)"
+ },
+ "scenes": [
+  {
+   "id": "s1",
+   "act": 1,
+   "slug": "LUXURY? — the question",
+   "beat_ids": [
+    "b1"
+   ],
+   "location_id": "@grand_living",
+   "characters": [],
+   "shots": [
+    1
+   ],
+   "emotional_shift": "neutral → curiosity"
+  },
+  {
+   "id": "s2",
+   "act": 1,
+   "slug": "It's subjective — the flip-book",
+   "beat_ids": [
+    "b2"
+   ],
+   "location_id": "@greenhouse_bedroom",
+   "characters": [],
+   "shots": [
+    2,
+    3,
+    5,
+    6
+   ],
+   "emotional_shift": "curiosity → delight"
+  },
+  {
+   "id": "s3",
+   "act": 1,
+   "slug": "The moon lounge",
+   "beat_ids": [
+    "b3"
+   ],
+   "location_id": "@moon_lounge",
+   "characters": [
+    "@moon_man"
+   ],
+   "shots": [
+    7,
+    8
+   ],
+   "emotional_shift": "delight → surreal amusement"
+  },
+  {
+   "id": "s4",
+   "act": 2,
+   "slug": "Hoverboard by the pool",
+   "beat_ids": [
+    "b4"
+   ],
+   "location_id": "@poolside_terrace",
+   "characters": [
+    "@hoverboard_rider"
+   ],
+   "shots": [
+    9,
+    10
+   ],
+   "emotional_shift": "amusement → freedom"
+  },
+  {
+   "id": "s5",
+   "act": 2,
+   "slug": "Ballroom for two",
+   "beat_ids": [
+    "b4"
+   ],
+   "location_id": "@ballroom",
+   "characters": [
+    "@ballroom_woman",
+    "@ballroom_man"
+   ],
+   "shots": [
+    11,
+    12
+   ],
+   "emotional_shift": "freedom → romance"
+  },
+  {
+   "id": "s6",
+   "act": 2,
+   "slug": "Style that makes walls blush",
+   "beat_ids": [
+    "b5"
+   ],
+   "location_id": "@rose_parlor",
+   "characters": [
+    "@dapper_dog_man",
+    "@bowtie_dog"
+   ],
+   "shots": [
+    13,
+    14
+   ],
+   "emotional_shift": "romance → whimsy"
+  },
+  {
+   "id": "s7",
+   "act": 2,
+   "slug": "Privacy and silence",
+   "beat_ids": [
+    "b5"
+   ],
+   "location_id": "@plant_library",
+   "characters": [
+    "@book_reader"
+   ],
+   "shots": [
+    15,
+    16
+   ],
+   "emotional_shift": "whimsy → stillness"
+  },
+  {
+   "id": "s8",
+   "act": 2,
+   "slug": "A pool with no screaming children",
+   "beat_ids": [
+    "b5"
+   ],
+   "location_id": "@forest_pool",
+   "characters": [
+    "@swimmer"
+   ],
+   "shots": [
+    17
+   ],
+   "emotional_shift": "stillness → serenity"
+  },
+  {
+   "id": "s9",
+   "act": 3,
+   "slug": "Living like a queen",
+   "beat_ids": [
+    "b6"
+   ],
+   "location_id": "@moroccan_spa",
+   "characters": [
+    "@spa_woman"
+   ],
+   "shots": [
+    18
+   ],
+   "emotional_shift": "serenity → indulgence"
+  },
+  {
+   "id": "s10",
+   "act": 3,
+   "slug": "Groove & the outfit for every mood",
+   "beat_ids": [
+    "b6"
+   ],
+   "location_id": "@teal_pop_room",
+   "characters": [
+    "@pop_dancer",
+    "@closet_woman"
+   ],
+   "shots": [
+    19
+   ],
+   "emotional_shift": "indulgence → joy"
+  },
+  {
+   "id": "s11",
+   "act": 3,
+   "slug": "Mr. Shinoy's high tea",
+   "beat_ids": [
+    "b7"
+   ],
+   "location_id": "@wood_elevator",
+   "characters": [
+    "@tea_gentleman"
+   ],
+   "shots": [
+    20,
+    21,
+    22
+   ],
+   "emotional_shift": "joy → comic delight"
+  },
+  {
+   "id": "s12",
+   "act": 3,
+   "slug": "And for Mrs. — it purrs",
+   "beat_ids": [
+    "b7"
+   ],
+   "location_id": "@gallery_salon",
+   "characters": [
+    "@cheetah_host",
+    "@pet_cheetah"
+   ],
+   "shots": [
+    23
+   ],
+   "emotional_shift": "comic delight → wonder"
+  },
+  {
+   "id": "s13",
+   "act": 3,
+   "slug": "For you to define — brand card",
+   "beat_ids": [
+    "b8"
+   ],
+   "location_id": "@logo_card",
+   "characters": [],
+   "shots": [
+    24
+   ],
+   "emotional_shift": "wonder → resolve"
+  }
+ ],
+ "consistency": {
+  "ref_order_rule": "kf refs are numbered 1..100 in the exact order the frames were supplied; a range like kf12-18 names the clearest run for that element",
+  "max_refs_per_gen": 4,
+  "blessed_only": true,
+  "drift_checks": [
+   "the gold/mustard-yellow accent must appear at least once in every vignette",
+   "each hero space keeps exactly one owner-character",
+   "the ELEMENTS logo is always white on black, serif, with the barcode-like skyscraper mark",
+   "the moon man's blue suit + tan brogues must match between the insert and the wide",
+   "the elevator gentleman's pink tweed suit + handlebar moustache stay identical across shots 20 and 22"
+  ]
+ },
+ "compiled": {
+  "schema": 1,
+  "look_clause": "glossy luxury-commercial · digital, clean (no stock emulation) · medium-high contrast · low fine grain · subtle bloom around windows, skylights and practicals halation · palette #EDE6D6 warm cream, #B4506A dusty rose, #4FB0B0 pop teal, #E0A81E luxury gold · motivated natural light — big windows, skylights and backlight carry most spaces · soft, wrapping · key:fill varies by vignette: high-key/near-even in the pool, hoverboard and closet; low-key chiaroscuro in the ballroom and elevator · motivated by windows, chandeliers, floor lamps and wall sconces as practicals · HUE LOCK: warm daylight as the default, with a cool blue reserved for the moody vignettes (moon, ballroom)",
+  "camera_clause": "wide establishing (~24-35mm feel), detail inserts (~50-85mm feel), one low ultra-wide for the pop room only · clean digital-cinema look styled as a high-end real-estate / commercial reel; AI-generated, so no true lens — the feel is anamorphic-flavoured widescreen · crisp and glossy; high-key in the daylight spaces, moody chiaroscuro in the ballroom and elevator; minimal grain · mostly deep for the interiors so the whole space reads; shallow on the detail inserts (shoes, hands, bow tie, teacup) · eye-level to slightly low; strong central symmetry favoured; one dramatic low ultra-wide for the pop-room dance · moves: slow push-in, slow orbit/arc, locked wide with the subject moving inside it, tracking follow (hoverboard) · centre the hero space symmetrically · let the architecture frame the subject (arches, columns, doorways, the lift box) · leave negative space early for the on-screen serif word",
+  "forbid": [
+   "shaky handheld",
+   "whip pans",
+   "fast punch-zooms",
+   "drone-style flybys",
+   "dissolve",
+   "wipe",
+   "whip pan"
+  ],
+  "palette": [
+   {
+    "hex": "#EDE6D6",
+    "name": "warm cream"
+   },
+   {
+    "hex": "#B4506A",
+    "name": "dusty rose"
+   },
+   {
+    "hex": "#4FB0B0",
+    "name": "pop teal"
+   },
+   {
+    "hex": "#E0A81E",
+    "name": "luxury gold"
+   },
+   {
+    "hex": "#F2C230",
+    "name": "canary yellow"
+   }
+  ],
+  "cut": {
+   "asl_s": 2.12,
+   "shot_count": 24,
+   "longest_hold_s": 5.96,
+   "rhythm": "anaphoric montage that settles — quick teasing cuts up front (~1.0-1.5s), opening out to longer contemplative holds on the hero spaces (up to ~6s)",
+   "default_transition": "hard cut",
+   "forbid": [
+    "dissolve",
+    "wipe",
+    "whip pan"
+   ],
+   "match_cuts": [
+    "the gold/mustard-yellow accent is carried across cuts as the visual glue",
+    "the on-screen gold serif word (LUXURY? → IT'S SUBJECTIVE → SUBJECTIVE) links the first three shots"
+   ]
+  },
+  "audio": {
+   "bpm": 143.6,
+   "lufs": null,
+   "genre": "upbeat, groove-forward bed — bright and percussive (measured, not named)",
+   "instruments": [
+    "prominent percussion / hi-hats (57% percussive energy)",
+    "a bright harmonic layer — synth or plucked (42% harmonic, centroid ~2300 Hz = airy)",
+    "steady low-end groove"
+   ],
+   "arc": "flat and loud — only 2.0 LU of range and -10.7 LUFS integrated; drives continuously with no dips under the whole film (instrument names are inferred from brightness + harmonic/percussive split — treat as approximate)",
+   "silence_policy": "none — the track never drops below -45 dBFS for 0.35s; music and VO run wall-to-wall with no held silence, the mix pushed loud (-10.7 LUFS, true peak 0.6 dBFS)"
+  },
+  "vo": {
+   "presence": "wall-to-wall — one continuous voiced take covering ~86% of the runtime (first word 0.0s, last 49.6s)",
+   "style": "conversational, playful and fragmentary — a running list of definitions of luxury",
+   "pace_note": "conversational while landing; 112 WPM gross across the runtime; accelerates from ~106 WPM at the open to ~160 WPM near the close",
+   "pause_style": "no measured silence between the first and last word — the delivery never stops for breath; inter-line beats sit ~0.9-1.5s (longest 1.47s)",
+   "script": [
+    "Luxury.",
+    "It's subjective.",
+    "Deeply subjective.",
+    "Fil.",
+    "It's the moon.",
+    "No suit, no shuttle, just custom flooring.",
+    "It's overboarding because walking is so par.",
+    "Perhaps it's dancing in a ballroom meant for two.",
+    "Or it's the kind of style that makes walls blush.",
+    "A conversation between privacy and silence.",
+    "It's a pool with no screaming children.",
+    "Maybe it's living like a queen or a room that matches your groove.",
+    "It's an outfit for every mood.",
+    "For Mr. Shinoy, it's Heidi in an elevator.",
+    "And for Mrs.",
+    "It burrs",
+    "elements luxury living for you to define."
+   ],
+   "script_pattern": {
+    "lines": 17,
+    "words": 94,
+    "wpm_in_line": 160,
+    "wpm_gross": 111,
+    "speaking_s": 35.2,
+    "words_per_line": {
+     "min": 1,
+     "median": 6,
+     "max": 13,
+     "mean": 5.5
+    },
+    "short_line_share": 0.41,
+    "questions": 0,
+    "anaphora": {
+     "phrase": "it's",
+     "hits": 8,
+     "share": 0.47,
+     "bare": 5,
+     "carried": 3,
+     "variants": [
+      "perhaps",
+      "or",
+      "maybe"
+     ]
+    },
+    "repeated_openers": [
+     {
+      "phrase": "it's",
+      "hits": 8
+     }
+    ],
+    "arc_wpm": {
+     "open": 149,
+     "middle": 157,
+     "close": 177
+    },
+    "beat_between_lines": {
+     "median_s": 0.95,
+     "longest_s": 1.47,
+     "over_1s": 7
+    },
+    "opens_with": "Luxury.",
+    "closes_with": "elements luxury living for you to define.",
+    "close_wpm": 127,
+    "cadence": {
+     "shots": 24,
+     "lines": 17,
+     "lines_per_shot": 0.71,
+     "shots_per_line": 1.41,
+     "starts_on_a_cut": 5,
+     "on_cut_share": 0.29,
+     "straddles_a_cut": 11,
+     "verdict": "mixed — some lines land on the cut, most ride across it"
+    },
+    "speech_share": 0.691
+   },
+   "write_to": {
+    "wpm": 160,
+    "words_per_line": 6,
+    "beat_s": 0.95,
+    "words_per_minute_of_film": 111,
+    "one_line_per_shot": true,
+    "land_on_cuts": false,
+    "direction": "Read at ~160 WPM — conversational · Lines of about 6 words — fragments, not sentences · Leave ~0.95s between lines; the longest hold is 1.47s · Push through to the end — 149 WPM at the top, 177 at the close · Hang 8 of the 17 lines on \"it's\" — 5 bare, 3 carried in on perhaps/or/maybe — the repetition IS the structure, don't vary it away · Mixed — some lines land on the cut, most ride across it",
+    "template": [
+     "it's …",
+     "perhaps it's …",
+     "or it's …",
+     "maybe it's …"
+    ]
+   }
+  },
+  "gates": [
+   {
+    "rule": "the gold/mustard-yellow accent must appear at least once in every vignette",
+    "from": "the film"
+   },
+   {
+    "rule": "each hero space keeps exactly one owner-character",
+    "from": "the film"
+   },
+   {
+    "rule": "the ELEMENTS logo is always white on black, serif, with the barcode-like skyscraper mark",
+    "from": "the film"
+   },
+   {
+    "rule": "the moon man's blue suit + tan brogues must match between the insert and the wide",
+    "from": "the film"
+   },
+   {
+    "rule": "the elevator gentleman's pink tweed suit + handlebar moustache stay identical across shots 20 and 22",
+    "from": "the film"
+   }
+  ],
+  "world_rules": [
+   "every space is aspirational, impossibly clean and fully styled",
+   "reality bends for the fantasy — a moon-floor lounge, a giant teapot shower, a pet cheetah indoors",
+   "one 'owner' character inhabits each hero space",
+   "the brand's argument (luxury = personal) overrides physical logic"
+  ],
+  "move": {
+   "vocab": [
+    "slow push-in",
+    "slow orbit/arc",
+    "locked wide with the subject moving inside it",
+    "tracking follow (hoverboard)",
+    "static detail insert"
+   ],
+   "forbidden": [
+    "shaky handheld",
+    "whip pans",
+    "fast punch-zooms",
+    "drone-style flybys"
+   ],
+   "transition": "hard cut",
+   "never_transition": [
+    "dissolve",
+    "wipe",
+    "whip pan"
+   ]
+  },
+  "runtime_s": 51,
+  "runtime_unset_hint": null,
+  "reference_runtime_s": null,
+  "max_refs_per_gen": 4,
+  "blessed_only": true,
+  "sources": {
+   "cut": "read — estimated from stills, which cannot see a cut",
+   "audio": "read — guessed from silent frames"
+  },
+  "image_clause": "glossy luxury-commercial · wide establishing (~24-35mm feel), detail inserts (~50-85mm feel), one low ultra-wide for the pop room only",
+  "video_clause": "glossy luxury-commercial · wide establishing (~24-35mm feel), detail inserts (~50-85mm feel), one low ultra-wide for the pop room only · camera moves: slow push-in, slow orbit/arc, locked wide with the subject moving inside it, tracking follow (hoverboard)"
+ }
+}

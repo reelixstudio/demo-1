@@ -1,0 +1,53 @@
+{
+  "ok": true,
+  "measured": true,
+  "capability": {
+    "ffmpeg": true,
+    "librosa": true,
+    "level": "full"
+  },
+  "duration_s": 50.941,
+  "has_transcript": true,
+  "lines": 19,
+  "words": 95,
+  "speech_s": 44.2,
+  "first_word_s": 0.0,
+  "last_word_s": 49.6,
+  "wpm_speaking": 129,
+  "wpm_gross": 112,
+  "speech_share": 0.867,
+  "words_per_line": 5.0,
+  "wpm_p10": 106,
+  "wpm_median": 130,
+  "wpm_p90": 160,
+  "wpm_curve": [
+    106,
+    109,
+    140,
+    150,
+    139,
+    160,
+    100,
+    150,
+    100,
+    117
+  ],
+  "pauses": {
+    "known": true,
+    "in_speech": 0,
+    "longest_s": 0.0,
+    "note": "measured: no silence at all between the first and last word — the delivery never stops for breath"
+  },
+  "f0_median_hz": 78.2,
+  "f0_p10_hz": 65.0,
+  "f0_p90_hz": 141.8,
+  "f0_range_semitones": 13.5,
+  "voiced_share": 0.339,
+  "windows_sampled": 14,
+  "verdict": "129 WPM while speaking — slow and deliberate · 112 WPM across the whole runtime (talks nearly nonstop) · words cover 86% of the film · measured: no silence at all between the first and last word — the delivery never stops for breath · median pitch 78.2 Hz · pitch moves 13.5 semitones — animated, wide melodic range",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=-1YBFXCMG2c",
+    "title": "Elements Luxury Living - AI Real Estate Film |  Can of Tales"
+  },
+  "at": "2026-07-28T08:09:11"
+}

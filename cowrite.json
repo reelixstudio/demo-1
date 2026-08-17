@@ -1,0 +1,173 @@
+{
+  "story": "Reference film from URL. Anaphoric brand film — each line names one private definition of luxury over a surreal vignette.",
+  "pass": 1,
+  "result": {
+    "diagnosis": [
+      {
+        "problem": "Your story opens 'Reference film from URL' and then describes a shape — 'each line names one private definition.' That is the reference's blueprint, not your film.",
+        "why": "Breaks 'Each set illustrates exactly ONE spoken idea.' You have promised ideas but named zero. A machine with no ideas loaded generates the reference back at you.",
+        "fix": "Write the actual list. Eight private luxuries, in your own voice, each one a thing a specific person would say out loud and nobody else would."
+      },
+      {
+        "problem": "'Anaphoric' is a flat form — every line an equal. But your engine is escalation and your beat map peaks at 'A room that grooves' (load 40) with everything else at 20–35.",
+        "why": "Breaks narrative engine: escalation. A list of equals has no peak, so the cut has nothing to settle into and the 2.12s ASL just runs out of film.",
+        "fix": "Order the definitions from public to private. The last one before the hand-back should be so specific it can only belong to one person."
+      },
+      {
+        "problem": "The locks you inherited are the reference's own props — the gown color, the elevator panel reading '1 2 3 4 5' with button 3 lit, the man on the moon.",
+        "why": "Breaks 'Impossible juxtapositions are welcome — surreal, not literal.' Copying a literal set from the reference is the one un-surreal move available, and it is someone else's frame.",
+        "fix": "Keep the machine: centered tableau, one idea per set, the yellow thread. Replace every room. Then the gown lock resolves itself — there is no gown."
+      }
+    ],
+    "rewrite": {
+      "logline": "A voice defines luxury eight times, each definition finishing somewhere it should not, until one is so private it can only belong to one person — then the room empties and the definition is handed to you.",
+      "text": "Luxury is not a checklist. So we never show the checklist.\n\nA voice — unhurried, amused — starts 'luxury is,' and every time the sentence finishes somewhere it should not. A man reads the paper in a bathtub on a roof, snow falling, steam holding its shape. A woman eats breakfast alone at a table set for twelve. A cellist plays to a drained pool, water still at her ankles. Nobody explains. The sets do it.\n\nOne thing crosses every room: a warm yellow. A robe, a lampshade, a single lemon on marble. Always the same yellow, never the same object. That is the only continuity we give you.\n\nThe definitions get more private as they go, until one is so specific it belongs to exactly one person — a man in a lit walk-in closet, choosing nothing, just standing there. Hold on it. Let the cut stop opening out and land.\n\nThen hand it over. Last frame: the same room, the figure gone, the yellow still there.",
+      "load_beat": "The closet — choosing nothing",
+      "kept": "The anaphora and the hand-back ending — the shape you loved is untouched, and the yellow thread now does real work instead of decorating.",
+      "cut": "Every set the reference already owns: the moon room, the elevator tea, the ballroom gown. Same machine, new rooms, no copyright shadow."
+    },
+    "beats": [
+      {
+        "n": 1,
+        "name": "The voice starts",
+        "what_happens": "Black, then one centered tableau. The voice says 'luxury is' and does not finish. Symmetrical, small figure, room reads first.",
+        "load": 18
+      },
+      {
+        "n": 2,
+        "name": "Ordinary rooms, made impossible",
+        "what_happens": "Bathtub on a snowing roof. Paper, steam, no shiver. The first definition lands and the set is abandoned on the cut.",
+        "load": 26
+      },
+      {
+        "n": 3,
+        "name": "The yellow arrives",
+        "what_happens": "A single lemon on black marble, then a robe two rooms later. Same hue, different object. The viewer notices before anyone says it.",
+        "load": 22
+      },
+      {
+        "n": 4,
+        "name": "Alone, on purpose",
+        "what_happens": "Breakfast for one at a table set for twelve. Deep focus, eye-level, centered. The emptiness is the luxury; nobody says so.",
+        "load": 32
+      },
+      {
+        "n": 5,
+        "name": "The absurd escalation",
+        "what_happens": "A cellist plays to a drained pool, ankle-deep in what is left. Low wide angle. The definitions have stopped being reasonable.",
+        "load": 38
+      },
+      {
+        "n": 6,
+        "name": "The closet — choosing nothing",
+        "what_happens": "A man in a lit walk-in closet, hands at his sides, choosing nothing. Slow push-in. The cut stops opening out and holds past comfort.",
+        "load": 45
+      },
+      {
+        "n": 7,
+        "name": "Handed back",
+        "what_happens": "The same closet, figure gone, one yellow sleeve still on the rail. 'For you to define.' Hold, then out.",
+        "load": 20
+      }
+    ],
+    "concepts": [
+      {
+        "title": "The Inventory",
+        "logline": "The voice lists what this house does not have — no doorbell, no clock, no second bathroom that anyone uses — and each absence is staged as a full symmetrical tableau.",
+        "turn": "The last item on the list is a person, and the room that has been empty all film finally is not.",
+        "load_beat": "The room that is not empty",
+        "score": 4,
+        "why": "Negation is the cheapest escalation there is — every absence is more absurd than the last, and it makes the empty centered frame the subject instead of a compositional habit. Fits the settling cut exactly."
+      },
+      {
+        "title": "Second Person",
+        "logline": "The voice never says 'luxury is.' It says 'you.' Every tableau is built around one empty chair, sized and lit for someone who is not in it.",
+        "turn": "The final room reflects — a mirrored wall — and the chair is occupied by the camera's own frame.",
+        "load_beat": "The mirrored room",
+        "score": 5,
+        "why": "It makes 'for you to define' structural instead of a closing line. The centered-symmetry rule stops being a look and becomes the argument: the middle of every frame is reserved for the viewer."
+      },
+      {
+        "title": "The Yellow Thread",
+        "logline": "The brand yellow is the protagonist. It is a lemon, a robe, a taxi light, a lampshade — moving room to room while the people stay put.",
+        "turn": "It leaves the house. Last shot is the yellow going down the hill at dusk while every lit window holds still.",
+        "load_beat": "The yellow leaves",
+        "score": 3,
+        "why": "Cleanest possible execution of the hue lock, and it gives thirteen unrelated sets a spine. Costs you the private-definition theme though — the film becomes about the brand, not about the viewer."
+      }
+    ],
+    "shot_seeds": [
+      "Wide symmetrical tableau, clawfoot bathtub centered on a flat snow-covered rooftop, a small figure reading a newspaper, steam holding its shape in still air; slow push-in, eye-level, deep focus; soft overcast key at 2:1, cool #2E4E7E cast on the snow, one warm #E7B93A towel folded on the rim.",
+      "Centered wide of a twelve-seat dining table, one woman eating breakfast at the near end, eleven places set and untouched; locked slow dolly in, eye-level, deep focus; large window light from camera-left, low contrast, warm #E7B93A lampshades running the length of the table.",
+      "Low wide angle, drained infinity pool, a cellist playing mid-basin with a shallow film of water at her ankles, hilltop villa behind; slow push-in, deep focus, figure small enough to read the whole basin; hard late-afternoon key, #3E6F5E planting on the deck, #E7B93A cushion left on a lounger.",
+      "Slow push-in on a man standing centered in a lit walk-in closet, hands at his sides, choosing nothing, rows of garments symmetrical either side; eye-level, shallow focus falling off past his shoulders; warm practical strip lighting, 3:1, one #E7B93A sleeve breaking the neutral rail.",
+      "Static wide, the same walk-in closet, empty, everything identical except the figure is gone; no movement, deep focus; unchanged warm practicals, soft bloom on the rail chrome, the single #E7B93A sleeve still hanging center frame."
+    ]
+  },
+  "cost": null,
+  "model": "pasted from another AI",
+  "via": "pasted",
+  "at": "2026-07-28T07:57:02",
+  "approved": true,
+  "approved_at": "2026-07-28T08:18:53",
+  "locked": {
+    "choice": "theirs",
+    "story": "A voice defines luxury eight times, each definition finishing somewhere it should not, until one is so private it can only belong to one person — then the room empties and the definition is handed to you.\n\nLuxury is not a checklist. So we never show the checklist.\n\nA voice — unhurried, amused — starts 'luxury is,' and every time the sentence finishes somewhere it should not. A man reads the paper in a bathtub on a roof, snow falling, steam holding its shape. A woman eats breakfast alone at a table set for twelve. A cellist plays to a drained pool, water still at her ankles. Nobody explains. The sets do it.\n\nOne thing crosses every room: a warm yellow. A robe, a lampshade, a single lemon on marble. Always the same yellow, never the same object. That is the only continuity we give you.\n\nThe definitions get more private as they go, until one is so specific it belongs to exactly one person — a man in a lit walk-in closet, choosing nothing, just standing there. Hold on it. Let the cut stop opening out and land.\n\nThen hand it over. Last frame: the same room, the figure gone, the yellow still there.",
+    "logline": "A voice defines luxury eight times, each definition finishing somewhere it should not, until one is so private it can only belong to one person — then the room empties and the definition is handed to you.",
+    "text": "Luxury is not a checklist. So we never show the checklist.\n\nA voice — unhurried, amused — starts 'luxury is,' and every time the sentence finishes somewhere it should not. A man reads the paper in a bathtub on a roof, snow falling, steam holding its shape. A woman eats breakfast alone at a table set for twelve. A cellist plays to a drained pool, water still at her ankles. Nobody explains. The sets do it.\n\nOne thing crosses every room: a warm yellow. A robe, a lampshade, a single lemon on marble. Always the same yellow, never the same object. That is the only continuity we give you.\n\nThe definitions get more private as they go, until one is so specific it belongs to exactly one person — a man in a lit walk-in closet, choosing nothing, just standing there. Hold on it. Let the cut stop opening out and land.\n\nThen hand it over. Last frame: the same room, the figure gone, the yellow still there.",
+    "load_beat": "The closet — choosing nothing",
+    "beats": [
+      {
+        "n": 1,
+        "name": "The voice starts",
+        "what_happens": "Black, then one centered tableau. The voice says 'luxury is' and does not finish. Symmetrical, small figure, room reads first.",
+        "load": 18
+      },
+      {
+        "n": 2,
+        "name": "Ordinary rooms, made impossible",
+        "what_happens": "Bathtub on a snowing roof. Paper, steam, no shiver. The first definition lands and the set is abandoned on the cut.",
+        "load": 26
+      },
+      {
+        "n": 3,
+        "name": "The yellow arrives",
+        "what_happens": "A single lemon on black marble, then a robe two rooms later. Same hue, different object. The viewer notices before anyone says it.",
+        "load": 22
+      },
+      {
+        "n": 4,
+        "name": "Alone, on purpose",
+        "what_happens": "Breakfast for one at a table set for twelve. Deep focus, eye-level, centered. The emptiness is the luxury; nobody says so.",
+        "load": 32
+      },
+      {
+        "n": 5,
+        "name": "The absurd escalation",
+        "what_happens": "A cellist plays to a drained pool, ankle-deep in what is left. Low wide angle. The definitions have stopped being reasonable.",
+        "load": 38
+      },
+      {
+        "n": 6,
+        "name": "The closet — choosing nothing",
+        "what_happens": "A man in a lit walk-in closet, hands at his sides, choosing nothing. Slow push-in. The cut stops opening out and holds past comfort.",
+        "load": 45
+      },
+      {
+        "n": 7,
+        "name": "Handed back",
+        "what_happens": "The same closet, figure gone, one yellow sleeve still on the rail. 'For you to define.' Hold, then out.",
+        "load": 20
+      }
+    ],
+    "shot_seeds": [
+      "Wide symmetrical tableau, clawfoot bathtub centered on a flat snow-covered rooftop, a small figure reading a newspaper, steam holding its shape in still air; slow push-in, eye-level, deep focus; soft overcast key at 2:1, cool #2E4E7E cast on the snow, one warm #E7B93A towel folded on the rim.",
+      "Centered wide of a twelve-seat dining table, one woman eating breakfast at the near end, eleven places set and untouched; locked slow dolly in, eye-level, deep focus; large window light from camera-left, low contrast, warm #E7B93A lampshades running the length of the table.",
+      "Low wide angle, drained infinity pool, a cellist playing mid-basin with a shallow film of water at her ankles, hilltop villa behind; slow push-in, deep focus, figure small enough to read the whole basin; hard late-afternoon key, #3E6F5E planting on the deck, #E7B93A cushion left on a lounger.",
+      "Slow push-in on a man standing centered in a lit walk-in closet, hands at his sides, choosing nothing, rows of garments symmetrical either side; eye-level, shallow focus falling off past his shoulders; warm practical strip lighting, 3:1, one #E7B93A sleeve breaking the neutral rail.",
+      "Static wide, the same walk-in closet, empty, everything identical except the figure is gone; no movement, deep focus; unchanged warm practicals, soft bloom on the rail chrome, the single #E7B93A sleeve still hanging center frame."
+    ],
+    "pass": 1,
+    "at": "2026-07-28T08:18:53"
+  }
+}

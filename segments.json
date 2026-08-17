@@ -1,0 +1,997 @@
+{
+  "segments": [
+    {
+      "i": 1,
+      "shot": 1,
+      "from_t": 0.0,
+      "to_t": 1.0,
+      "what_happens": "Establishing hold on a grand double-height living room while the gold word LUXURY? sits across it.",
+      "action": "near-locked establishing frame with a title overlay; no subject motion",
+      "camera": "locked wide, eye-level, EWS",
+      "lighting": "soft daylight from tall windows, warm neutral",
+      "elements": {
+        "locations": [
+          "@grand_living"
+        ],
+        "characters": [],
+        "props": []
+      },
+      "prompt_hint": "grand double-height modern living room, floating white staircase, tall arched mirror, botanical mural, tan sofas, big windows, soft daylight, locked wide, cinematic",
+      "continuity": "opening frame — sets the warm-neutral luxury tone and leaves space for the title"
+    },
+    {
+      "i": 2,
+      "shot": 2,
+      "from_t": 1.0,
+      "to_t": 2.1,
+      "what_happens": "Hard cut to a glass greenhouse bedroom as gold 'IT'S SUBJECTIVE' builds on.",
+      "action": "locked frame, title text building; no subject",
+      "camera": "locked wide, EWS",
+      "lighting": "dappled daylight through a planted glass roof",
+      "elements": {
+        "locations": [
+          "@greenhouse_bedroom"
+        ],
+        "characters": [],
+        "props": []
+      },
+      "prompt_hint": "conservatory bedroom under a glass roof draped with hanging plants, black four-poster bed, warm wood floor, lush greenery, dappled daylight, locked wide",
+      "continuity": "gold serif word carries over from shot 1; palette flips grand→wild"
+    },
+    {
+      "i": 3,
+      "shot": 3,
+      "from_t": 2.1,
+      "to_t": 2.4,
+      "what_happens": "A 0.3s flash of a moody chinoiserie bedroom.",
+      "action": "too brief to read motion — treat as a quick locked flash",
+      "camera": "quick locked WS",
+      "lighting": "low warm interior, red accents",
+      "elements": {
+        "locations": [
+          "@chinoiserie_bedroom"
+        ],
+        "characters": [],
+        "props": []
+      },
+      "prompt_hint": "moody chinoiserie bedroom, gilded folding screen painted with birds and blossoms, crimson bedding and red lantern, potted palm, low warm light, quick locked wide",
+      "continuity": "part of the fast 'subjective' flip-book — cut in on the beat"
+    },
+    {
+      "i": 4,
+      "shot": 5,
+      "from_t": 2.8,
+      "to_t": 3.1,
+      "what_happens": "A 0.3s flash down a warm terracotta arched corridor to a lit bed.",
+      "action": "too brief to read motion — quick locked flash",
+      "camera": "quick symmetrical locked wide",
+      "lighting": "golden-hour glow, vertical light-drape",
+      "elements": {
+        "locations": [
+          "@terracotta_corridor"
+        ],
+        "characters": [],
+        "props": []
+      },
+      "prompt_hint": "warm terracotta vaulted corridor, arches receding to a softly lit bed, trailing plants, floor candle, golden-hour glow, symmetrical locked wide",
+      "continuity": "same rapid flip-book rhythm; symmetrical framing"
+    },
+    {
+      "i": 5,
+      "shot": 6,
+      "from_t": 3.1,
+      "to_t": 4.3,
+      "what_happens": "Cut to a whimsical delft-blue teapot bathroom as gold 'SUBJECTIVE' holds.",
+      "action": "locked frame with title; no subject",
+      "camera": "locked wide, WS",
+      "lighting": "bright airy daylight from a glass skylight",
+      "elements": {
+        "locations": [
+          "@teapot_bathroom"
+        ],
+        "characters": [],
+        "props": []
+      },
+      "prompt_hint": "whimsical blue-and-white tiled bathroom with a giant teapot-shaped glass shower, glass skylight, gilt mirrors, patterned floor, bright airy light, locked wide",
+      "continuity": "closes the title sequence; last of the on-screen gold words"
+    },
+    {
+      "i": 6,
+      "shot": 7,
+      "from_t": 4.3,
+      "to_t": 5.7,
+      "what_happens": "Low detail insert of tan brogues stepping on a grey moon-cratered floor.",
+      "action": "shoes settle on the cratered ground; slight push",
+      "camera": "low-angle detail insert, CU, slight push-in",
+      "lighting": "dramatic hard side light on the moon dust",
+      "elements": {
+        "locations": [
+          "@moon_lounge"
+        ],
+        "characters": [
+          "@moon_man"
+        ],
+        "props": []
+      },
+      "prompt_hint": "close low-angle on tan leather wingtip brogues on a grey cratered moon-like floor, blue trousers, dramatic side light, shallow focus",
+      "continuity": "blue trousers + tan brogues must match the seated moon man next shot"
+    },
+    {
+      "i": 7,
+      "shot": 8,
+      "from_t": 5.7,
+      "to_t": 9.2,
+      "what_happens": "Held wide — a man in a blue suit lounges on a mustard sofa on the moon under a giant moon.",
+      "action": "near-locked hero hold; the man leans back, arm along the sofa, faint smile — minimal motion (do not invent camera moves)",
+      "camera": "locked / very-slow wide, EWS",
+      "lighting": "teal-and-gold twilight, moon backlight",
+      "elements": {
+        "locations": [
+          "@moon_lounge"
+        ],
+        "characters": [
+          "@moon_man"
+        ],
+        "props": [
+          "@moon_mural"
+        ]
+      },
+      "prompt_hint": "man in a tailored blue suit reclining on a mustard tufted sofa on a lunar surface, giant moon mural behind, gold dome lamps, potted palms, teal-and-gold light, locked wide",
+      "continuity": "same blue suit + tan brogues as the insert; first long hold of the film"
+    },
+    {
+      "i": 8,
+      "shot": 9,
+      "from_t": 9.2,
+      "to_t": 11.5,
+      "what_happens": "Low detail on sneakered feet balancing on a self-balancing hoverboard on a glossy floor.",
+      "action": "the board holds and micro-corrects under the feet; slight settle",
+      "camera": "low tracking CU on the board",
+      "lighting": "bright midday, hard reflections on polished stone",
+      "elements": {
+        "locations": [
+          "@poolside_terrace"
+        ],
+        "characters": [
+          "@hoverboard_rider"
+        ],
+        "props": [
+          "@hoverboard"
+        ]
+      },
+      "prompt_hint": "close low shot of sneakered feet balancing on a two-wheel self-balancing hoverboard on a glossy reflective floor, infinity pool and hills beyond, bright daylight",
+      "continuity": "same board + poolside villa carry into the next shot"
+    },
+    {
+      "i": 9,
+      "shot": 10,
+      "from_t": 11.5,
+      "to_t": 14.1,
+      "what_happens": "Wider — a youth in a pink hoodie and headphones glides on the hoverboard toward the infinity pool, arms out.",
+      "action": "the rider drifts away from camera toward the pool, arms extended for balance",
+      "camera": "tracking follow, MS→WS",
+      "lighting": "bright midday, open sky",
+      "elements": {
+        "locations": [
+          "@poolside_terrace"
+        ],
+        "characters": [
+          "@hoverboard_rider"
+        ],
+        "props": [
+          "@hoverboard"
+        ]
+      },
+      "prompt_hint": "young person in a pink hoodie and teal headphones riding a hoverboard across a sunlit terrace toward an infinity pool and valley view, arms out, tracking follow, bright daylight",
+      "continuity": "same hoverboard + villa terrace as the insert before"
+    },
+    {
+      "i": 10,
+      "shot": 11,
+      "from_t": 14.1,
+      "to_t": 16.1,
+      "what_happens": "Wide silhouette — an elegant couple waltz alone in a vast white columned ballroom, backlit.",
+      "action": "the couple turns through the waltz, gown trailing",
+      "camera": "wide, slow push, EWS",
+      "lighting": "cool backlit daylight, silhouetted figures",
+      "elements": {
+        "locations": [
+          "@ballroom"
+        ],
+        "characters": [
+          "@ballroom_woman",
+          "@ballroom_man"
+        ],
+        "props": []
+      },
+      "prompt_hint": "elegant couple waltzing in a vast white columned ballroom, crystal chandeliers and grand piano, tall backlit windows, cool silhouette, slow push, wide",
+      "continuity": "cool palette break from the bright poolside; couple carries into the closer"
+    },
+    {
+      "i": 11,
+      "shot": 12,
+      "from_t": 16.1,
+      "to_t": 18.1,
+      "what_happens": "Closer — a grey-haired man dances with a smiling woman, intimate and warm.",
+      "action": "the pair turn slowly in a gentle arc, the woman laughing",
+      "camera": "MS, slow arc",
+      "lighting": "soft cool daylight, brighter than the wide",
+      "elements": {
+        "locations": [
+          "@ballroom"
+        ],
+        "characters": [
+          "@ballroom_man",
+          "@ballroom_woman"
+        ],
+        "props": []
+      },
+      "prompt_hint": "closer on a grey-haired man dancing cheek-to-cheek with a smiling dark-haired woman in a pale embroidered gown, bright columned hall, soft cool light, slow arc, medium",
+      "continuity": "same ballroom couple, tighter framing"
+    },
+    {
+      "i": 12,
+      "shot": 13,
+      "from_t": 18.1,
+      "to_t": 19.8,
+      "what_happens": "Detail — a mustard-sleeved hand fastens a yellow bow tie on a speckled pointer dog on a striped sofa.",
+      "action": "the hand reaches in and adjusts the bow tie at the dog's throat",
+      "camera": "static medium, MS",
+      "lighting": "warm window light on a rose wall",
+      "elements": {
+        "locations": [
+          "@rose_parlor"
+        ],
+        "characters": [
+          "@dapper_dog_man",
+          "@bowtie_dog"
+        ],
+        "props": [
+          "@yellow_bowtie"
+        ]
+      },
+      "prompt_hint": "a hand in a mustard sleeve fastening a yellow bow tie on a speckled pointer dog seated on a striped ochre sofa, dusty-rose panelled wall, warm light, static medium",
+      "continuity": "the yellow bow tie set here must be worn in the next wide"
+    },
+    {
+      "i": 13,
+      "shot": 14,
+      "from_t": 19.8,
+      "to_t": 22.0,
+      "what_happens": "Symmetrical wide — a man in a yellow suit and boater hat sits beside the bow-tied dog in a rose-panelled parlor.",
+      "action": "man and dog pose seated and still, perfectly centred",
+      "camera": "locked symmetrical WS",
+      "lighting": "warm even window light",
+      "elements": {
+        "locations": [
+          "@rose_parlor"
+        ],
+        "characters": [
+          "@dapper_dog_man",
+          "@bowtie_dog"
+        ],
+        "props": [
+          "@yellow_bowtie"
+        ]
+      },
+      "prompt_hint": "man in a canary-yellow suit and straw boater seated beside a bow-tied pointer dog on a striped sofa, dusty-rose panelled room, twin floor lamps, checkerboard marble floor, symmetrical locked wide",
+      "continuity": "same dog + yellow bow tie as the insert; rose walls pay off 'makes walls blush'"
+    },
+    {
+      "i": 14,
+      "shot": 15,
+      "from_t": 22.0,
+      "to_t": 23.6,
+      "what_happens": "Detail — elderly hands turn the pages of an old hardback in a warm study.",
+      "action": "hands turn a page, thumb riffling the edge",
+      "camera": "static CU",
+      "lighting": "soft window light, warm gilt-lamp glow",
+      "elements": {
+        "locations": [
+          "@plant_library"
+        ],
+        "characters": [
+          "@book_reader"
+        ],
+        "props": [
+          "@old_book"
+        ]
+      },
+      "prompt_hint": "close on elderly hands turning the yellowed pages of an old hardback, warm study, ornate gilt lamp, stacked books, soft window light, shallow focus",
+      "continuity": "the book + warm-library palette carry into the wide"
+    },
+    {
+      "i": 15,
+      "shot": 16,
+      "from_t": 23.6,
+      "to_t": 25.8,
+      "what_happens": "Wide — a figure reads in a plant-crammed floor-to-ceiling library, white blossoms in the foreground.",
+      "action": "the reader sits absorbed, near-still, a slow push settles on them",
+      "camera": "WS, slow push-in",
+      "lighting": "soft misty daylight from a tall window",
+      "elements": {
+        "locations": [
+          "@plant_library"
+        ],
+        "characters": [
+          "@book_reader"
+        ],
+        "props": [
+          "@old_book"
+        ]
+      },
+      "prompt_hint": "a person reading in a cozy book-crammed library with floor-to-ceiling shelves, hanging plants and white blossoms foreground, misty window light, slow push, wide",
+      "continuity": "same book + reader; hush contrasts the whimsy before it"
+    },
+    {
+      "i": 16,
+      "shot": 17,
+      "from_t": 25.8,
+      "to_t": 29.3,
+      "what_happens": "A woman rises and turns in a still indoor infinity pool facing forested mountains through glass.",
+      "action": "she surfaces, turns, sweeps her arms through the water — gentle splashes",
+      "camera": "slow push, MS, water motion",
+      "lighting": "cool overcast daylight through a glass wall",
+      "elements": {
+        "locations": [
+          "@forest_pool"
+        ],
+        "characters": [
+          "@swimmer"
+        ],
+        "props": []
+      },
+      "prompt_hint": "woman with long dark hair rising and turning in a still indoor infinity pool facing a glass wall onto forested mountains, gentle splashes, serene daylight, slow push, medium",
+      "continuity": "serene solo mood extends from the library; water sfx enters"
+    },
+    {
+      "i": 17,
+      "shot": 18,
+      "from_t": 29.3,
+      "to_t": 32.3,
+      "what_happens": "Longest hold — a woman in a white robe reclines in a Moroccan-style plaster-arch spa by a sunken green pool.",
+      "action": "near-still hero hold; she rests, eyes closed, faint smile — do not invent motion",
+      "camera": "locked wide, near-still, WS",
+      "lighting": "soft diffused daylight, garden spill",
+      "elements": {
+        "locations": [
+          "@moroccan_spa"
+        ],
+        "characters": [
+          "@spa_woman"
+        ],
+        "props": []
+      },
+      "prompt_hint": "woman in a white robe reclining on a rust modular sofa in a serene Moroccan spa of plaster arches and a sunken green reflecting pool, potted palms, garden beyond, soft daylight, locked wide (long hero hold)",
+      "continuity": "the film's longest hold (5.96s) — the calm peak before the bright run"
+    },
+    {
+      "i": 18,
+      "shot": 19,
+      "from_t": 32.3,
+      "to_t": 38.3,
+      "what_happens": "Compound shot — a young man dances on a pink sofa in a surreal teal pop room, then a woman in a yellow gown turns in a pink walk-in closet. (Measured as one shot; two locations inside it.)",
+      "action": "the dancer throws energetic wide-legged poses, then the frame is a woman turning to camera with a clutch",
+      "camera": "low ultra-wide (dance) → locked wide (closet)",
+      "lighting": "stylised teal cast, then even boutique light",
+      "elements": {
+        "locations": [
+          "@teal_pop_room",
+          "@pink_closet"
+        ],
+        "characters": [
+          "@pop_dancer",
+          "@closet_woman"
+        ],
+        "props": []
+      },
+      "prompt_hint": "energetic young man in a checked shirt, round white sunglasses and red sneakers dancing on a pink sofa in a surreal mint-and-red room with vintage speakers, low ultra-wide; then a woman in a yellow gown turns in a pink walk-in closet of shoes and bags",
+      "continuity": "the gold/yellow accent (yellow gown) carries through the montage's brightest, highest-energy stretch"
+    },
+    {
+      "i": 19,
+      "shot": 20,
+      "from_t": 38.3,
+      "to_t": 39.6,
+      "what_happens": "A mustached gentleman in a pink suit sips tea inside a wood-panelled elevator.",
+      "action": "he raises the teacup and sips, dead centre",
+      "camera": "static MS, symmetrical",
+      "lighting": "warm bulb light from twin brass sconces",
+      "elements": {
+        "locations": [
+          "@wood_elevator"
+        ],
+        "characters": [
+          "@tea_gentleman"
+        ],
+        "props": [
+          "@teacup"
+        ]
+      },
+      "prompt_hint": "a mustached gentleman in a pink tweed three-piece suit sipping from a teacup inside a warm wood-panelled elevator, brass sconce lights, symmetrical static medium",
+      "continuity": "introduces 'Mr. Shinoy'; same car + cup across shots 20-22"
+    },
+    {
+      "i": 20,
+      "shot": 21,
+      "from_t": 39.6,
+      "to_t": 40.9,
+      "what_happens": "Insert — a brass elevator floor panel reading 1 2 3 4 5, with the '3' lighting up.",
+      "action": "the number 3 illuminates on the panel",
+      "camera": "static CU",
+      "lighting": "warm bulb glow from two lamps above the panel",
+      "elements": {
+        "locations": [
+          "@wood_elevator"
+        ],
+        "characters": [],
+        "props": [
+          "@elevator_panel"
+        ]
+      },
+      "prompt_hint": "close on a brass-and-cream elevator floor indicator reading 1 2 3 4 5, the number 3 illuminating, warm bulb lights above, static insert",
+      "continuity": "same elevator as the tea gentleman — panel state goes none-lit → '3' lit"
+    },
+    {
+      "i": 21,
+      "shot": 22,
+      "from_t": 40.9,
+      "to_t": 42.3,
+      "what_happens": "Closer — the tea gentleman lowers the cup, wide-eyed with a faint satisfied smile.",
+      "action": "he lowers the teacup from his lips, eyes wide",
+      "camera": "MCU, static",
+      "lighting": "warm bulb light, wood panel behind",
+      "elements": {
+        "locations": [
+          "@wood_elevator"
+        ],
+        "characters": [
+          "@tea_gentleman"
+        ],
+        "props": [
+          "@teacup"
+        ]
+      },
+      "prompt_hint": "medium close-up of the mustached gentleman in the elevator lowering his teacup with a wide-eyed satisfied look, warm wood panel behind, static",
+      "continuity": "same pink-suited gentleman + gold-rimmed teacup as shots 20-21"
+    },
+    {
+      "i": 22,
+      "shot": 23,
+      "from_t": 42.3,
+      "to_t": 45.9,
+      "what_happens": "An eccentric in a striped robe and dark glasses sits in an art-crammed terracotta salon as a live cheetah settles beside them.",
+      "action": "the host sits regally still while the cheetah stands, then sits, at their side",
+      "camera": "locked symmetrical WS",
+      "lighting": "warm afternoon, patterned light",
+      "elements": {
+        "locations": [
+          "@gallery_salon"
+        ],
+        "characters": [
+          "@cheetah_host",
+          "@pet_cheetah"
+        ],
+        "props": []
+      },
+      "prompt_hint": "an eccentric figure in a striped kaftan and round dark glasses seated in a terracotta salon crowded with framed art and plants, a live cheetah beside the armchair, warm patterned light, symmetrical locked wide",
+      "continuity": "pays off 'And for Mrs. … it purrs' — the cheetah is the purring 'cat'"
+    },
+    {
+      "i": 23,
+      "shot": 24,
+      "from_t": 45.9,
+      "to_t": 50.9,
+      "what_happens": "Fade to black, then the white ELEMENTS 'Luxury Living' logo builds up out of a barcode-like tower mark.",
+      "action": "screen holds black, then the serif ELEMENTS wordmark and building mark rise into frame with the LUXURY LIVING tagline",
+      "camera": "locked on black; the logo animates in",
+      "lighting": "n/a — graphic end-card, white on black",
+      "elements": {
+        "locations": [
+          "@logo_card"
+        ],
+        "characters": [],
+        "props": [
+          "@elements_logo"
+        ]
+      },
+      "prompt_hint": "on solid black, a white serif ELEMENTS logo with a barcode-like skyscraper mark rises into frame above a spaced 'LUXURY LIVING' tagline, elegant minimal end card",
+      "continuity": "hard tonal reset from colour to black-and-white brand card; 'for you to define' lands here"
+    }
+  ],
+  "at": "2026-07-28T08:19:44",
+  "via": "film-read",
+  "frames": [
+    "projects/demo-1/dna-intake/frames/f_001.jpg",
+    "projects/demo-1/dna-intake/frames/f_002.jpg",
+    "projects/demo-1/dna-intake/frames/f_003.jpg",
+    "projects/demo-1/dna-intake/frames/f_004.jpg",
+    "projects/demo-1/dna-intake/frames/f_005.jpg",
+    "projects/demo-1/dna-intake/frames/f_006.jpg",
+    "projects/demo-1/dna-intake/frames/f_007.jpg",
+    "projects/demo-1/dna-intake/frames/f_008.jpg",
+    "projects/demo-1/dna-intake/frames/f_009.jpg",
+    "projects/demo-1/dna-intake/frames/f_010.jpg",
+    "projects/demo-1/dna-intake/frames/f_011.jpg",
+    "projects/demo-1/dna-intake/frames/f_012.jpg",
+    "projects/demo-1/dna-intake/frames/f_013.jpg",
+    "projects/demo-1/dna-intake/frames/f_014.jpg",
+    "projects/demo-1/dna-intake/frames/f_015.jpg",
+    "projects/demo-1/dna-intake/frames/f_016.jpg",
+    "projects/demo-1/dna-intake/frames/f_017.jpg",
+    "projects/demo-1/dna-intake/frames/f_018.jpg",
+    "projects/demo-1/dna-intake/frames/f_019.jpg",
+    "projects/demo-1/dna-intake/frames/f_020.jpg",
+    "projects/demo-1/dna-intake/frames/f_021.jpg",
+    "projects/demo-1/dna-intake/frames/f_022.jpg",
+    "projects/demo-1/dna-intake/frames/f_023.jpg",
+    "projects/demo-1/dna-intake/frames/f_024.jpg",
+    "projects/demo-1/dna-intake/frames/f_025.jpg",
+    "projects/demo-1/dna-intake/frames/f_026.jpg",
+    "projects/demo-1/dna-intake/frames/f_027.jpg",
+    "projects/demo-1/dna-intake/frames/f_028.jpg",
+    "projects/demo-1/dna-intake/frames/f_029.jpg",
+    "projects/demo-1/dna-intake/frames/f_030.jpg",
+    "projects/demo-1/dna-intake/frames/f_031.jpg",
+    "projects/demo-1/dna-intake/frames/f_032.jpg",
+    "projects/demo-1/dna-intake/frames/f_033.jpg",
+    "projects/demo-1/dna-intake/frames/f_034.jpg",
+    "projects/demo-1/dna-intake/frames/f_035.jpg",
+    "projects/demo-1/dna-intake/frames/f_036.jpg",
+    "projects/demo-1/dna-intake/frames/f_037.jpg",
+    "projects/demo-1/dna-intake/frames/f_038.jpg",
+    "projects/demo-1/dna-intake/frames/f_039.jpg",
+    "projects/demo-1/dna-intake/frames/f_040.jpg",
+    "projects/demo-1/dna-intake/frames/f_041.jpg",
+    "projects/demo-1/dna-intake/frames/f_042.jpg",
+    "projects/demo-1/dna-intake/frames/f_043.jpg",
+    "projects/demo-1/dna-intake/frames/f_044.jpg",
+    "projects/demo-1/dna-intake/frames/f_045.jpg",
+    "projects/demo-1/dna-intake/frames/f_046.jpg",
+    "projects/demo-1/dna-intake/frames/f_047.jpg",
+    "projects/demo-1/dna-intake/frames/f_048.jpg",
+    "projects/demo-1/dna-intake/frames/f_049.jpg",
+    "projects/demo-1/dna-intake/frames/f_050.jpg",
+    "projects/demo-1/dna-intake/frames/f_051.jpg",
+    "projects/demo-1/dna-intake/frames/f_052.jpg",
+    "projects/demo-1/dna-intake/frames/f_053.jpg",
+    "projects/demo-1/dna-intake/frames/f_054.jpg",
+    "projects/demo-1/dna-intake/frames/f_055.jpg",
+    "projects/demo-1/dna-intake/frames/f_056.jpg",
+    "projects/demo-1/dna-intake/frames/f_057.jpg",
+    "projects/demo-1/dna-intake/frames/f_058.jpg",
+    "projects/demo-1/dna-intake/frames/f_059.jpg",
+    "projects/demo-1/dna-intake/frames/f_060.jpg",
+    "projects/demo-1/dna-intake/frames/f_061.jpg",
+    "projects/demo-1/dna-intake/frames/f_062.jpg",
+    "projects/demo-1/dna-intake/frames/f_063.jpg",
+    "projects/demo-1/dna-intake/frames/f_064.jpg",
+    "projects/demo-1/dna-intake/frames/f_065.jpg",
+    "projects/demo-1/dna-intake/frames/f_066.jpg",
+    "projects/demo-1/dna-intake/frames/f_067.jpg",
+    "projects/demo-1/dna-intake/frames/f_068.jpg",
+    "projects/demo-1/dna-intake/frames/f_069.jpg",
+    "projects/demo-1/dna-intake/frames/f_070.jpg",
+    "projects/demo-1/dna-intake/frames/f_071.jpg",
+    "projects/demo-1/dna-intake/frames/f_072.jpg",
+    "projects/demo-1/dna-intake/frames/f_073.jpg",
+    "projects/demo-1/dna-intake/frames/f_074.jpg",
+    "projects/demo-1/dna-intake/frames/f_075.jpg",
+    "projects/demo-1/dna-intake/frames/f_076.jpg",
+    "projects/demo-1/dna-intake/frames/f_077.jpg",
+    "projects/demo-1/dna-intake/frames/f_078.jpg",
+    "projects/demo-1/dna-intake/frames/f_079.jpg",
+    "projects/demo-1/dna-intake/frames/f_080.jpg",
+    "projects/demo-1/dna-intake/frames/f_081.jpg",
+    "projects/demo-1/dna-intake/frames/f_082.jpg",
+    "projects/demo-1/dna-intake/frames/f_083.jpg",
+    "projects/demo-1/dna-intake/frames/f_084.jpg",
+    "projects/demo-1/dna-intake/frames/f_085.jpg",
+    "projects/demo-1/dna-intake/frames/f_086.jpg",
+    "projects/demo-1/dna-intake/frames/f_087.jpg",
+    "projects/demo-1/dna-intake/frames/f_088.jpg",
+    "projects/demo-1/dna-intake/frames/f_089.jpg",
+    "projects/demo-1/dna-intake/frames/f_090.jpg",
+    "projects/demo-1/dna-intake/frames/f_091.jpg",
+    "projects/demo-1/dna-intake/frames/f_092.jpg",
+    "projects/demo-1/dna-intake/frames/f_093.jpg",
+    "projects/demo-1/dna-intake/frames/f_094.jpg",
+    "projects/demo-1/dna-intake/frames/f_095.jpg",
+    "projects/demo-1/dna-intake/frames/f_096.jpg",
+    "projects/demo-1/dna-intake/frames/f_097.jpg",
+    "projects/demo-1/dna-intake/frames/f_098.jpg",
+    "projects/demo-1/dna-intake/frames/f_099.jpg",
+    "projects/demo-1/dna-intake/frames/f_100.jpg"
+  ],
+  "duration_s": 50.941,
+  "frame_shots": [
+    1,
+    1,
+    2,
+    2,
+    3,
+    5,
+    6,
+    6,
+    7,
+    7,
+    7,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    9,
+    9,
+    9,
+    9,
+    9,
+    10,
+    10,
+    10,
+    10,
+    10,
+    11,
+    11,
+    11,
+    11,
+    12,
+    12,
+    12,
+    12,
+    13,
+    13,
+    13,
+    14,
+    14,
+    14,
+    14,
+    15,
+    15,
+    15,
+    16,
+    16,
+    16,
+    16,
+    16,
+    17,
+    17,
+    17,
+    17,
+    17,
+    17,
+    18,
+    18,
+    18,
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    20,
+    20,
+    20,
+    21,
+    21,
+    22,
+    22,
+    22,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    23,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24,
+    24
+  ],
+  "title": "Elements Luxury Living - AI Real Estate Film |  Can of Tales",
+  "by": "shot",
+  "shots": [
+    {
+      "n": 1,
+      "frames": [
+        1,
+        2
+      ],
+      "in": 0.0,
+      "out": 1.04,
+      "dur": 1.04
+    },
+    {
+      "n": 2,
+      "frames": [
+        3,
+        4
+      ],
+      "in": 1.04,
+      "out": 2.08,
+      "dur": 1.04
+    },
+    {
+      "n": 3,
+      "frames": [
+        5
+      ],
+      "in": 2.08,
+      "out": 2.4,
+      "dur": 0.32
+    },
+    {
+      "n": 5,
+      "frames": [
+        6
+      ],
+      "in": 2.76,
+      "out": 3.12,
+      "dur": 0.36
+    },
+    {
+      "n": 6,
+      "frames": [
+        7,
+        8
+      ],
+      "in": 3.12,
+      "out": 4.32,
+      "dur": 1.2
+    },
+    {
+      "n": 7,
+      "frames": [
+        9,
+        10,
+        11
+      ],
+      "in": 4.32,
+      "out": 5.68,
+      "dur": 1.36
+    },
+    {
+      "n": 8,
+      "frames": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "in": 5.68,
+      "out": 9.2,
+      "dur": 3.52
+    },
+    {
+      "n": 9,
+      "frames": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "in": 9.2,
+      "out": 11.48,
+      "dur": 2.28
+    },
+    {
+      "n": 10,
+      "frames": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "in": 11.48,
+      "out": 14.12,
+      "dur": 2.64
+    },
+    {
+      "n": 11,
+      "frames": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "in": 14.12,
+      "out": 16.12,
+      "dur": 2.0
+    },
+    {
+      "n": 12,
+      "frames": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "in": 16.12,
+      "out": 18.12,
+      "dur": 2.0
+    },
+    {
+      "n": 13,
+      "frames": [
+        37,
+        38,
+        39
+      ],
+      "in": 18.12,
+      "out": 19.76,
+      "dur": 1.64
+    },
+    {
+      "n": 14,
+      "frames": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "in": 19.76,
+      "out": 22.0,
+      "dur": 2.24
+    },
+    {
+      "n": 15,
+      "frames": [
+        44,
+        45,
+        46
+      ],
+      "in": 22.0,
+      "out": 23.64,
+      "dur": 1.64
+    },
+    {
+      "n": 16,
+      "frames": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "in": 23.64,
+      "out": 25.84,
+      "dur": 2.2
+    },
+    {
+      "n": 17,
+      "frames": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "in": 25.84,
+      "out": 29.28,
+      "dur": 3.44
+    },
+    {
+      "n": 18,
+      "frames": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "in": 29.28,
+      "out": 32.32,
+      "dur": 3.04
+    },
+    {
+      "n": 19,
+      "frames": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "in": 32.32,
+      "out": 38.28,
+      "dur": 5.96
+    },
+    {
+      "n": 20,
+      "frames": [
+        76,
+        77,
+        78
+      ],
+      "in": 38.28,
+      "out": 39.64,
+      "dur": 1.36
+    },
+    {
+      "n": 21,
+      "frames": [
+        79,
+        80
+      ],
+      "in": 39.64,
+      "out": 40.88,
+      "dur": 1.24
+    },
+    {
+      "n": 22,
+      "frames": [
+        81,
+        82,
+        83
+      ],
+      "in": 40.88,
+      "out": 42.32,
+      "dur": 1.44
+    },
+    {
+      "n": 23,
+      "frames": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "in": 42.32,
+      "out": 45.92,
+      "dur": 3.6
+    },
+    {
+      "n": 24,
+      "frames": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "in": 45.92,
+      "out": 50.941,
+      "dur": 5.021
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+ "images": [
+  {
+   "ref": "projects/demo-1/refs/taste/superfithoian-home-b2bb3181.jpg",
+   "from": "pinterest",
+   "board": "https://www.pinterest.com/superfithoian/home/",
+   "use": "look",
+   "look": {
+    "bright": 52,
+    "sat": 15,
+    "hue": 34,
+    "swatches": [
+     "#A0A0A0",
+     "#A0A078",
+     "#A07878",
+     "#787850"
+    ],
+    "subject": "double-height living room",
+    "tags": [
+     "living",
+     "timber",
+     "white",
+     "glass",
+     "daylight",
+     "airy",
+     "minimal",
+     "plants",
+     "warm",
+     "cove",
+     "wood",
+     "open"
+    ],
+    "light": "bright side daylight with warm cove strips",
+    "why": "sunlit open-plan volume, floor-to-ceiling glass, pale wood floors"
+   }
+  },
+  {
+   "ref": "projects/demo-1/refs/taste/superfithoian-home-fb0de932.jpg",
+   "from": "pinterest",
+   "board": "https://www.pinterest.com/superfithoian/home/",
+   "use": "look",
+   "look": {
+    "bright": 36,
+    "sat": 13,
+    "hue": 26,
+    "swatches": [
+     "#000000",
+     "#282828",
+     "#502828",
+     "#787878"
+    ],
+    "subject": "cabin kitchen-living",
+    "tags": [
+     "kitchen",
+     "timber",
+     "charcoal",
+     "grey",
+     "wood",
+     "moody",
+     "mountain",
+     "warm",
+     "matte",
+     "cozy",
+     "rug",
+     "brass"
+    ],
+    "light": "cool overcast glow from mountain window",
+    "why": "dark matte cabinetry against warm wood ceiling, cabin palette"
+   }
+  },
+  {
+   "ref": "projects/demo-1/refs/taste/superfithoian-home-cc39b99e.jpg",
+   "from": "pinterest",
+   "board": "https://www.pinterest.com/superfithoian/home/",
+   "use": "look",
+   "look": {
+    "bright": 35,
+    "sat": 16,
+    "hue": 48,
+    "swatches": [
+     "#505028",
+     "#282800",
+     "#505050",
+     "#000000"
+    ],
+    "subject": "planted courtyard lounge",
+    "tags": [
+     "courtyard",
+     "brick",
+     "cobblestone",
+     "green",
+     "timber",
+     "tropical",
+     "plants",
+     "stone",
+     "dappled",
+     "lush",
+     "wood",
+     "outdoor"
+    ],
+    "light": "dappled sunlight through tree canopy",
+    "why": "jungle-filled atrium, circular brick paving, indoor-outdoor blur"
+   }
+  },
+  {
+   "ref": "projects/demo-1/refs/taste/superfithoian-home-f043bda2.jpg",
+   "from": "pinterest",
+   "board": "https://www.pinterest.com/superfithoian/home/",
+   "use": "look",
+   "look": {
+    "bright": 55,
+    "sat": 17,
+    "hue": 29,
+    "swatches": [
+     "#C8C8C8",
+     "#A07850",
+     "#A0A0A0",
+     "#785028"
+    ],
+    "subject": "oak farmhouse kitchen",
+    "tags": [
+     "kitchen",
+     "oak",
+     "marble",
+     "white",
+     "wood",
+     "beams",
+     "warm",
+     "natural",
+     "sconce",
+     "stone",
+     "classic",
+     "bright"
+    ],
+    "light": "soft warm daylight, even fill",
+    "why": "honey oak cabinetry, veined marble, exposed beams, warm neutral"
+   }
+  },
+  {
+   "ref": "projects/demo-1/refs/taste/superfithoian-home-d0572c5d.jpg",
+   "from": "pinterest",
+   "board": "https://www.pinterest.com/superfithoian/home/",
+   "use": "look",
+   "look": {
+    "bright": 65,
+    "sat": 19,
+    "hue": 31,
+    "swatches": [
+     "#C8C8A0",
+     "#A0A0A0",
+     "#A0A078",
+     "#C8C8C8"
+    ],
+    "subject": "terrazzo stair nook",
+    "tags": [
+     "staircase",
+     "terrazzo",
+     "timber",
+     "beige",
+     "cream",
+     "minimal",
+     "rattan",
+     "soft",
+     "blossom",
+     "warm",
+     "cozy",
+     "muted"
+    ],
+    "light": "soft diffuse warm glow with hidden strip",
+    "why": "terrazzo-and-oak reading nook, muted cream palette, quiet minimalism"
+   }
+  },
+  {
+   "ref": "projects/demo-1/refs/taste/superfithoian-home-4f75d7e5.jpg",
+   "from": "pinterest",
+   "board": "https://www.pinterest.com/superfithoian/home/",
+   "use": "look",
+   "look": {
+    "bright": 48,
+    "sat": 13,
+    "hue": 30,
+    "swatches": [
+     "#502828",
+     "#C8C8C8",
+     "#A0A0A0",
+     "#785028"
+    ],
+    "subject": "boho loft top-down",
+    "tags": [
+     "living",
+     "timber",
+     "green",
+     "rattan",
+     "wood",
+     "plants",
+     "beams",
+     "natural",
+     "cozy",
+     "jute",
+     "warm",
+     "scandi"
+    ],
+    "light": "warm even daylight from above",
+    "why": "green velvet sofa, blond wood floor, rattan and plants, overhead framing"
+   }
+  },
+  {
+   "ref": "projects/demo-1/refs/taste/superfithoian-home-6c4424d5.jpg",
+   "from": "pinterest",
+   "board": "https://www.pinterest.com/superfithoian/home/",
+   "use": "look",
+   "look": {
+    "bright": 57,
+    "sat": 6,
+    "hue": 54,
+    "swatches": [
+     "#A0A0A0",
+     "#787878",
+     "#C8C8C8",
+     "#505028"
+    ],
+    "subject": "white courtyard bench",
+    "tags": [
+     "courtyard",
+     "white",
+     "grey",
+     "timber",
+     "green",
+     "stucco",
+     "minimal",
+     "sconce",
+     "plants",
+     "tile",
+     "outdoor",
+     "clean"
+    ],
+    "light": "bright daylight with warm wall sconces",
+    "why": "crisp white stucco, built-in bench, string lights, small-space clarity"
+   }
+  }
+ ],
+ "use": "look",
+ "rule": "These are LOOK references, not content. Take from them the palette, the quality of light, the materials and texture, the lens feel and the framing — and build something NEW with those qualities. Do NOT reproduce the specific building, room, object, person, logo or artwork in any reference. If a reference shows a house, the output is a DIFFERENT house that feels like it. Never trace, never copy a composition shot-for-shot, never treat a reference as a plate to paint over.",
+ "updated": "2026-07-28T08:07:48",
+ "measured": 7,
+ "described": 7,
+ "described_via": "cli"
+}

@@ -1,0 +1,288 @@
+{
+ "video": [
+  {
+   "id": "shot1",
+   "in": 0,
+   "out": 2.111366804192685
+  },
+  {
+   "id": "shot4",
+   "in": 0,
+   "out": 1.8610071922390719
+  },
+  {
+   "id": "shot6",
+   "in": 0,
+   "out": 2.727668291359868
+  },
+  {
+   "id": "shot8",
+   "in": 0,
+   "out": 2.6292400522316717
+  },
+  {
+   "id": "shot9",
+   "in": 0.38695012823371994,
+   "out": 2.490452609600966
+  },
+  {
+   "id": "shot11",
+   "in": 0,
+   "out": 1.8292000078459416
+  },
+  {
+   "id": "shot13",
+   "in": 0,
+   "out": 1.9304645684656556
+  },
+  {
+   "id": "shot12",
+   "in": 0,
+   "out": 1.5151260035682426
+  },
+  {
+   "id": "shot14",
+   "in": 0,
+   "out": 2.672900714314802
+  },
+  {
+   "id": "shot15",
+   "in": 0,
+   "out": 2.2491992361730597
+  },
+  {
+   "id": "shot16",
+   "in": 0,
+   "out": 2.7284449556671753
+  },
+  {
+   "id": "shot18",
+   "in": 0,
+   "out": 1.8668103046293474
+  },
+  {
+   "id": "shot17",
+   "in": 0,
+   "out": 1.1507098333207473
+  },
+  {
+   "id": "shot18_hf_dd354ceb",
+   "in": 4.030571773616369,
+   "out": 6.04
+  },
+  {
+   "id": "shot20",
+   "in": 1.53823319961031,
+   "out": 4.335239461668024
+  }
+ ],
+ "audio": null,
+ "gaps": [],
+ "notes": [
+  {
+   "by": "you",
+   "kind": "note",
+   "in": 4.53,
+   "out": 7.53,
+   "text": ""
+  },
+  {
+   "by": "you",
+   "kind": "note",
+   "in": 11.54,
+   "out": 14.54,
+   "text": ""
+  }
+ ],
+ "verdicts": {
+  "shot1": "keep",
+  "shot2": "keep",
+  "shot3": "keep",
+  "shot4": "keep",
+  "shot5": "keep",
+  "shot6": "keep",
+  "shot7": "keep",
+  "shot8": "keep",
+  "shot9": "keep",
+  "shot11": "keep",
+  "shot12": "keep",
+  "shot13": "keep",
+  "shot14": "keep",
+  "shot15": "keep",
+  "shot16": "keep",
+  "shot17": "keep",
+  "shot18": "keep",
+  "shot3_hf_e4a3301e": "keep",
+  "shot6_hf_db0eee68": "keep",
+  "shot13_hf_28bd7b12": "keep",
+  "shot16_hf_2a761021": "keep",
+  "shot17_hf_de0d69c3": "keep",
+  "shot2_hf_dc846db4": "keep",
+  "shot1_hf_45bd45d6": "keep",
+  "shot4_hf_c0b2436a": "keep",
+  "shot5_hf_e1ad7f70": "keep",
+  "shot9_hf_d1cc145b": "keep",
+  "shot11_hf_13cf0202": "keep",
+  "shot12_hf_3b9a46c3": "keep",
+  "shot7_hf_ab3a5efe": "keep",
+  "shot8_hf_f441f552": "keep",
+  "shot14_hf_6fa7a398": "keep",
+  "shot15_hf_05e5c69e": "keep",
+  "shot18_hf_2cac7b04": "keep",
+  "shot10": "keep",
+  "shot19": "keep",
+  "shot18_hf_dd354ceb": "keep",
+  "shot20": "keep",
+  "ov1": "keep",
+  "ov2": "keep",
+  "ov3": "keep",
+  "ov4": "keep",
+  "ov5": "keep",
+  "ov6": "keep",
+  "ov7": "keep",
+  "ev1": "keep",
+  "ev2": "keep",
+  "ev3": "keep",
+  "ev4": "keep",
+  "ev5": "keep",
+  "ev6": "keep",
+  "ev7": "keep",
+  "shot11_hf_38daf92c": "keep",
+  "shot10_hf_fe5119b4": "keep",
+  "shot8_hf_b1430257": "keep",
+  "shot8_hf_11e33bf2": "keep",
+  "shot6_hf_509b68a7": "keep",
+  "shot4_hf_a01bd560": "keep",
+  "shot9_hf_c272294b": "keep",
+  "shot9_hf_602ad5dc": "keep",
+  "shot5_hf_be8db4fa": "keep",
+  "shot5_hf_8b9ed695": "keep",
+  "shot3_hf_c03977b2": "keep",
+  "shot1_hf_7edb06fa": "keep",
+  "shot10_hf_9cc099dc": "keep",
+  "shot8_hf_e6ede795": "keep",
+  "shot8_hf_3ed81b42": "keep",
+  "shot8_hf_7eb6bac0": "keep",
+  "shot1_t0p00-2p11": "keep",
+  "shot1_hf_0540e4d5": "keep",
+  "shot1_hf_0540e4d5_t0p00-4p06": "keep",
+  "shotrev_hf_716e8c01": "keep",
+  "shot12_t0p00-4p00": "keep",
+  "shotrev_hf_33a1adb8": "keep",
+  "shot6_hf_31a3c063": "keep"
+ },
+ "meta": {
+  "fade_in": 0,
+  "fade_out": 2,
+  "bar_h": 0,
+  "assembled_from": "spine.json"
+ },
+ "overlay": [],
+ "audiotracks": [
+  {
+   "id": "vo",
+   "name": "Voice-over",
+   "gain_db": 0,
+   "muted": false,
+   "solo": false,
+   "kind": "vo"
+  },
+  {
+   "id": "lane_yl8xtu",
+   "name": "SFX",
+   "gain_db": -3,
+   "muted": false,
+   "solo": false,
+   "kind": "sfx"
+  },
+  {
+   "id": "lane_zax009",
+   "name": "Cello and Beats Es",
+   "gain_db": -8,
+   "muted": false,
+   "solo": false,
+   "kind": "sfx"
+  }
+ ],
+ "audioclips": [
+  {
+   "id": "vo_take",
+   "src": "vo_the_film_take_2_pace083",
+   "track": "vo",
+   "start": 0,
+   "offset": 0,
+   "dur": 32.18,
+   "gain_db": 0,
+   "kind": "vo"
+  },
+  {
+   "id": "cue_k0fftd",
+   "src": "sfx_silver_on_china",
+   "track": "lane_yl8xtu",
+   "start": 13.95,
+   "offset": 0,
+   "dur": 1.48,
+   "gain_db": -16,
+   "kind": "sfx"
+  },
+  {
+   "id": "cue_wg2qoj",
+   "src": "cello_and_beats_estate_2026_07_29t163030",
+   "track": "lane_zax009",
+   "start": 0,
+   "offset": 11.202,
+   "dur": 32.312,
+   "gain_db": 0,
+   "kind": "sfx"
+  }
+ ],
+ "trackui": {
+  "soundgroup": {
+   "expanded": true
+  },
+  "video": {},
+  "overlay": {},
+  "diegetic": {},
+  "notes": {},
+  "aud:vo": {},
+  "aud:lane_yl8xtu": {},
+  "aud:lane_o8d56p": {},
+  "aud:lane_dnzo89": {},
+  "aud:music": {},
+  "aud:lane_zax009": {}
+ },
+ "lanes": [
+  {
+   "type": "vo",
+   "label": "Dialogue / VO",
+   "gain_db": -4,
+   "muted": true,
+   "solo": false
+  },
+  {
+   "type": "ambience",
+   "label": "Ambience",
+   "gain_db": -12,
+   "muted": true,
+   "solo": false
+  },
+  {
+   "type": "clip",
+   "label": "Diegetic",
+   "gain_db": 4,
+   "muted": false,
+   "solo": false
+  },
+  {
+   "type": "music",
+   "label": "Music",
+   "gain_db": -7,
+   "muted": false,
+   "solo": false
+  }
+ ],
+ "mix": {
+  "mode": "music_only",
+  "duck": true
+ }
+}

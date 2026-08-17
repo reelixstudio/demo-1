@@ -1,0 +1,1209 @@
+{
+ "story": {
+  "logline": "A voice defines luxury eight times, each definition finishing somewhere it should not, until one is so private it can only belong to one person \u2014 then the room empties and the definition is handed to you.",
+  "text": "Luxury is not a checklist. So we never show the checklist.\n\nA voice \u2014 unhurried, amused \u2014 starts 'luxury is,' and every time the sentence finishes somewhere it should not. A man reads the paper in a bathtub on a roof, snow falling, steam holding its shape. A woman eats breakfast alone at a table set for twelve. A cellist plays to a drained pool, water still at her ankles. Nobody explains. The sets do it.\n\nOne thing crosses every room: a warm yellow. A robe, a lampshade, a single lemon on marble. Always the same yellow, never the same object. That is the only continuity we give you.\n\nThe definitions get more private as they go, until one is so specific it belongs to exactly one person \u2014 a man in a lit walk-in closet, choosing nothing, just standing there. Hold on it. Let the cut stop opening out and land.\n\nThen hand it over. Last frame: the same room, the figure gone, the yellow still there.",
+  "beats": [
+   {
+    "n": 1,
+    "name": "The voice starts",
+    "what_happens": "Black, then one centered tableau. The voice says 'luxury is' and does not finish. Symmetrical, small figure, room reads first.",
+    "load": 18
+   },
+   {
+    "n": 2,
+    "name": "Ordinary rooms, made impossible",
+    "what_happens": "Bathtub on a snowing roof. Paper, steam, no shiver. The first definition lands and the set is abandoned on the cut.",
+    "load": 26
+   },
+   {
+    "n": 3,
+    "name": "The yellow arrives",
+    "what_happens": "A single lemon on black marble, then a robe two rooms later. Same hue, different object. The viewer notices before anyone says it.",
+    "load": 22
+   },
+   {
+    "n": 4,
+    "name": "Alone, on purpose",
+    "what_happens": "Breakfast for one at a table set for twelve. Deep focus, eye-level, centered. The emptiness is the luxury; nobody says so.",
+    "load": 32
+   },
+   {
+    "n": 5,
+    "name": "The absurd escalation",
+    "what_happens": "A cellist plays to a drained pool, ankle-deep in what is left. Low wide angle. The definitions have stopped being reasonable.",
+    "load": 38
+   },
+   {
+    "n": 6,
+    "name": "The closet \u2014 choosing nothing",
+    "what_happens": "A man in a lit walk-in closet, hands at his sides, choosing nothing. Slow push-in. The cut stops opening out and holds past comfort.",
+    "load": 45
+   },
+   {
+    "n": 7,
+    "name": "Handed back",
+    "what_happens": "The same closet, figure gone, one yellow sleeve still on the rail. 'For you to define.' Hold, then out.",
+    "load": 20
+   }
+  ],
+  "shot_seeds": [
+   "Wide symmetrical tableau, clawfoot bathtub centered on a flat snow-covered rooftop, a small figure reading a newspaper, steam holding its shape in still air; slow push-in, eye-level, deep focus; soft overcast key at 2:1, cool #2E4E7E cast on the snow, one warm #E7B93A towel folded on the rim.",
+   "Centered wide of a twelve-seat dining table, one woman eating breakfast at the near end, eleven places set and untouched; locked slow dolly in, eye-level, deep focus; large window light from camera-left, low contrast, warm #E7B93A lampshades running the length of the table.",
+   "Low wide angle, drained infinity pool, a cellist playing mid-basin with a shallow film of water at her ankles, hilltop villa behind; slow push-in, deep focus, figure small enough to read the whole basin; hard late-afternoon key, #3E6F5E planting on the deck, #E7B93A cushion left on a lounger.",
+   "Slow push-in on a man standing centered in a lit walk-in closet, hands at his sides, choosing nothing, rows of garments symmetrical either side; eye-level, shallow focus falling off past his shoulders; warm practical strip lighting, 3:1, one #E7B93A sleeve breaking the neutral rail.",
+   "Static wide, the same walk-in closet, empty, everything identical except the figure is gone; no movement, deep focus; unchanged warm practicals, soft bloom on the rail chrome, the single #E7B93A sleeve still hanging center frame."
+  ],
+  "approved_at": "2026-07-28T08:18:53"
+ },
+ "craft": {
+  "register": "This is a glossy luxury-commercial. Everything in frame is chosen, maintained and expensive: the architecture, the materials, the furnishings, the finish of every surface, and the condition they are all kept in. Nothing is improvised, makeshift, cheap, worn-out, novelty or comic. If an object would not appear in this world, it is not in the picture.",
+  "look_clause": "glossy luxury-commercial \u00b7 digital, clean (no stock emulation) \u00b7 medium-high contrast \u00b7 low fine grain \u00b7 subtle bloom around windows, skylights and practicals halation \u00b7 palette #EDE6D6 warm cream, #B4506A dusty rose, #4FB0B0 pop teal, #E0A81E luxury gold \u00b7 motivated natural light \u2014 big windows, skylights and backlight carry most spaces \u00b7 soft, wrapping \u00b7 key:fill varies by vignette: high-key/near-even in the pool, hoverboard and closet; low-key chiaroscuro in the ballroom and elevator \u00b7 motivated by windows, chandeliers, floor lamps and wall sconces as practicals \u00b7 HUE LOCK: warm daylight as the default, with a cool blue reserved for the moody vignettes (moon, ballroom)",
+  "camera_clause": "wide establishing (~24-35mm feel), detail inserts (~50-85mm feel), one low ultra-wide for the pop room only \u00b7 clean digital-cinema look styled as a high-end real-estate / commercial reel; AI-generated, so no true lens \u2014 the feel is anamorphic-flavoured widescreen \u00b7 crisp and glossy; high-key in the daylight spaces, moody chiaroscuro in the ballroom and elevator; minimal grain \u00b7 mostly deep for the interiors so the whole space reads; shallow on the detail inserts (shoes, hands, bow tie, teacup) \u00b7 eye-level to slightly low; strong central symmetry favoured; one dramatic low ultra-wide for the pop-room dance \u00b7 moves: slow push-in, slow orbit/arc, locked wide with the subject moving inside it, tracking follow (hoverboard) \u00b7 centre the hero space symmetrically \u00b7 let the architecture frame the subject (arches, columns, doorways, the lift box) \u00b7 leave negative space early for the on-screen serif word",
+  "cut": {
+   "asl_s": 2.12,
+   "shot_count": 24,
+   "longest_hold_s": 5.96,
+   "shortest_s": 0.32,
+   "rhythm": "settling \u2014 shots open out from ~1.5s to ~2.5s; it lands and holds",
+   "default_transition": "hard cut",
+   "forbid": [
+    "dissolve",
+    "wipe",
+    "whip pan"
+   ],
+   "match_cuts": [
+    "the gold/mustard-yellow accent is carried across cuts as the visual glue",
+    "the on-screen gold serif word (LUXURY? \u2192 IT'S SUBJECTIVE \u2192 SUBJECTIVE) links the first three shots"
+   ]
+  },
+  "vo": {
+   "wpm": 129,
+   "pitch_hz": 78.2,
+   "range_st": 13.5,
+   "pauses": 0,
+   "presence": "wall-to-wall \u2014 one continuous voiced take covering ~86% of the runtime (first word 0.0s, last 49.6s)",
+   "style": "conversational, playful and fragmentary \u2014 a running list of definitions of luxury",
+   "pace_note": "conversational while landing; 112 WPM gross across the runtime; accelerates from ~106 WPM at the open to ~160 WPM near the close",
+   "pause_style": "no measured silence between the first and last word \u2014 the delivery never stops for breath; inter-line beats sit ~0.9-1.5s (longest 1.47s)",
+   "script": [
+    {
+     "t": 0.56,
+     "line": "Luxury.",
+     "shot": 1,
+     "wpm": 118,
+     "beat_before_s": 0.56
+    },
+    {
+     "t": 1.6,
+     "line": "It's subjective.",
+     "shot": 3,
+     "wpm": 123,
+     "beat_before_s": 0.53
+    },
+    {
+     "t": 2.88,
+     "line": "Deeply subjective.",
+     "shot": 6,
+     "wpm": 98,
+     "beat_before_s": 0.3
+    },
+    {
+     "t": 4.48,
+     "line": "Fil.",
+     "shot": 7,
+     "wpm": 180,
+     "beat_before_s": 0.38
+    },
+    {
+     "t": 5.68,
+     "line": "It's the moon.",
+     "shot": 8,
+     "wpm": 227,
+     "beat_before_s": 0.87
+    },
+    {
+     "t": 6.8,
+     "line": "No suit, no shuttle, just custom flooring.",
+     "shot": 8,
+     "wpm": 151,
+     "beat_before_s": 0.33
+    },
+    {
+     "t": 10.08,
+     "line": "It's overboarding because walking is so par.",
+     "shot": 10,
+     "wpm": 114,
+     "beat_before_s": 0.5
+    },
+    {
+     "t": 14.88,
+     "line": "Perhaps it's dancing in a ballroom meant for two.",
+     "shot": 12,
+     "wpm": 164,
+     "beat_before_s": 1.11
+    },
+    {
+     "t": 19.12,
+     "line": "Or it's the kind of style that makes walls blush.",
+     "shot": 14,
+     "wpm": 223,
+     "beat_before_s": 0.95
+    },
+    {
+     "t": 23.2,
+     "line": "A conversation between privacy and silence.",
+     "shot": 16,
+     "wpm": 132,
+     "beat_before_s": 1.39
+    },
+    {
+     "t": 27.12,
+     "line": "It's a pool with no screaming children.",
+     "shot": 17,
+     "wpm": 182,
+     "beat_before_s": 1.19
+    },
+    {
+     "t": 30.72,
+     "line": "Maybe it's living like a queen or a room that matches your groove.",
+     "shot": 18,
+     "wpm": 179,
+     "beat_before_s": 1.3
+    },
+    {
+     "t": 36.4,
+     "line": "It's an outfit for every mood.",
+     "shot": 20,
+     "wpm": 174,
+     "beat_before_s": 1.33
+    },
+    {
+     "t": 39.36,
+     "line": "For Mr. Shinoy, it's Heidi in an elevator.",
+     "shot": 21,
+     "wpm": 183,
+     "beat_before_s": 0.89
+    },
+    {
+     "t": 42.56,
+     "line": "And for Mrs.",
+     "shot": 23,
+     "wpm": 221,
+     "beat_before_s": 0.58
+    },
+    {
+     "t": 44.56,
+     "line": "It burrs",
+     "shot": 23,
+     "wpm": 174,
+     "beat_before_s": 1.19
+    },
+    {
+     "t": 46.72,
+     "line": "elements luxury living for you to define.",
+     "shot": 24,
+     "wpm": 127,
+     "beat_before_s": 1.47
+    }
+   ],
+   "script_pattern": {
+    "device": "8 of 17 lines hang on \"it's\"",
+    "line_shape": "median 6 words, 17 lines",
+    "cadence": "mixed \u2014 some lines land on the cut, most ride across it",
+    "opens_with": "Luxury.",
+    "closes_with": "elements luxury living for you to define.",
+    "read_from": "keep the 'it's\u2026' anchor on ~8 of ~17 lines \u2014 the repetition IS the structure; do not vary it away"
+   },
+   "write_to": {
+    "wpm": 160,
+    "words_per_line": 6,
+    "beat_s": 0.95,
+    "words_per_minute_of_film": 111,
+    "one_line_per_shot": true,
+    "land_on_cuts": false,
+    "direction": "Read at ~160 WPM \u2014 conversational \u00b7 Lines of about 6 words \u2014 fragments, not sentences \u00b7 Leave ~0.95s between lines; the longest hold is 1.47s \u00b7 Push through to the end \u2014 149 WPM at the top, 177 at the close \u00b7 Hang 8 of the 17 lines on \"it's\" \u2014 5 bare, 3 carried in on perhaps/or/maybe \u2014 the repetition IS the structure, don't vary it away \u00b7 Mixed \u2014 some lines land on the cut, most ride across it",
+    "template": [
+     "it's \u2026",
+     "perhaps it's \u2026",
+     "or it's \u2026",
+     "maybe it's \u2026"
+    ]
+   }
+  },
+  "forbid": [
+   "shaky handheld",
+   "whip pans",
+   "fast punch-zooms",
+   "drone-style flybys",
+   "dissolve",
+   "wipe",
+   "whip pan"
+  ],
+  "gates": [
+   {
+    "rule": "the gold/mustard-yellow accent must appear at least once in every vignette",
+    "from": "the film"
+   },
+   {
+    "rule": "each hero space keeps exactly one owner-character",
+    "from": "the film"
+   },
+   {
+    "rule": "the ELEMENTS logo is always white on black, serif, with the barcode-like skyscraper mark",
+    "from": "the film"
+   },
+   {
+    "rule": "the moon man's blue suit + tan brogues must match between the insert and the wide",
+    "from": "the film"
+   },
+   {
+    "rule": "the elevator gentleman's pink tweed suit + handlebar moustache stay identical across shots 20 and 22",
+    "from": "the film"
+   }
+  ],
+  "max_refs_per_gen": 4,
+  "from_reference": {
+   "type": "reference_video",
+   "ref": "Elements Luxury Living - AI Real Estate Film | Can of Tales",
+   "premise_input": "Reference film from URL: Elements Luxury Living - AI Real Estate Film | Can of Tales"
+  },
+  "structure": {
+   "structure_model": "anaphora montage \u2014 a chain of 'it's\u2026' vignettes escalating to a brand reveal",
+   "narrative_engine": "escalation",
+   "narrative_pov": "second-person address \u2014 the VO speaks directly to 'you'",
+   "hook": {
+    "type": "provocative one-word question",
+    "promise": "we will redefine what luxury means \u2014 and it will surprise you",
+    "first_frame_visual": "a grand double-height living room with a floating white staircase, the word LUXURY? in gold serif across it",
+    "must_land_by_s": 2.1
+   },
+   "payoff": {
+    "at_pct": 92,
+    "description": "the ELEMENTS 'Luxury Living' logo resolves out of black with the line 'for you to define' \u2014 the anaphora is handed back to the viewer."
+   },
+   "rhythm_style": "anaphoric montage that settles \u2014 quick teasing cuts up front (~1.0-1.5s), opening out to longer contemplative holds on the hero spaces (up to ~6s)",
+   "pace_curve": [
+    {
+     "at_pct": 5,
+     "asl_s": 1
+    },
+    {
+     "at_pct": 15,
+     "asl_s": 1.3
+    },
+    {
+     "at_pct": 35,
+     "asl_s": 2.3
+    },
+    {
+     "at_pct": 60,
+     "asl_s": 2.5
+    },
+    {
+     "at_pct": 90,
+     "asl_s": 4.5
+    }
+   ],
+   "asl_s": 2.12,
+   "shot_count": 24,
+   "longest_hold_s": 5.96,
+   "match_cut_motifs": [
+    "the gold/mustard-yellow accent is carried across cuts as the visual glue",
+    "the on-screen gold serif word (LUXURY? \u2192 IT'S SUBJECTIVE \u2192 SUBJECTIVE) links the first three shots"
+   ],
+   "shot_size_mix": {
+    "ECU": 5,
+    "CU": 15,
+    "MCU": 10,
+    "MS": 20,
+    "WS": 35,
+    "EWS": 15
+   },
+   "composition_rules": [
+    "centre the hero space symmetrically",
+    "let the architecture frame the subject (arches, columns, doorways, the lift box)",
+    "leave negative space early for the on-screen serif word",
+    "make the subject small inside a large, richly-dressed volume"
+   ],
+   "color_script": [
+    {
+     "beat_id": "b1",
+     "dominant_hue": "warm cream / beige",
+     "saturation": "medium",
+     "brightness": "high",
+     "mood": "inviting, poised"
+    },
+    {
+     "beat_id": "b2",
+     "dominant_hue": "green + delft blue + crimson (shifting)",
+     "saturation": "high",
+     "brightness": "mixed",
+     "mood": "eclectic, restless"
+    },
+    {
+     "beat_id": "b3",
+     "dominant_hue": "teal + mustard gold",
+     "saturation": "medium-high",
+     "brightness": "medium",
+     "mood": "surreal, playful"
+    },
+    {
+     "beat_id": "b4",
+     "dominant_hue": "bright daylight blue, then cool desaturated blue",
+     "saturation": "medium",
+     "brightness": "high\u2192low",
+     "mood": "free, then grand"
+    },
+    {
+     "beat_id": "b5",
+     "dominant_hue": "dusty rose + yellow; warm amber; teal-green",
+     "saturation": "medium",
+     "brightness": "mixed",
+     "mood": "witty, hushed, serene"
+    },
+    {
+     "beat_id": "b6",
+     "dominant_hue": "blush + green; teal/pink/red; pink + yellow",
+     "saturation": "high",
+     "brightness": "high",
+     "mood": "the brightest, most joyful run"
+    },
+    {
+     "beat_id": "b7",
+     "dominant_hue": "warm wood + pink; terracotta red",
+     "saturation": "medium-high",
+     "brightness": "medium",
+     "mood": "eccentric, comic"
+    },
+    {
+     "beat_id": "b8",
+     "dominant_hue": "black + white",
+     "saturation": "none",
+     "brightness": "low",
+     "mood": "clean, definitive"
+    }
+   ],
+   "vo_pattern": {
+    "device": "anaphora \u2014 most lines begin 'It's\u2026' (8 of ~17: 5 bare, 3 carried in on perhaps / or / maybe)",
+    "line_shape": "a short fragment, ~6 words, each delivering one surprising definition of luxury",
+    "how_it_opens": "a flat abstract noun ('Luxury.') immediately undercut by the thesis ('It's subjective')",
+    "how_it_lands": "names two specific owners, then hands the definition to the audience \u2014 'for you to define'",
+    "borrow_this": "keep the 'it's\u2026' anchor on ~8 of ~17 lines \u2014 the repetition IS the structure; do not vary it away"
+   },
+   "vo_write_to": {
+    "wpm": 160,
+    "words_per_line": 6,
+    "beat_s": 0.95,
+    "words_per_minute_of_film": 111,
+    "one_line_per_shot": true,
+    "land_on_cuts": false,
+    "direction": "Read at ~160 WPM \u2014 conversational \u00b7 Lines of about 6 words \u2014 fragments, not sentences \u00b7 Leave ~0.95s between lines; the longest hold is 1.47s \u00b7 Push through to the end \u2014 149 WPM at the top, 177 at the close \u00b7 Hang 8 of the 17 lines on \"it's\" \u2014 5 bare, 3 carried in on perhaps/or/maybe \u2014 the repetition IS the structure, don't vary it away \u00b7 Mixed \u2014 some lines land on the cut, most ride across it",
+    "template": [
+     "it's \u2026",
+     "perhaps it's \u2026",
+     "or it's \u2026",
+     "maybe it's \u2026"
+    ]
+   },
+   "scene_shape": {
+    "scenes": 13,
+    "shots": 23,
+    "beats": 8,
+    "shots_per_scene": {
+     "min": 1,
+     "max": 4,
+     "mean": 1.77,
+     "histogram": {
+      "1": 6,
+      "4": 1,
+      "2": 5,
+      "3": 1
+     }
+    },
+    "patterns": [
+     {
+      "scene": "It's subjective \u2014 the flip-book",
+      "shots": 4,
+      "sizes": [
+       "EWS",
+       "WS",
+       "WS",
+       "WS"
+      ],
+      "seconds": [
+       1.1,
+       0.3,
+       0.3,
+       1.2
+      ]
+     },
+     {
+      "scene": "The moon lounge",
+      "shots": 2,
+      "sizes": [
+       "CU",
+       "EWS"
+      ],
+      "seconds": [
+       1.4,
+       3.5
+      ]
+     },
+     {
+      "scene": "Hoverboard by the pool",
+      "shots": 2,
+      "sizes": [
+       "CU",
+       "MS"
+      ],
+      "seconds": [
+       2.3,
+       2.6
+      ]
+     },
+     {
+      "scene": "Ballroom for two",
+      "shots": 2,
+      "sizes": [
+       "EWS",
+       "MS"
+      ],
+      "seconds": [
+       2.0,
+       2.0
+      ]
+     },
+     {
+      "scene": "Style that makes walls blush",
+      "shots": 2,
+      "sizes": [
+       "MS",
+       "WS"
+      ],
+      "seconds": [
+       1.7,
+       2.2
+      ]
+     },
+     {
+      "scene": "Privacy and silence",
+      "shots": 2,
+      "sizes": [
+       "CU",
+       "WS"
+      ],
+      "seconds": [
+       1.6,
+       2.2
+      ]
+     },
+     {
+      "scene": "Mr. Shinoy's high tea",
+      "shots": 3,
+      "sizes": [
+       "MS",
+       "CU",
+       "MCU"
+      ],
+      "seconds": [
+       1.3,
+       1.3,
+       1.4
+      ]
+     }
+    ],
+    "measured_from": "dna.scenes[].shots joined to segments.json"
+   },
+   "note": "The reference's ARCHITECTURE \u2014 how it is assembled over time. Borrowed like the look is borrowed: the shape is craft, the rooms in it are not."
+  },
+  "note": "Craft only \u2014 grammar, look and rhythm borrowed from the reference. The world below is this film's own.",
+  "morphs": {
+   "has": true,
+   "rule": "Every vignette ends by admitting it is absurd: on the LAST shot of each definition the person's head is an animal's, on their own human body, in their own clothes, in the same room, held in the same composure. Nothing else in the frame acknowledges it.",
+   "how": "Anatomical, not costume. Real fur, real hide, real eyes, correct bone structure, scaled to a human neck and sitting naturally on the shoulders. Photographed absolutely straight \u2014 the same lens, light and grade as every other shot. No mask, no helmet, no headpiece, no seam at the neck, no fancy dress, no comedy, no CGI sheen. The film does not wink.",
+   "why": "Danney, 2026-07-28: the concept that makes this ours rather than the reference's.",
+   "technique": "THE CHANGE HAPPENS BEHIND SOMETHING. Danney, 2026-07-28: *\"when Naruto does his clone technique there's a poof cloud out of nowhere to cover the part that is morphing \u2014 when the smoke goes away it's revealed the new identity.\"* That is the right mechanism and the reason is technical: a generator is poor at morphing a face and good at occluding one. Interpolating a human head into an animal's over a second and a half gives you mush; hiding the instant of change behind something gives you two easy halves and one clean reveal.\n\nWhat it must NOT be is a puff of cartoon smoke. This film's register forbids anything novelty or comic, and its own edit forbids dissolve, wipe and whip pan \u2014 so the cover is never an effect. It is a REAL OBJECT ALREADY IN THE ROOM, moving through the frame in front of the head: steam, a garment, a bow arm, spray. Same structure as the poof, dressed as the film."
+  },
+  "title_cards": {
+   "measured_from": "dna-intake/proxy.mp4 (the reference), sampled at 8fps and read for gold-pixel coverage \u2014 not guessed",
+   "windows_s": [
+    [
+     0.12,
+     0.88
+    ],
+    [
+     1.12,
+     2.13
+    ],
+    [
+     3.37,
+     4.25
+    ]
+   ],
+   "note": "Type lives ONLY in the first ~4.3s, popping on and off with the voice; the film then runs clean to the end card. Three beats, one per VO phrase.",
+   "opening": {
+    "type": "kinetic word-cards, burned in, centred",
+    "font": "didone-italic",
+    "fill": "#F2D92E",
+    "fill_source": "sampled from the reference: #F5DF42 / #F0D914 \u2014 canary, NOT the film's #E7B93A continuity gold",
+    "case": "upper",
+    "size": 0.185,
+    "fade": 0.1,
+    "cards": [
+     {
+      "text": "LUXURY",
+      "on_vo": "Luxury",
+      "shot": 1
+     },
+     {
+      "text": "IS\u2026",
+      "on_vo": "is\u2026",
+      "shot": 4
+     }
+    ],
+    "rule": "a card lands ON its own VO phrase and is abandoned on the cut \u2014 never a caption of the picture"
+   },
+   "end_card": {
+    "type": "letterspaced lockup, white on black, fades up and holds",
+    "font": "didone",
+    "fill": "#F4F1EA",
+    "size": 0.062,
+    "track": 0.2,
+    "fade": 0.55,
+    "wordmark": "LUXURY IS\u2014",
+    "sub": {
+     "text": "FOR YOU TO DEFINE",
+     "size": 0.02,
+     "track": 0.62,
+     "fill": "#C9C2B4"
+    },
+    "note": "mirrors the reference's ELEMENTS / LUXURY LIVING lockup in structure; the words are OUR film's (shot 19's line), not the reference's brand"
+   },
+   "reader": "tools/shotlist/titles.py \u2014 bake.py draws these from CUT.video[i].overlays[]; the Cut's \uff0bTitle button now writes the same model",
+   "at": "2026-07-29"
+  }
+ },
+ "world": {
+  "locations": [
+   {
+    "id": "@snow_rooftop",
+    "name": "snowing rooftop",
+    "note": "The open-air roof deck of a tall building, outdoors under open sky, with a clawfoot bathtub standing in the middle of it. Nothing overhead \u2014 no ceiling, no canopy, no pergola, no glass roof: falling snow lands on every surface because the sky is directly above. Flat roof, snow lying deep and undisturbed underfoot, a low parapet at the edge and the city dropping away beyond it to a far horizon. Steam holds its shape in the still cold air. A cool #2E4E7E cast on the snow.",
+    "beats": [
+     1,
+     2
+    ],
+    "fields": {
+     "tod": "blue hour, snowing",
+     "scale": "a roof deck wide enough to walk around the tub freely \u2014 the tub reads small against it; open sky above and the whole city below the parapet",
+     "materials": "snow over stone paving, a low glass-and-steel parapet, warm timber and lit glass at the penthouse wall behind",
+     "mood": "still, hushed, absurdly comfortable in the cold",
+     "continuity": "always OUTDOORS and always open to the sky; never an interior, an atrium or a covered terrace"
+    }
+   },
+   {
+    "id": "@twelve_seat_table",
+    "name": "twelve-seat dining room",
+    "note": "A long table set for twelve with eleven places untouched, large low-contrast window light from camera-left, warm #E7B93A lampshades running its length.",
+    "beats": [
+     4
+    ]
+   },
+   {
+    "id": "@drained_pool",
+    "name": "drained infinity pool",
+    "note": "An emptied infinity pool at a hilltop villa with only a shallow film of water left in the basin, #3E6F5E planting on the deck, hard late-afternoon light.",
+    "beats": [
+     5
+    ]
+   },
+   {
+    "id": "@walk_in_closet",
+    "name": "lit walk-in closet",
+    "note": "A closet with symmetrical rows of garments either side and a neutral rail under warm practical strip lighting, identical whether the figure is present or gone.",
+    "beats": [
+     6,
+     7
+    ]
+   }
+  ],
+  "characters": [
+   {
+    "id": "@bathtub_man",
+    "name": "man in the bathtub",
+    "note": "A man in his fifties about to get into an outdoor bath, and completely at ease about it \u2014 bare shoulders and bare feet, a heavy waffle-cotton robe worn open and loose over nothing, sleeves pushed up, belt hanging untied. Damp hair. No coat, no knitwear, no trousers, no shoes, no socks, no watch \u2014 nothing he would have taken off to bathe. Calm, faintly amused, unbothered by cold.",
+    "beats": [
+     1,
+     2
+    ],
+    "fields": {
+     "wardrobe": "open waffle-cotton robe over bare skin, untied belt, barefoot \u2014 bathing, not dressed",
+     "age": "early 50s",
+     "continuity": "the same man and the same robe in every rooftop shot; he never gains a layer, because he is in a bath"
+    }
+   },
+   {
+    "id": "@breakfast_woman",
+    "name": "woman at breakfast",
+    "note": "A woman eating breakfast alone at the near end of a table set for twelve; the script gives no physical description.",
+    "beats": [
+     4
+    ]
+   },
+   {
+    "id": "@cellist",
+    "name": "the cellist",
+    "note": "A woman playing cello mid-basin in the drained pool, ankle-deep in the water that is left; no further description is given.",
+    "beats": [
+     5
+    ]
+   },
+   {
+    "id": "@closet_man",
+    "name": "man in the closet",
+    "note": "A man standing centered in the lit closet, hands at his sides, choosing nothing \u2014 the one definition private enough to belong to a single person; his face is never described.",
+    "beats": [
+     6
+    ]
+   }
+  ],
+  "props": [
+   {
+    "id": "@yellow_object",
+    "name": "the warm yellow",
+    "note": "A recurring warm yellow (#E7B93A) that appears as a different object each room \u2014 a towel, a lemon on black marble, a robe, lampshades, a cushion, a sleeve \u2014 always the same hue, never the same object; the film's only stated continuity.",
+    "beats": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "id": "@clawfoot_bathtub",
+    "name": "clawfoot bathtub",
+    "note": "A freestanding cast-iron clawfoot tub, full size \u2014 long enough for a grown adult to lie back in with room to spare, its rim at about mid-thigh on a standing person. Standing impossibly on the open snowing rooftop, filled with steaming water.",
+    "beats": [
+     1,
+     2
+    ],
+    "fields": {
+     "materials": "cast iron, glossy white enamel inside and out, polished chrome feet and taps",
+     "scale": "170\u2013180cm long, rim ~60cm off the ground \u2014 an adult fits lying down, shoulders under the rim. NEVER a small, toy or tub-shaped basin.",
+     "states": "filled with hot water, steaming"
+    }
+   },
+   {
+    "id": "@newspaper",
+    "name": "newspaper",
+    "note": "The paper the man reads in the bathtub, unshivering in the cold.",
+    "beats": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "@cello",
+    "name": "cello",
+    "note": "The instrument the cellist plays to the empty drained pool.",
+    "beats": [
+     5
+    ]
+   }
+  ],
+  "palette_rule": "One warm yellow (#E7B93A) crosses every room \u2014 always the same hue, never the same object \u2014 and it is the only continuity the film gives you.",
+  "through_line": "An unhurried, amused voice repeats 'luxury is\u2014' over centered, symmetrical tableaux that each finish somewhere impossible and are abandoned on the cut, the definitions growing more private until the last one holds and hands the definition to you."
+ },
+ "locked": false,
+ "built_via": "cli",
+ "summary": "An unhurried, amused voice keeps beginning the sentence \"Luxury is\u2026\" and every time it finishes somewhere it shouldn't \u2014 spoken over a run of impossibly calm, symmetrical rooms: a man reading the paper in a bathtub on a snowing roof, a woman eating breakfast alone at a table set for twelve, a cellist playing to a drained pool. One warm yellow object threads through every room \u2014 a towel, a lemon, a lampshade, a robe \u2014 the only thing that carries over, and nobody points it out. The definitions grow more private until one is so specific it can only belong to a single man, standing in a lit walk-in closet choosing nothing. Then the room empties, the yellow stays, and the last line hands the definition to you.",
+ "premise": "Luxury isn't a checklist of things \u2014 it's the private, faintly absurd freedom to want nothing, and it's yours to define.",
+ "ending": "It lands on the empty walk-in closet \u2014 the man gone, one warm-yellow sleeve still on the rail \u2014 as the voice says \"For you to define.\"",
+ "runtime_guess": "65-85s",
+ "scenes": [
+  {
+   "n": 1,
+   "title": "The voice starts",
+   "location": "@snow_rooftop",
+   "what_happens": "From black, a symmetrical wide fades up: a clawfoot bathtub centered on a flat, snow-covered rooftop, a small figure reading a newspaper, steam holding its shape in the still cold air. The room reads before the man does. The voice begins the sentence and lets it hang, unfinished.",
+   "who": [
+    "@bathtub_man"
+   ],
+   "props": [
+    "@clawfoot_bathtub",
+    "@newspaper",
+    "@yellow_object"
+   ],
+   "narration": "Luxury is\u2026",
+   "narration_source": "story",
+   "dialogue": [],
+   "camera": "Wide symmetrical tableau, slow push-in up from black, eye-level, deep focus.",
+   "why_it_lands": "The unfinished sentence hands the viewer the game in one line \u2014 they lean in to finish it themselves.",
+   "hero": [
+    "@snow_rooftop",
+    "@bathtub_man",
+    "@clawfoot_bathtub",
+    "@newspaper"
+   ],
+   "present": [
+    "@yellow_object"
+   ],
+   "shots": [
+    {
+     "role": "flash",
+     "what_happens": "From black, a drained infinity pool fades up head-on and empty, its long basin falling away symmetrically toward a hilltop villa. Clean and still.",
+     "camera": "EWS, dead-centered, eye-level, deep focus, a slow push up from black.",
+     "in_frame": [
+      "@drained_pool"
+     ],
+     "vo": "Luxury"
+    },
+    {
+     "role": "flash",
+     "what_happens": "A long twelve-seat dining room snaps in for an instant \u2014 the table running straight down the center of frame, chairs mirrored on both walls.",
+     "camera": "WS, symmetrical, eye-level, locked \u2014 a hard-cut flash.",
+     "in_frame": [
+      "@twelve_seat_table"
+     ],
+     "vo": ""
+    },
+    {
+     "role": "flash",
+     "what_happens": "A lit walk-in closet flashes up \u2014 neutral garments ranked symmetrically down both sides, the aisle dead center.",
+     "camera": "WS, symmetrical, eye-level, locked \u2014 a hard-cut flash.",
+     "in_frame": [
+      "@walk_in_closet"
+     ],
+     "vo": ""
+    },
+    {
+     "role": "establish",
+     "what_happens": "The snow-covered rooftop settles in: a clawfoot tub centered against falling snow, a small figure just readable inside it. The frame holds, handing the film forward.",
+     "camera": "WS, symmetrical, eye-level, deep focus, the push-in easing to a hold.",
+     "in_frame": [
+      "@snow_rooftop",
+      "@bathtub_man"
+     ],
+     "vo": "is\u2026"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Warm where you shouldn't be",
+   "location": "@snow_rooftop",
+   "what_happens": "We stay on the rooftop tub as the snow keeps falling and the man never shivers \u2014 the paper turns, the steam holds. The voice finally completes the first definition, and it lands somewhere absurd. On the cut, the whole impossible set is simply abandoned.",
+   "who": [
+    "@bathtub_man"
+   ],
+   "props": [
+    "@clawfoot_bathtub",
+    "@newspaper",
+    "@yellow_object"
+   ],
+   "narration": "Luxury is being warm somewhere you've no business being warm.",
+   "narration_source": "draft",
+   "dialogue": [],
+   "camera": "Eye-level, deep focus; the push-in settles, then a hard cut walks away from the set.",
+   "why_it_lands": "An impossible image kept perfectly calm proves the film's contract: it will show, never explain.",
+   "hero": [
+    "@snow_rooftop",
+    "@bathtub_man",
+    "@clawfoot_bathtub",
+    "@newspaper"
+   ],
+   "present": [
+    "@yellow_object"
+   ],
+   "shots": [
+    {
+     "role": "insert",
+     "what_happens": "Extreme close on the top edge of the newspaper as a page turns, steam curling up past it and holding its shape in the cold.",
+     "camera": "ECU, eye-level, shallow focus on the paper's edge, no move.",
+     "in_frame": [
+      "@newspaper"
+     ],
+     "vo": "Luxury is being warm"
+    },
+    {
+     "role": "reaction",
+     "what_happens": "The man, low in the water, reads on without a shiver as snow settles on his shoulders and hair.",
+     "camera": "MCU, eye-level, shallow focus, a breath of push-in.",
+     "in_frame": [
+      "@bathtub_man"
+     ],
+     "vo": "somewhere you've"
+    },
+    {
+     "role": "establish",
+     "what_happens": "The clawfoot tub whole in frame, the man low in the water, steam standing straight up in the still air.",
+     "camera": "MS from a high angle looking down into the tub, symmetrical, deep focus \u2014 the tub whole in frame, steam standing straight up toward the lens.",
+     "in_frame": [
+      "@clawfoot_bathtub",
+      "@bathtub_man"
+     ],
+     "vo": "no business"
+    },
+    {
+     "role": "reveal",
+     "what_happens": "The entire impossible set at once \u2014 tub, man and steam marooned on a flat snowbound rooftop \u2014 held one beat, then gone on a hard cut.",
+     "camera": "WS, symmetrical, eye-level, deep focus; a hard cut away from the set.",
+     "in_frame": [
+      "@snow_rooftop",
+      "@bathtub_man",
+      "@clawfoot_bathtub"
+     ],
+     "vo": "being warm.",
+     "morph": {
+      "who": "@bathtub_man",
+      "into": "polar bear",
+      "note": "a white polar bear's head on his human body \u2014 dense wet-looking white fur, small dark eyes, black nose and lips, ears low and round; the skull heavy and correct, sitting naturally on a man's shoulders above the rim of the tub. He is still reading. He does not react. The water is what hides the change; nothing else in the frame moves for it.",
+      "cover": "he sinks below the surface \u2014 the water closes over the head and for a beat there is nothing but the moving surface and the steam above it \u2014 and then he rises back up in the same place, at the same height, and the head that breaks the surface is the polar bear's, water running off it. The newspaper stays exactly where it was"
+     }
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "The yellow arrives",
+   "location": "@twelve_seat_table",
+   "what_happens": "Tight macro on a single lemon resting on black marble, warm yellow glowing against the dark stone. A rack of focus, then a match-cut to a yellow robe in another room \u2014 same hue, different object. The voice names none of it; the pattern is left for the eye to catch.",
+   "who": [],
+   "props": [
+    "@yellow_object"
+   ],
+   "narration": "Luxury is a detail you're fairly sure you weren't meant to notice.",
+   "narration_source": "draft",
+   "dialogue": [],
+   "camera": "Tight macro, slow rack focus; match-cut on the yellow into the next room.",
+   "why_it_lands": "The viewer clocks the thread themselves \u2014 a private reward that makes them an accomplice, not an audience.",
+   "hero": [
+    "@twelve_seat_table",
+    "@yellow_object"
+   ],
+   "present": [],
+   "shots": [
+    {
+     "role": "insert",
+     "what_happens": "Macro on a single lemon resting on black marble, its warm yellow glowing hard against the dark stone.",
+     "camera": "ECU macro, eye-level, shallow focus on the peel.",
+     "in_frame": [
+      "@yellow_object"
+     ],
+     "vo": "Luxury is a detail"
+    },
+    {
+     "role": "insert",
+     "what_happens": "The focus racks slowly along the lemon, the yellow softening into a bloom of pure warm color.",
+     "camera": "CU, slow rack focus, no camera move.",
+     "in_frame": [
+      "@yellow_object"
+     ],
+     "vo": "you're fairly sure"
+    },
+    {
+     "role": "reveal",
+     "what_happens": "Match-cut on the same yellow \u2014 now a robe draped over a chair in the long dining room, the hue carried straight across the cut.",
+     "camera": "MS, eye-level, deep focus, a match-cut on the color.",
+     "in_frame": [
+      "@yellow_object",
+      "@twelve_seat_table"
+     ],
+     "vo": "you weren't meant to notice."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Alone, on purpose",
+   "location": "@twelve_seat_table",
+   "what_happens": "Pull wide on a twelve-seat dining table, warm yellow lampshades running its length, one woman eating breakfast at the near end. Eleven places are set and untouched. Nothing is wrong; the emptiness is plainly the point.",
+   "who": [
+    "@breakfast_woman"
+   ],
+   "props": [
+    "@yellow_object"
+   ],
+   "narration": "Luxury is a table laid for twelve, and no intention of filling it.",
+   "narration_source": "draft",
+   "dialogue": [],
+   "camera": "Centered wide, locked slow dolly-in, eye-level, deep focus.",
+   "why_it_lands": "The empty seats read as chosen, not lonely \u2014 luxury as the power to leave eleven places empty.",
+   "hero": [
+    "@twelve_seat_table",
+    "@breakfast_woman",
+    "@yellow_object"
+   ],
+   "present": [],
+   "shots": [
+    {
+     "role": "insert",
+     "what_happens": "Close on one untouched place setting \u2014 polished silver squared to the cloth, a warm yellow lampshade glowing just behind it.",
+     "camera": "CU, eye-level, shallow focus, holding still.",
+     "in_frame": [
+      "@twelve_seat_table",
+      "@yellow_object"
+     ],
+     "vo": "Luxury is"
+    },
+    {
+     "role": "establish",
+     "what_happens": "A single woman eats breakfast at the near end of the long table, small against the empty room.",
+     "camera": "MS, eye-level, deep focus, a locked slow dolly-in.",
+     "in_frame": [
+      "@breakfast_woman",
+      "@twelve_seat_table"
+     ],
+     "vo": "a table laid for twelve,"
+    },
+    {
+     "role": "reveal",
+     "what_happens": "The full table revealed \u2014 yellow lampshades running its length, eleven places set and untouched, the woman alone at the far end.",
+     "camera": "EWS, centered, symmetrical, eye-level, deep focus, the dolly-in continuing.",
+     "in_frame": [
+      "@twelve_seat_table",
+      "@breakfast_woman",
+      "@yellow_object"
+     ],
+     "vo": "and no intention of filling it.",
+     "morph": {
+      "who": "@breakfast_woman",
+      "into": "giraffe",
+      "note": "a giraffe's head on her human body \u2014 tan and cream reticulated hide, ossicones, long lashes over dark eyes, muzzle level and calm; the neck lengthens only as far as the frame needs and rises out of her collar as if it had always been hers. She goes on eating.",
+      "cover": "as the camera pulls wide, the nearest yellow lampshade swings through the foreground and passes fully across her head \u2014 one beat of nothing but the shade \u2014 and clears to the giraffe's head, already level and calm"
+     }
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The absurd escalation",
+   "location": "@drained_pool",
+   "what_happens": "Low, wide angle across a drained infinity pool, hilltop villa behind. A cellist plays mid-basin, ankle-deep in the last film of water, a yellow cushion left on a lounger at the rim. She plays her whole heart out and there is no one to hear it.",
+   "who": [
+    "@cellist"
+   ],
+   "props": [
+    "@cello",
+    "@yellow_object"
+   ],
+   "narration": "Luxury is playing your whole heart out to absolutely no one.",
+   "narration_source": "draft",
+   "dialogue": [],
+   "camera": "Low wide angle, slow push-in, deep focus, figure small enough to read the whole basin.",
+   "why_it_lands": "The absurdity peaks \u2014 a private concert for no one \u2014 and the definitions visibly slip past reason.",
+   "hero": [
+    "@drained_pool",
+    "@cellist",
+    "@yellow_object",
+    "@cello"
+   ],
+   "present": [],
+   "shots": [
+    {
+     "role": "insert",
+     "what_happens": "Close on the bow drawing across the cello's strings, the cellist's hands working with full feeling.",
+     "camera": "CU, eye-level, shallow focus on the strings, a faint push-in.",
+     "in_frame": [
+      "@cellist",
+      "@cello"
+     ],
+     "vo": "Luxury is playing your whole heart out"
+    },
+    {
+     "role": "reveal",
+     "what_happens": "Low and wide across the drained infinity pool: she plays alone in the empty basin, ankle-deep in the last film of water, a yellow cushion left on a lounger at the rim, villa above.",
+     "camera": "EWS, low angle, deep focus, slow push-in, the figure small in the basin.",
+     "in_frame": [
+      "@drained_pool",
+      "@cellist",
+      "@cello",
+      "@yellow_object"
+     ],
+     "vo": "to absolutely no one.",
+     "morph": {
+      "who": "@cellist",
+      "into": "flamingo",
+      "note": "a flamingo's head on the cellist's human body \u2014 pale coral plumage tight to the skull, the heavy black-tipped bill lowered toward the strings, one dark eye; the neck curves down to the instrument the way a player's does. The bow never stops.",
+      "cover": "her bow arm and the cello's neck sweep up across her face on a long stroke and hold there for a beat, hiding the head completely; as the arm comes down the flamingo's head is lowered to the strings, still playing"
+     }
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The closet \u2014 choosing nothing",
+   "location": "@walk_in_closet",
+   "what_happens": "A man stands centered in a lit walk-in closet, rows of garments symmetrical on either side, one yellow sleeve breaking the neutral rail. His hands are at his sides; he chooses nothing, just stands there. The push-in stops opening out, and the shot holds past comfort.",
+   "who": [
+    "@closet_man"
+   ],
+   "props": [
+    "@yellow_object"
+   ],
+   "narration": "Luxury is standing in front of everything you own, and wanting none of it.",
+   "narration_source": "draft",
+   "dialogue": [],
+   "camera": "Slow push-in, eye-level, shallow focus falling off past his shoulders; holds past comfort.",
+   "why_it_lands": "The camera stops widening and traps us with one man \u2014 so specific it can only be his, and almost yours.",
+   "hero": [
+    "@walk_in_closet",
+    "@closet_man",
+    "@yellow_object"
+   ],
+   "present": [],
+   "shots": [
+    {
+     "role": "insert",
+     "what_happens": "Close on a single yellow sleeve breaking a long neutral rail, chrome bar bright beside it, the man's idle hand just in frame below.",
+     "camera": "CU, eye-level, shallow focus on the sleeve, no move.",
+     "in_frame": [
+      "@yellow_object",
+      "@closet_man",
+      "@walk_in_closet"
+     ],
+     "vo": "Luxury is standing in front of everything you own,"
+    },
+    {
+     "role": "reveal",
+     "what_happens": "The man centered in the lit closet, symmetrical rows of clothes to either side, hands at his sides \u2014 he reaches for nothing and the frame holds past comfort.",
+     "camera": "WS, symmetrical, eye-level, shallow focus falling off past his shoulders, a slow push-in that opens out and holds.",
+     "in_frame": [
+      "@walk_in_closet",
+      "@closet_man",
+      "@yellow_object"
+     ],
+     "vo": "and wanting none of it.",
+     "morph": {
+      "who": "@closet_man",
+      "into": "peacock",
+      "note": "a peacock's head on his human body \u2014 iridescent blue-green throat feathers, the fine crest upright, a small pale eye; the head turned to the rail of clothes he is not choosing. The wardrobe behind him is plumage he has no use for.",
+      "cover": "a long hanging coat on the near rail swings into the foreground and passes right across him, blacking out the head for a beat; as it swings back the peacock's head is there, turned to the clothes he is not choosing"
+     }
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Handed back",
+   "location": "@walk_in_closet",
+   "what_happens": "The same closet, everything identical \u2014 except the figure is gone. Nothing moves. The single yellow sleeve still hangs, dead center on the rail, soft bloom on the chrome. The voice hands the sentence over and the frame holds, then goes out.",
+   "who": [],
+   "props": [
+    "@yellow_object"
+   ],
+   "narration": "For you to define.",
+   "narration_source": "story",
+   "dialogue": [],
+   "camera": "Static wide, no movement, deep focus, soft bloom on the rail chrome; hold, then out.",
+   "why_it_lands": "The empty room plus the surviving yellow turns the definition over to the viewer \u2014 the seat is open.",
+   "hero": [
+    "@walk_in_closet",
+    "@yellow_object"
+   ],
+   "present": [],
+   "shots": [
+    {
+     "role": "reveal",
+     "what_happens": "The same closet, identical and still \u2014 but the man is gone. The one yellow sleeve still hangs dead center on the rail, soft bloom on the chrome. The frame holds, then goes out.",
+     "camera": "EWS from a high angle, symmetrical, static, deep focus \u2014 the whole closet from above the door line, the rail running away below. Hold, then out.",
+     "in_frame": [
+      "@walk_in_closet",
+      "@yellow_object"
+     ],
+     "vo": "For you to define."
+    }
+   ]
+  }
+ ],
+ "synced_from_world": true,
+ "shot_budget": {
+  "ok": true,
+  "wpm_of_film": 111,
+  "words": 66,
+  "seconds_of_film": 35.7,
+  "montage": {
+   "scene": "It's subjective \u2014 the flip-book",
+   "shots": 4,
+   "sizes": [
+    "EWS",
+    "WS",
+    "WS",
+    "WS"
+   ],
+   "seconds": [
+    1.1,
+    0.3,
+    0.3,
+    1.2
+   ],
+   "total_s": 2.9,
+   "shortest_s": 0.3
+  },
+  "shots_now": 7,
+  "shots_needed": 19,
+  "picture_now_s": 14.8,
+  "per_scene": [
+   {
+    "scene": 1,
+    "title": "The voice starts",
+    "words": 2,
+    "seconds": 2.9,
+    "shot_len_here": 1,
+    "shots": 4,
+    "montage": true,
+    "why": "the reference opens on a 4-shot flip-book (2.9s); this is the title sequence, so its length comes from the picture, not the line"
+   },
+   {
+    "scene": 2,
+    "title": "Warm where you shouldn't be",
+    "words": 10,
+    "seconds": 5.4,
+    "shot_len_here": 1.17,
+    "shots": 4
+   },
+   {
+    "scene": 3,
+    "title": "The yellow arrives",
+    "words": 12,
+    "seconds": 6.5,
+    "shot_len_here": 1.91,
+    "shots": 3
+   },
+   {
+    "scene": 4,
+    "title": "Alone, on purpose",
+    "words": 13,
+    "seconds": 7.0,
+    "shot_len_here": 2.39,
+    "shots": 3
+   },
+   {
+    "scene": 5,
+    "title": "The absurd escalation",
+    "words": 11,
+    "seconds": 5.9,
+    "shot_len_here": 2.79,
+    "shots": 2
+   },
+   {
+    "scene": 6,
+    "title": "The closet \u2014 choosing nothing",
+    "words": 14,
+    "seconds": 7.6,
+    "shot_len_here": 4.06,
+    "shots": 2
+   },
+   {
+    "scene": 7,
+    "title": "Handed back",
+    "words": 4,
+    "seconds": 2.2,
+    "shot_len_here": 4.5,
+    "shots": 1
+   }
+  ]
+ }
+}

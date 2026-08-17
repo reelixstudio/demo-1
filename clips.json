@@ -1,0 +1,875 @@
+{
+ "clips": [
+  {
+   "id": "shot1",
+   "code": "1 \u00b7 The voice starts \u2014 flash",
+   "file": "clips/shot1_hf_45bd45d6.mp4",
+   "thumb": "clips/thumbs/shot1_hf_45bd45d6.jpg",
+   "dur": 3.04,
+   "want": 2.9,
+   "shot": 1,
+   "scene": 1,
+   "vo": "Luxury"
+  },
+  {
+   "id": "shot2",
+   "code": "2 \u00b7 The voice starts \u2014 flash",
+   "file": "clips/shot2_hf_dc846db4.mp4",
+   "thumb": "clips/thumbs/shot2_hf_dc846db4.jpg",
+   "dur": 4.04,
+   "want": 0.7,
+   "shot": 2,
+   "scene": 1,
+   "vo": ""
+  },
+  {
+   "id": "shot3",
+   "code": "3 \u00b7 The voice starts \u2014 flash",
+   "file": "clips/shot3_hf_e4a3301e.mp4",
+   "thumb": "clips/thumbs/shot3_hf_e4a3301e.jpg",
+   "dur": 3.04,
+   "want": 0.8,
+   "shot": 3,
+   "scene": 1,
+   "vo": ""
+  },
+  {
+   "id": "shot4",
+   "code": "4 \u00b7 The voice starts \u2014 establish",
+   "file": "clips/shot4_hf_c0b2436a.mp4",
+   "thumb": "clips/thumbs/shot4_hf_c0b2436a.jpg",
+   "dur": 4.06,
+   "want": 0.1,
+   "shot": 4,
+   "scene": 1,
+   "vo": "is\u2026"
+  },
+  {
+   "id": "shot5",
+   "code": "5 \u00b7 Warm where you shouldn't be \u2014 insert",
+   "file": "clips/shot5_hf_e1ad7f70.mp4",
+   "thumb": "clips/thumbs/shot5_hf_e1ad7f70.jpg",
+   "dur": 4.06,
+   "want": 1.6,
+   "shot": 5,
+   "scene": 2,
+   "vo": "Luxury is being warm"
+  },
+  {
+   "id": "shot6",
+   "code": "6 \u00b7 Warm where you shouldn't be \u2014 reaction",
+   "file": "clips/shot6_hf_db0eee68.mp4",
+   "thumb": "clips/thumbs/shot6_hf_db0eee68.jpg",
+   "dur": 4.06,
+   "want": 0.7,
+   "shot": 6,
+   "scene": 2,
+   "vo": "somewhere you've"
+  },
+  {
+   "id": "shot7",
+   "code": "7 \u00b7 Warm where you shouldn't be \u2014 establish",
+   "file": "clips/shot7_hf_ab3a5efe.mp4",
+   "thumb": "clips/thumbs/shot7_hf_ab3a5efe.jpg",
+   "dur": 4.06,
+   "want": 0.8,
+   "shot": 7,
+   "scene": 2,
+   "vo": "no business"
+  },
+  {
+   "id": "shot8",
+   "code": "8 \u00b7 Warm where you shouldn't be \u2014 reveal",
+   "file": "clips/shot8_hf_f441f552.mp4",
+   "thumb": "clips/thumbs/shot8_hf_f441f552.jpg",
+   "dur": 4.06,
+   "want": 0.7,
+   "shot": 8,
+   "scene": 2,
+   "vo": "being warm."
+  },
+  {
+   "id": "shot9",
+   "code": "9 \u00b7 The yellow arrives \u2014 insert",
+   "file": "clips/shot9_hf_d1cc145b.mp4",
+   "thumb": "clips/thumbs/shot9_hf_d1cc145b.jpg",
+   "dur": 5.06,
+   "want": 2.9,
+   "shot": 9,
+   "scene": 3,
+   "vo": "Luxury is a detail"
+  },
+  {
+   "id": "shot10",
+   "code": "10 \u00b7 The yellow arrives \u2014 insert",
+   "file": "clips/shot10_still.mp4",
+   "thumb": "clips/thumbs/shot10_still.jpg",
+   "dur": 1.21,
+   "want": 1.2,
+   "shot": 10,
+   "scene": 3,
+   "vo": "you're fairly sure"
+  },
+  {
+   "id": "shot11",
+   "code": "11 \u00b7 The yellow arrives \u2014 reveal",
+   "file": "clips/shot11_hf_13cf0202.mp4",
+   "thumb": "clips/thumbs/shot11_hf_13cf0202.jpg",
+   "dur": 5.06,
+   "want": 2.4,
+   "shot": 11,
+   "scene": 3,
+   "vo": "you weren't meant to notice."
+  },
+  {
+   "id": "shot12",
+   "code": "12 \u00b7 Alone, on purpose \u2014 insert",
+   "file": "clips/shot12_hf_3b9a46c3.mp4",
+   "thumb": "clips/thumbs/shot12_hf_3b9a46c3.jpg",
+   "dur": 5.06,
+   "want": 0.6,
+   "shot": 12,
+   "scene": 4,
+   "vo": "Luxury is"
+  },
+  {
+   "id": "shot13",
+   "code": "13 \u00b7 Alone, on purpose \u2014 establish",
+   "file": "clips/shot13_hf_28bd7b12.mp4",
+   "thumb": "clips/thumbs/shot13_hf_28bd7b12.jpg",
+   "dur": 5.06,
+   "want": 1.3,
+   "shot": 13,
+   "scene": 4,
+   "vo": "a table laid for twelve,"
+  },
+  {
+   "id": "shot14",
+   "code": "14 \u00b7 Alone, on purpose \u2014 reveal",
+   "file": "clips/shot14_hf_6fa7a398.mp4",
+   "thumb": "clips/thumbs/shot14_hf_6fa7a398.jpg",
+   "dur": 5.06,
+   "want": 3.1,
+   "shot": 14,
+   "scene": 4,
+   "vo": "and no intention of filling it."
+  },
+  {
+   "id": "shot15",
+   "code": "15 \u00b7 The absurd escalation \u2014 insert",
+   "file": "clips/shot15_hf_05e5c69e.mp4",
+   "thumb": "clips/thumbs/shot15_hf_05e5c69e.jpg",
+   "dur": 5.06,
+   "want": 3.2,
+   "shot": 15,
+   "scene": 5,
+   "vo": "Luxury is playing your whole heart out"
+  },
+  {
+   "id": "shot16",
+   "code": "16 \u00b7 The absurd escalation \u2014 reveal",
+   "file": "clips/shot16_hf_2a761021.mp4",
+   "thumb": "clips/thumbs/shot16_hf_2a761021.jpg",
+   "dur": 4.06,
+   "want": 2.1,
+   "shot": 16,
+   "scene": 5,
+   "vo": "to absolutely no one."
+  },
+  {
+   "id": "shot17",
+   "code": "17 \u00b7 The closet \u2014 choosing nothing \u2014 insert",
+   "file": "clips/shot17_hf_de0d69c3.mp4",
+   "thumb": "clips/thumbs/shot17_hf_de0d69c3.jpg",
+   "dur": 5.06,
+   "want": 4.5,
+   "shot": 17,
+   "scene": 6,
+   "vo": "Luxury is standing in front of everything you own,"
+  },
+  {
+   "id": "shot18",
+   "code": "18 \u00b7 The closet \u2014 choosing nothing \u2014 reveal",
+   "file": "clips/shot18_hf_2cac7b04.mp4",
+   "thumb": "clips/thumbs/shot18_hf_2cac7b04.jpg",
+   "dur": 4.06,
+   "want": 1.8,
+   "shot": 18,
+   "scene": 6,
+   "vo": "and wanting none of it."
+  },
+  {
+   "id": "shot18_hf_2cac7b04",
+   "code": "18",
+   "file": "clips/shot18_hf_2cac7b04.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shot19",
+   "file": "clips/shot19_still_push.mp4",
+   "dur": 4.0,
+   "code": "19",
+   "label": "the empty closet \u2014 handed back",
+   "shot": 19
+  },
+  {
+   "id": "shot20",
+   "file": "clips/shot20_hf_8da5ea54.mp4",
+   "dur": 8.04,
+   "code": "20",
+   "label": "Reelix Studio end card (silent)",
+   "shot": 20
+  },
+  {
+   "id": "ov1",
+   "code": "ov1 \u00b7 photo",
+   "file": "clips/ov1.mp4",
+   "dur": 1.04,
+   "shot": null,
+   "source": "references/pinterest/home/519532507035950331.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ov2",
+   "code": "ov2 \u00b7 photo",
+   "file": "clips/ov2.mp4",
+   "dur": 1.04,
+   "shot": null,
+   "source": "references/pinterest/home/519532507030934862.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ov3",
+   "code": "ov3 \u00b7 photo",
+   "file": "clips/ov3.mp4",
+   "dur": 0.32,
+   "shot": null,
+   "source": "references/pinterest/home/519532507031336276.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ov4",
+   "code": "ov4 \u00b7 photo",
+   "file": "clips/ov4.mp4",
+   "dur": 0.36,
+   "shot": null,
+   "source": "references/pinterest/home/1139481143227943922.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ov5",
+   "code": "ov5 \u00b7 photo",
+   "file": "clips/ov5.mp4",
+   "dur": 0.36,
+   "shot": null,
+   "source": "references/pinterest/home/519532507025945540.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ov6",
+   "code": "ov6 \u00b7 photo",
+   "file": "clips/ov6.mp4",
+   "dur": 1.2,
+   "shot": null,
+   "source": "references/pinterest/home/519532507031336268.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ov7",
+   "code": "ov7 \u00b7 photo",
+   "file": "clips/ov7.mp4",
+   "dur": 1.36,
+   "shot": null,
+   "source": "references/pinterest/home/519532507030915887.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ev1",
+   "code": "ev1 \u00b7 photo",
+   "file": "clips/ev1.mp4",
+   "dur": 1.04,
+   "shot": null,
+   "source": "references/pinterest/home/519532507024370921.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ev2",
+   "code": "ev2 \u00b7 photo",
+   "file": "clips/ev2.mp4",
+   "dur": 1.04,
+   "shot": null,
+   "source": "references/pinterest/home/519532507030938081.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ev3",
+   "code": "ev3 \u00b7 photo",
+   "file": "clips/ev3.mp4",
+   "dur": 0.32,
+   "shot": null,
+   "source": "references/pinterest/home/519532507030967260.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ev4",
+   "code": "ev4 \u00b7 photo",
+   "file": "clips/ev4.mp4",
+   "dur": 0.36,
+   "shot": null,
+   "source": "references/pinterest/home/519532507030985647.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ev5",
+   "code": "ev5 \u00b7 photo",
+   "file": "clips/ev5.mp4",
+   "dur": 0.36,
+   "shot": null,
+   "source": "references/pinterest/home/519532507024338225.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ev6",
+   "code": "ev6 \u00b7 photo",
+   "file": "clips/ev6.mp4",
+   "dur": 1.2,
+   "shot": null,
+   "source": "references/pinterest/home/519532507030971151.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "ev7",
+   "code": "ev7 \u00b7 photo",
+   "file": "clips/ev7.mp4",
+   "dur": 1.36,
+   "shot": null,
+   "source": "references/pinterest/home/519532507030938163.jpg",
+   "kind": "photo"
+  },
+  {
+   "id": "shot11_hf_38daf92c",
+   "code": "11",
+   "file": "clips/shot11_hf_38daf92c.mp4",
+   "thumb": null,
+   "dur": 6.06,
+   "gen": true
+  },
+  {
+   "id": "shot10_hf_fe5119b4",
+   "code": "10",
+   "file": "clips/shot10_hf_fe5119b4.mp4",
+   "thumb": null,
+   "dur": 6.06,
+   "gen": true
+  },
+  {
+   "id": "shot8_hf_b1430257",
+   "code": "8",
+   "file": "clips/shot8_hf_b1430257.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  },
+  {
+   "id": "shot8_hf_11e33bf2",
+   "code": "8",
+   "file": "clips/shot8_hf_11e33bf2.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  },
+  {
+   "id": "shot6_hf_509b68a7",
+   "code": "6",
+   "file": "clips/shot6_hf_509b68a7.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  },
+  {
+   "id": "shot4_hf_a01bd560",
+   "code": "4",
+   "file": "clips/shot4_hf_a01bd560.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  },
+  {
+   "id": "shot9_hf_c272294b",
+   "code": "9",
+   "file": "clips/shot9_hf_c272294b.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  },
+  {
+   "id": "shot9_hf_602ad5dc",
+   "code": "9",
+   "file": "clips/shot9_hf_602ad5dc.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  },
+  {
+   "id": "shot5_hf_be8db4fa",
+   "code": "5",
+   "file": "clips/shot5_hf_be8db4fa.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  },
+  {
+   "id": "shot5_hf_8b9ed695",
+   "code": "5",
+   "file": "clips/shot5_hf_8b9ed695.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  },
+  {
+   "id": "shot3_hf_c03977b2",
+   "code": "3",
+   "file": "clips/shot3_hf_c03977b2.mp4",
+   "thumb": null,
+   "dur": 6.08,
+   "gen": true
+  },
+  {
+   "id": "shot1_hf_7edb06fa",
+   "code": "1",
+   "file": "clips/shot1_hf_7edb06fa.mp4",
+   "thumb": null,
+   "dur": 6.08,
+   "gen": true
+  },
+  {
+   "id": "shot8_hf_e6ede795",
+   "code": "8",
+   "file": "clips/shot8_hf_e6ede795.mp4",
+   "thumb": null,
+   "dur": 4.04,
+   "gen": true
+  },
+  {
+   "id": "shot8_hf_3ed81b42",
+   "code": "8",
+   "file": "clips/shot8_hf_3ed81b42.mp4",
+   "thumb": null,
+   "dur": 4.04,
+   "gen": true
+  },
+  {
+   "id": "shot8_hf_7eb6bac0",
+   "code": "8",
+   "file": "clips/shot8_hf_7eb6bac0.mp4",
+   "thumb": null,
+   "dur": 4.04,
+   "gen": true
+  },
+  {
+   "id": "shot1_t0p00-2p11",
+   "code": "1 \u00b7 The voice starts \u2014 flash \u00b7 trim 0.0\u20132.1",
+   "file": "clips/shot1_t0p00-2p11.mp4",
+   "thumb": null,
+   "dur": 2.12,
+   "gen": true
+  },
+  {
+   "id": "shot1_hf_0540e4d5",
+   "code": "shot1 hf 0540e4d5",
+   "file": "clips/shot1_hf_0540e4d5.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shot1_hf_0540e4d5_t0p00-4p06",
+   "code": "shot1 hf 0540e4d5 \u00b7 trim 0.0\u20134.1",
+   "file": "clips/shot1_hf_0540e4d5_t0p00-4p06.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shotrev_hf_716e8c01",
+   "code": "rev",
+   "file": "clips/shotrev_hf_716e8c01.mp4",
+   "thumb": null,
+   "dur": 4.04,
+   "gen": true
+  },
+  {
+   "id": "shot12_t0p00-4p00",
+   "code": "12 \u00b7 Alone, on purpose \u2014 insert \u00b7 trim 0.0\u20134.0",
+   "file": "clips/shot12_t0p00-4p00.mp4",
+   "thumb": null,
+   "dur": 4.0,
+   "gen": true
+  },
+  {
+   "id": "shotrev_hf_33a1adb8",
+   "code": "rev",
+   "file": "clips/shotrev_hf_33a1adb8.mp4",
+   "thumb": null,
+   "dur": 3.71,
+   "gen": true
+  },
+  {
+   "id": "shot6_hf_31a3c063",
+   "code": "6",
+   "file": "clips/shot6_hf_31a3c063.mp4",
+   "thumb": null,
+   "dur": 4.04,
+   "gen": true
+  },
+  {
+   "id": "shot7_hf_ab3a5efe",
+   "code": "7",
+   "file": "clips/shot7_hf_ab3a5efe.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shot11_hf_13cf0202",
+   "code": "11",
+   "file": "clips/shot11_hf_13cf0202.mp4",
+   "thumb": null,
+   "dur": 5.06,
+   "gen": true
+  },
+  {
+   "id": "shot14_hf_6fa7a398",
+   "code": "14",
+   "file": "clips/shot14_hf_6fa7a398.mp4",
+   "thumb": null,
+   "dur": 5.06,
+   "gen": true
+  },
+  {
+   "id": "shot3_hf_e4a3301e",
+   "code": "3",
+   "file": "clips/shot3_hf_e4a3301e.mp4",
+   "thumb": null,
+   "dur": 3.04,
+   "gen": true
+  },
+  {
+   "id": "shot1_hf_45bd45d6",
+   "code": "1",
+   "file": "clips/shot1_hf_45bd45d6.mp4",
+   "thumb": null,
+   "dur": 3.04,
+   "gen": true
+  },
+  {
+   "id": "shot6_hf_db0eee68",
+   "code": "6",
+   "file": "clips/shot6_hf_db0eee68.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shot5_hf_e1ad7f70",
+   "code": "5",
+   "file": "clips/shot5_hf_e1ad7f70.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shot2_hf_dc846db4",
+   "code": "2",
+   "file": "clips/shot2_hf_dc846db4.mp4",
+   "thumb": null,
+   "dur": 4.04,
+   "gen": true
+  },
+  {
+   "id": "shot4_hf_c0b2436a",
+   "code": "4",
+   "file": "clips/shot4_hf_c0b2436a.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shot8_hf_f441f552",
+   "code": "8",
+   "file": "clips/shot8_hf_f441f552.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shot9_hf_d1cc145b",
+   "code": "9",
+   "file": "clips/shot9_hf_d1cc145b.mp4",
+   "thumb": null,
+   "dur": 5.06,
+   "gen": true
+  },
+  {
+   "id": "shot12_hf_3b9a46c3",
+   "code": "12",
+   "file": "clips/shot12_hf_3b9a46c3.mp4",
+   "thumb": null,
+   "dur": 5.06,
+   "gen": true
+  },
+  {
+   "id": "shot10_hf_9cc099dc",
+   "code": "10",
+   "file": "clips/shot10_hf_9cc099dc.mp4",
+   "thumb": null,
+   "dur": 6.06,
+   "gen": true
+  },
+  {
+   "id": "shot13_hf_28bd7b12",
+   "code": "13",
+   "file": "clips/shot13_hf_28bd7b12.mp4",
+   "thumb": null,
+   "dur": 5.06,
+   "gen": true
+  },
+  {
+   "id": "shot15_hf_05e5c69e",
+   "code": "15",
+   "file": "clips/shot15_hf_05e5c69e.mp4",
+   "thumb": null,
+   "dur": 5.06,
+   "gen": true
+  },
+  {
+   "id": "shot17_hf_de0d69c3",
+   "code": "17",
+   "file": "clips/shot17_hf_de0d69c3.mp4",
+   "thumb": null,
+   "dur": 5.06,
+   "gen": true
+  },
+  {
+   "id": "shot16_hf_2a761021",
+   "code": "16",
+   "file": "clips/shot16_hf_2a761021.mp4",
+   "thumb": null,
+   "dur": 4.06,
+   "gen": true
+  },
+  {
+   "id": "shot18_hf_dd354ceb",
+   "code": "18",
+   "file": "clips/shot18_hf_dd354ceb.mp4",
+   "thumb": null,
+   "dur": 6.04,
+   "gen": true
+  }
+ ],
+ "audio": [
+  {
+   "id": "vo_the_film_take_1",
+   "file": "audio/vo_the_film_take_1.mp3",
+   "dur": 25.68,
+   "label": "the film \u2014 take 1",
+   "kind": "vo",
+   "voice_id": "30fc8796-ceb6-4a66-b3a7-4a145ef7f346",
+   "loudness": "-14 LUFS stereo",
+   "film_take": true
+  },
+  {
+   "id": "vo_the_film_take_2",
+   "file": "audio/vo_the_film_take_2.mp3",
+   "dur": 26.72,
+   "label": "the film \u2014 take 2",
+   "kind": "vo",
+   "voice_id": "30fc8796-ceb6-4a66-b3a7-4a145ef7f346",
+   "loudness": "-14 LUFS stereo",
+   "film_take": true
+  },
+  {
+   "id": "vo_the_film_take_2_pace083",
+   "file": "audio/vo_the_film_take_2_pace083.mp3",
+   "dur": 32.18,
+   "label": "the film's narration \u2014 take 3 \u00b7 0.83\u00d7 pace",
+   "kind": "vo",
+   "voice_id": "30fc8796-ceb6-4a66-b3a7-4a145ef7f346",
+   "paced_from": "audio/vo_the_film_take_2.mp3",
+   "pace": 0.83
+  },
+  {
+   "id": "sfx_silver_on_china",
+   "file": "audio/sfx_silver_on_china.mp3",
+   "dur": 1.48,
+   "label": "silver on china",
+   "kind": "sfx",
+   "engine": "elevenlabs"
+  },
+  {
+   "id": "music_score_bed",
+   "file": "audio/music_score_bed.mp3",
+   "dur": 32.23,
+   "label": "score bed",
+   "kind": "music",
+   "engine": "elevenlabs"
+  },
+  {
+   "id": "music_score_bed_flat",
+   "file": "audio/music_score_bed_flat.mp3",
+   "dur": 32.52,
+   "label": "score bed flat",
+   "kind": "music",
+   "engine": "elevenlabs"
+  },
+  {
+   "id": "music_score_bed_mastered",
+   "file": "audio/music_score_bed_mastered.mp3",
+   "dur": 32.52,
+   "label": "score bed \u00b7 mastered to the reference",
+   "kind": "music",
+   "engine": "elevenlabs"
+  },
+  {
+   "id": "music_song_163150",
+   "file": "audio/music_song_163150.mp3",
+   "dur": 60.03,
+   "label": "song 163150 (yours)",
+   "kind": "music"
+  },
+  {
+   "id": "cello_and_beats_estate_2026_07_29t163030",
+   "file": "audio/Cello_and_Beats_Estate_2026-07-29T163030.mp3",
+   "dur": 60.03,
+   "label": "Cello and Beats Estate 2026-07-29T163030"
+  },
+  {
+   "id": "vo_paced_2s",
+   "file": "audio/vo_paced_2s.mp3",
+   "dur": 42.18,
+   "label": "VO \u00b7 2s pause before each \"Luxury is\"",
+   "kind": "vo"
+  },
+  {
+   "id": "vo_line_01",
+   "file": "audio/shots/shot_01.mp3",
+   "dur": 2.88,
+   "kind": "vo",
+   "label": "\u2605 01 \u00b7 \"Luxury\""
+  },
+  {
+   "id": "vo_line_04",
+   "file": "audio/shots/shot_04.mp3",
+   "dur": 0.06,
+   "kind": "vo",
+   "label": "04 \u00b7 \"is\u2026\""
+  },
+  {
+   "id": "vo_line_05",
+   "file": "audio/shots/shot_05.mp3",
+   "dur": 1.69,
+   "kind": "vo",
+   "label": "\u2605 05 \u00b7 \"Luxury is being warm\""
+  },
+  {
+   "id": "vo_line_06",
+   "file": "audio/shots/shot_06.mp3",
+   "dur": 0.73,
+   "kind": "vo",
+   "label": "06 \u00b7 \"somewhere you've\""
+  },
+  {
+   "id": "vo_line_07",
+   "file": "audio/shots/shot_07.mp3",
+   "dur": 0.83,
+   "kind": "vo",
+   "label": "07 \u00b7 \"no business\""
+  },
+  {
+   "id": "vo_line_08",
+   "file": "audio/shots/shot_08.mp3",
+   "dur": 0.73,
+   "kind": "vo",
+   "label": "08 \u00b7 \"being warm.\""
+  },
+  {
+   "id": "vo_line_09",
+   "file": "audio/shots/shot_09.mp3",
+   "dur": 2.9,
+   "kind": "vo",
+   "label": "\u2605 09 \u00b7 \"Luxury is a detail\""
+  },
+  {
+   "id": "vo_line_10",
+   "file": "audio/shots/shot_10.mp3",
+   "dur": 1.2,
+   "kind": "vo",
+   "label": "10 \u00b7 \"you're fairly sure\""
+  },
+  {
+   "id": "vo_line_11",
+   "file": "audio/shots/shot_11.mp3",
+   "dur": 2.75,
+   "kind": "vo",
+   "label": "11 \u00b7 \"you weren't meant to notice.\""
+  },
+  {
+   "id": "vo_line_12",
+   "file": "audio/shots/shot_12.mp3",
+   "dur": 0.77,
+   "kind": "vo",
+   "label": "\u2605 12 \u00b7 \"Luxury is\""
+  },
+  {
+   "id": "vo_line_13",
+   "file": "audio/shots/shot_13.mp3",
+   "dur": 1.33,
+   "kind": "vo",
+   "label": "13 \u00b7 \"a table laid for twelve,\""
+  },
+  {
+   "id": "vo_line_14",
+   "file": "audio/shots/shot_14.mp3",
+   "dur": 3.24,
+   "kind": "vo",
+   "label": "14 \u00b7 \"and no intention of filling it.\""
+  },
+  {
+   "id": "vo_line_15",
+   "file": "audio/shots/shot_15.mp3",
+   "dur": 3.42,
+   "kind": "vo",
+   "label": "\u2605 15 \u00b7 \"Luxury is playing your whole heart out\""
+  },
+  {
+   "id": "vo_line_16",
+   "file": "audio/shots/shot_16.mp3",
+   "dur": 2.41,
+   "kind": "vo",
+   "label": "16 \u00b7 \"to absolutely no one.\""
+  },
+  {
+   "id": "vo_line_17",
+   "file": "audio/shots/shot_17.mp3",
+   "dur": 4.77,
+   "kind": "vo",
+   "label": "\u2605 17 \u00b7 \"Luxury is standing in front of everything you own,\""
+  },
+  {
+   "id": "vo_line_18",
+   "file": "audio/shots/shot_18.mp3",
+   "dur": 2.43,
+   "kind": "vo",
+   "label": "18 \u00b7 \"and wanting none of it.\""
+  },
+  {
+   "id": "vo_line_19",
+   "file": "audio/shots/shot_19.mp3",
+   "dur": 2.51,
+   "kind": "vo",
+   "label": "19 \u00b7 \"For you to define.\""
+  }
+ ]
+}

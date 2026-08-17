@@ -1,0 +1,83 @@
+{
+  "checked_at": "2026-08-17T11:57:55",
+  "project": "demo-1",
+  "summary": {
+    "fail": 0,
+    "warn": 0,
+    "pass": 12
+  },
+  "findings": [
+    {
+      "shot": null,
+      "rule": "refs_ready",
+      "level": "pass",
+      "note": "all 19 shots pass the refs gate (blessed, on disk, ≤cap)"
+    },
+    {
+      "shot": null,
+      "rule": "hard_cut",
+      "level": "pass",
+      "note": "all 4 same-room cuts change size or angle enough to survive a hard cut"
+    },
+    {
+      "shot": 1,
+      "rule": "both_anchors",
+      "level": "pass",
+      "note": "no-cast shot (establishing/insert) — location-only is correct"
+    },
+    {
+      "shot": 2,
+      "rule": "both_anchors",
+      "level": "pass",
+      "note": "no-cast shot (establishing/insert) — location-only is correct"
+    },
+    {
+      "shot": 3,
+      "rule": "both_anchors",
+      "level": "pass",
+      "note": "no-cast shot (establishing/insert) — location-only is correct"
+    },
+    {
+      "shot": 9,
+      "rule": "both_anchors",
+      "level": "pass",
+      "note": "no-cast shot (establishing/insert) — location-only is correct"
+    },
+    {
+      "shot": 10,
+      "rule": "both_anchors",
+      "level": "pass",
+      "note": "no-cast shot (establishing/insert) — location-only is correct"
+    },
+    {
+      "shot": 11,
+      "rule": "both_anchors",
+      "level": "pass",
+      "note": "no-cast shot (establishing/insert) — location-only is correct"
+    },
+    {
+      "shot": 19,
+      "rule": "both_anchors",
+      "level": "pass",
+      "note": "no-cast shot (establishing/insert) — location-only is correct"
+    },
+    {
+      "shot": null,
+      "rule": "forbid",
+      "level": "pass",
+      "note": "no shot asks for any of the 7 things this film forbids"
+    },
+    {
+      "shot": null,
+      "rule": "hue_lock",
+      "level": "pass",
+      "note": "every cool-light prompt carries the hue lock"
+    },
+    {
+      "shot": null,
+      "rule": "act_grade",
+      "level": "pass",
+      "note": "every shot speaks its act's grade language — the arc holds"
+    }
+  ]
+}

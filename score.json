@@ -1,0 +1,750 @@
+{
+  "ok": true,
+  "project": "demo-1",
+  "generated_by": "dna_score.py",
+  "cost": "$0 — proposal only; nothing is generated until you click",
+  "grid": {
+    "bpm": 143.6,
+    "beat_s": 0.4178,
+    "bar_s": 1.6713,
+    "source": "beat-tracked off the reference film by dna_audio.py",
+    "measured": true
+  },
+  "runtime": {
+    "picture_s": 32.22,
+    "vo_s": 32.18,
+    "score_to_s": 32.22
+  },
+  "shots": 14,
+  "music": {
+    "engine": "elevenlabs",
+    "tool": "compose_music",
+    "model_id": "music_v2",
+    "force_instrumental": true,
+    "force_instrumental_why": "the film carries a wall-to-wall VO — any vocal in the bed fights it",
+    "length_ms": 32220,
+    "global_positive_styles": [
+      "upbeat, groove-forward bed — bright and percussive",
+      "prominent percussion / hi-hats",
+      "a bright harmonic layer — synth or plucked",
+      "steady low-end groove",
+      "143.6 BPM",
+      "aspirational",
+      "playful",
+      "surreal",
+      "opulent",
+      "constant energy from the first bar",
+      "no dynamic arc",
+      "mastered loud and flat, heavily compressed"
+    ],
+    "global_negative_styles": [
+      "vocals",
+      "lyrics",
+      "singing",
+      "spoken word",
+      "voice over",
+      "build-up",
+      "drop",
+      "breakdown",
+      "riser",
+      "filter sweep",
+      "sparse intro",
+      "fade out",
+      "tempo change"
+    ],
+    "loudness_target": {
+      "note": "mix target, applied after generation — not something the model is asked for",
+      "reference_lufs": -10.7,
+      "bed_under_vo_db": -20,
+      "bed_no_vo_db": -7,
+      "why": "the Cut Studio mixer already ducks music under VO; these are its two rest states"
+    },
+    "dynamics_note": "flat and loud — only 2.0 LU of range and -10.7 LUFS integrated; drives continuously with no dips under the whole film (instrument names are inferred from brightness + harmonic/percussive split — treat as approximate)",
+    "chunks": [
+      {
+        "i": 1,
+        "start_s": 0.0,
+        "end_s": 3.343,
+        "dur_ms": 3343,
+        "bars": 2.0,
+        "text": "sparse and curious, one idea only. Continuous groove at 143.6 BPM, no dropout.",
+        "positive_styles": [
+          "upbeat, groove-forward bed — bright and percussive",
+          "prominent percussion / hi-hats",
+          "a bright harmonic layer — synth or plucked",
+          "steady low-end groove",
+          "143.6 BPM",
+          "aspirational",
+          "playful",
+          "surreal",
+          "opulent",
+          "constant energy from the first bar",
+          "no dynamic arc",
+          "mastered loud and flat, heavily compressed",
+          "sparse and curious, one idea only",
+          "open, unhurried"
+        ],
+        "negative_styles": [
+          "vocals",
+          "lyrics",
+          "singing",
+          "spoken word",
+          "voice over",
+          "build-up",
+          "drop",
+          "breakdown",
+          "riser",
+          "filter sweep",
+          "sparse intro",
+          "fade out",
+          "tempo change"
+        ],
+        "context_adherence": "medium",
+        "from_beat": "The question",
+        "folded_in": [
+          "It's subjective"
+        ],
+        "split": null,
+        "instruments_live": [],
+        "why": "beat “The question” — charge +1, tension 30"
+      },
+      {
+        "i": 2,
+        "start_s": 3.343,
+        "end_s": 6.685,
+        "dur_ms": 3342,
+        "bars": 2.0,
+        "text": "warm and moving, opening out. Continuous groove at 143.6 BPM, no dropout.",
+        "positive_styles": [
+          "upbeat, groove-forward bed — bright and percussive",
+          "prominent percussion / hi-hats",
+          "a bright harmonic layer — synth or plucked",
+          "steady low-end groove",
+          "143.6 BPM",
+          "aspirational",
+          "playful",
+          "surreal",
+          "opulent",
+          "constant energy from the first bar",
+          "no dynamic arc",
+          "mastered loud and flat, heavily compressed",
+          "warm and moving, opening out"
+        ],
+        "negative_styles": [
+          "vocals",
+          "lyrics",
+          "singing",
+          "spoken word",
+          "voice over",
+          "build-up",
+          "drop",
+          "breakdown",
+          "riser",
+          "filter sweep",
+          "sparse intro",
+          "fade out",
+          "tempo change"
+        ],
+        "context_adherence": "medium",
+        "from_beat": "The moon flex",
+        "folded_in": null,
+        "split": null,
+        "instruments_live": [],
+        "why": "beat “The moon flex” — charge +3, tension 50"
+      },
+      {
+        "i": 3,
+        "start_s": 6.685,
+        "end_s": 11.699,
+        "dur_ms": 5014,
+        "bars": 3.0,
+        "text": "warm and moving, opening out. Continuous groove at 143.6 BPM, no dropout.",
+        "positive_styles": [
+          "upbeat, groove-forward bed — bright and percussive",
+          "prominent percussion / hi-hats",
+          "a bright harmonic layer — synth or plucked",
+          "steady low-end groove",
+          "143.6 BPM",
+          "aspirational",
+          "playful",
+          "surreal",
+          "opulent",
+          "constant energy from the first bar",
+          "no dynamic arc",
+          "mastered loud and flat, heavily compressed",
+          "warm and moving, opening out"
+        ],
+        "negative_styles": [
+          "vocals",
+          "lyrics",
+          "singing",
+          "spoken word",
+          "voice over",
+          "build-up",
+          "drop",
+          "breakdown",
+          "riser",
+          "filter sweep",
+          "sparse intro",
+          "fade out",
+          "tempo change"
+        ],
+        "context_adherence": "medium",
+        "from_beat": "Play & romance",
+        "folded_in": null,
+        "split": null,
+        "instruments_live": [],
+        "why": "beat “Play & romance” — charge +3, tension 55"
+      },
+      {
+        "i": 4,
+        "start_s": 11.699,
+        "end_s": 18.384,
+        "dur_ms": 6685,
+        "bars": 4.0,
+        "text": "lifting, more colour arriving. Continuous groove at 143.6 BPM, no dropout.",
+        "positive_styles": [
+          "upbeat, groove-forward bed — bright and percussive",
+          "prominent percussion / hi-hats",
+          "a bright harmonic layer — synth or plucked",
+          "steady low-end groove",
+          "143.6 BPM",
+          "aspirational",
+          "playful",
+          "surreal",
+          "opulent",
+          "constant energy from the first bar",
+          "no dynamic arc",
+          "mastered loud and flat, heavily compressed",
+          "lifting, more colour arriving"
+        ],
+        "negative_styles": [
+          "vocals",
+          "lyrics",
+          "singing",
+          "spoken word",
+          "voice over",
+          "build-up",
+          "drop",
+          "breakdown",
+          "riser",
+          "filter sweep",
+          "sparse intro",
+          "fade out",
+          "tempo change"
+        ],
+        "context_adherence": "medium",
+        "from_beat": "Style, silence, water",
+        "folded_in": null,
+        "split": null,
+        "instruments_live": [],
+        "why": "beat “Style, silence, water” — charge +2, tension 50"
+      },
+      {
+        "i": 5,
+        "start_s": 18.384,
+        "end_s": 25.07,
+        "dur_ms": 6686,
+        "bars": 4.0,
+        "text": "confident and full — the groove at its widest. solo cello present in the arrangement. Continuous groove at 143.6 BPM, no dropout.",
+        "positive_styles": [
+          "upbeat, groove-forward bed — bright and percussive",
+          "prominent percussion / hi-hats",
+          "a bright harmonic layer — synth or plucked",
+          "steady low-end groove",
+          "143.6 BPM",
+          "aspirational",
+          "playful",
+          "surreal",
+          "opulent",
+          "constant energy from the first bar",
+          "no dynamic arc",
+          "mastered loud and flat, heavily compressed",
+          "confident and full — the groove at its widest",
+          "solo cello entering",
+          "dense, driving"
+        ],
+        "negative_styles": [
+          "vocals",
+          "lyrics",
+          "singing",
+          "spoken word",
+          "voice over",
+          "build-up",
+          "drop",
+          "breakdown",
+          "riser",
+          "filter sweep",
+          "sparse intro",
+          "fade out",
+          "tempo change"
+        ],
+        "context_adherence": "high",
+        "from_beat": "Queen, groove, outfits",
+        "folded_in": null,
+        "split": null,
+        "instruments_live": [
+          "solo cello"
+        ],
+        "why": "beat “Queen, groove, outfits” — charge +4, tension 65; inherits solo cello from the picture"
+      },
+      {
+        "i": 6,
+        "start_s": 25.07,
+        "end_s": 28.412,
+        "dur_ms": 3342,
+        "bars": 2.0,
+        "text": "confident and full — the groove at its widest. solo cello present in the arrangement. Continuous groove at 143.6 BPM, no dropout.",
+        "positive_styles": [
+          "upbeat, groove-forward bed — bright and percussive",
+          "prominent percussion / hi-hats",
+          "a bright harmonic layer — synth or plucked",
+          "steady low-end groove",
+          "143.6 BPM",
+          "aspirational",
+          "playful",
+          "surreal",
+          "opulent",
+          "constant energy from the first bar",
+          "no dynamic arc",
+          "mastered loud and flat, heavily compressed",
+          "confident and full — the groove at its widest",
+          "solo cello carrying the melody",
+          "dense, driving"
+        ],
+        "negative_styles": [
+          "vocals",
+          "lyrics",
+          "singing",
+          "spoken word",
+          "voice over",
+          "build-up",
+          "drop",
+          "breakdown",
+          "riser",
+          "filter sweep",
+          "sparse intro",
+          "fade out",
+          "tempo change"
+        ],
+        "context_adherence": "high",
+        "from_beat": "The owners",
+        "folded_in": null,
+        "split": null,
+        "instruments_live": [
+          "solo cello"
+        ],
+        "why": "beat “The owners” — charge +4, tension 70; inherits solo cello from the picture"
+      },
+      {
+        "i": 7,
+        "start_s": 28.412,
+        "end_s": 32.22,
+        "dur_ms": 3808,
+        "bars": 2.28,
+        "text": "warm and moving, opening out. solo cello present in the arrangement. Continuous groove at 143.6 BPM, no dropout.",
+        "positive_styles": [
+          "upbeat, groove-forward bed — bright and percussive",
+          "prominent percussion / hi-hats",
+          "a bright harmonic layer — synth or plucked",
+          "steady low-end groove",
+          "143.6 BPM",
+          "aspirational",
+          "playful",
+          "surreal",
+          "opulent",
+          "constant energy from the first bar",
+          "no dynamic arc",
+          "mastered loud and flat, heavily compressed",
+          "warm and moving, opening out",
+          "solo cello carrying the melody"
+        ],
+        "negative_styles": [
+          "vocals",
+          "lyrics",
+          "singing",
+          "spoken word",
+          "voice over",
+          "build-up",
+          "drop",
+          "breakdown",
+          "riser",
+          "filter sweep",
+          "sparse intro",
+          "fade out",
+          "tempo change"
+        ],
+        "context_adherence": "high",
+        "from_beat": "For you to define",
+        "folded_in": null,
+        "split": null,
+        "instruments_live": [
+          "solo cello"
+        ],
+        "why": "beat “For you to define” — charge +3, tension 40; inherits solo cello from the picture"
+      }
+    ]
+  },
+  "sfx": [
+    {
+      "rule": "paper_turn",
+      "label": "newspaper page turn",
+      "prompt": "a single large broadsheet newspaper page turning — dry crisp paper rustle, one clean sweep, recorded close and intimate, no room reverb, no music, no voices",
+      "gain_db": -14,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “newspaper”",
+        "action: “page turn”",
+        "action: “a page turns”"
+      ],
+      "why": "paper is in frame and the action turns or handles it",
+      "clip_has_audio": true,
+      "kind": "sfx",
+      "shot": "shot5",
+      "start_s": 3.972,
+      "dur_s": 1.051,
+      "id": "sfx_shot5_paper_turn",
+      "on": true,
+      "also_in": [
+        "shot6"
+      ]
+    },
+    {
+      "rule": "cutlery_table",
+      "label": "silver on china",
+      "prompt": "one piece of polished silverware set down on fine china — a single soft clean chime, close, dry, no room, no music",
+      "gain_db": -16,
+      "confidence": "low",
+      "evidence": [
+        "in frame: “table”"
+      ],
+      "why": "a table is laid or being eaten at",
+      "clip_has_audio": true,
+      "kind": "sfx",
+      "shot": "shot9",
+      "start_s": 8.611,
+      "dur_s": 1.5,
+      "id": "sfx_shot9_cutlery_table",
+      "on": false,
+      "also_in": [
+        "shot11"
+      ]
+    },
+    {
+      "rule": "cloth_fabric",
+      "label": "fabric handling",
+      "prompt": "hanging garments on a chrome rail moved gently by one hand — soft fabric brush and a single quiet hanger slide, close, dry, no music",
+      "gain_db": -16,
+      "confidence": "medium",
+      "evidence": [
+        "action: “draped”"
+      ],
+      "why": "clothing is being touched or moved in frame",
+      "clip_has_audio": false,
+      "kind": "sfx",
+      "shot": "shot11",
+      "start_s": 11.124,
+      "dur_s": 2.0,
+      "id": "sfx_shot11_cloth_fabric",
+      "on": true
+    },
+    {
+      "rule": "cutlery_table",
+      "label": "silver on china",
+      "prompt": "one piece of polished silverware set down on fine china — a single soft clean chime, close, dry, no room, no music",
+      "gain_db": -16,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “table”",
+        "in frame: “breakfast”",
+        "action: “eats”",
+        "action: “breakfast”"
+      ],
+      "why": "a table is laid or being eaten at",
+      "clip_has_audio": false,
+      "kind": "sfx",
+      "shot": "shot13",
+      "start_s": 13.524,
+      "dur_s": 1.5,
+      "id": "sfx_shot13_cutlery_table",
+      "on": true
+    },
+    {
+      "rule": "cutlery_table",
+      "label": "silver on china",
+      "prompt": "one piece of polished silverware set down on fine china — a single soft clean chime, close, dry, no room, no music",
+      "gain_db": -16,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “table”",
+        "in frame: “breakfast”",
+        "action: “place setting”"
+      ],
+      "why": "a table is laid or being eaten at",
+      "clip_has_audio": false,
+      "kind": "sfx",
+      "shot": "shot12",
+      "start_s": 15.454,
+      "dur_s": 1.5,
+      "id": "sfx_shot12_cutlery_table",
+      "on": true,
+      "also_in": [
+        "shot14"
+      ]
+    },
+    {
+      "rule": "cello",
+      "label": "cello",
+      "prompt": "a solo cello — a single long bowed note on the low strings, warm rosin-and-wood tone, close mic, slight room, no accompaniment, no music bed",
+      "gain_db": -8,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “cello”",
+        "in frame: “cellist”",
+        "action: “bow”",
+        "action: “strings”"
+      ],
+      "why": "a cello is being played on screen — it becomes both a spot cue and a colour in the score from here on",
+      "clip_has_audio": false,
+      "kind": "sfx",
+      "shot": "shot15",
+      "start_s": 19.642,
+      "dur_s": 2.249,
+      "id": "sfx_shot15_cello",
+      "on": true
+    },
+    {
+      "rule": "cello",
+      "label": "cello",
+      "prompt": "a solo cello — a single long bowed note on the low strings, warm rosin-and-wood tone, close mic, slight room, no accompaniment, no music bed",
+      "gain_db": -8,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “cello”",
+        "in frame: “cellist”",
+        "action: “plays”"
+      ],
+      "why": "a cello is being played on screen — it becomes both a spot cue and a colour in the score from here on",
+      "clip_has_audio": true,
+      "kind": "sfx",
+      "shot": "shot16",
+      "start_s": 21.891,
+      "dur_s": 2.728,
+      "id": "sfx_shot16_cello",
+      "on": true
+    },
+    {
+      "rule": "cloth_fabric",
+      "label": "fabric handling",
+      "prompt": "hanging garments on a chrome rail moved gently by one hand — soft fabric brush and a single quiet hanger slide, close, dry, no music",
+      "gain_db": -16,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “closet”",
+        "action: “sleeve”"
+      ],
+      "why": "clothing is being touched or moved in frame",
+      "clip_has_audio": true,
+      "kind": "sfx",
+      "shot": "shot17",
+      "start_s": 24.619,
+      "dur_s": 2.0,
+      "id": "sfx_shot17_cloth_fabric",
+      "on": true
+    },
+    {
+      "rule": "cloth_fabric",
+      "label": "fabric handling",
+      "prompt": "hanging garments on a chrome rail moved gently by one hand — soft fabric brush and a single quiet hanger slide, close, dry, no music",
+      "gain_db": -16,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “closet”",
+        "action: “reaches”"
+      ],
+      "why": "clothing is being touched or moved in frame",
+      "clip_has_audio": true,
+      "kind": "sfx",
+      "shot": "shot18",
+      "start_s": 28.158,
+      "dur_s": 2.0,
+      "id": "sfx_shot18_cloth_fabric",
+      "on": true
+    }
+  ],
+  "ambience": [
+    {
+      "rule": "snow_cold_air",
+      "label": "cold open air",
+      "prompt": "a wide cold open-air room tone from a high rooftop — a very soft high wind, distant city floor far below, snow-muffled and empty, no music, no voices, no birds",
+      "gain_db": -24,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “snow”",
+        "in frame: “rooftop”",
+        "action: “snow”",
+        "action: “falling snow”"
+      ],
+      "why": "an exposed cold exterior — the air itself has a sound",
+      "clip_has_audio": true,
+      "kind": "ambience",
+      "start_s": 0.0,
+      "end_s": 3.972,
+      "dur_s": 3.97,
+      "scene": 1,
+      "shots": [
+        "shot1",
+        "shot4",
+        "shot4"
+      ],
+      "on": true
+    },
+    {
+      "rule": "snow_cold_air",
+      "label": "cold open air",
+      "prompt": "a wide cold open-air room tone from a high rooftop — a very soft high wind, distant city floor far below, snow-muffled and empty, no music, no voices, no birds",
+      "gain_db": -24,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “snow”",
+        "in frame: “rooftop”",
+        "action: “cold”",
+        "the space: “snow”"
+      ],
+      "why": "an exposed cold exterior — the air itself has a sound",
+      "clip_has_audio": true,
+      "kind": "ambience",
+      "start_s": 3.972,
+      "end_s": 8.611,
+      "dur_s": 4.64,
+      "scene": 2,
+      "shots": [
+        "shot5",
+        "shot5",
+        "shot6",
+        "shot8"
+      ],
+      "on": true
+    },
+    {
+      "rule": "large_empty_room",
+      "label": "large empty room tone",
+      "prompt": "the room tone of a very large empty hard-surfaced interior — a low still air presence with long decay, no traffic, no voices, no music",
+      "gain_db": -26,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “dining room”",
+        "action: “long”",
+        "the space: “long”",
+        "the space: “marble”"
+      ],
+      "why": "a big hard-surfaced room reads as silent on screen but never is",
+      "clip_has_audio": false,
+      "kind": "ambience",
+      "start_s": 8.611,
+      "end_s": 13.524,
+      "dur_s": 4.91,
+      "scene": 3,
+      "shots": [
+        "shot9",
+        "shot11"
+      ],
+      "on": true
+    },
+    {
+      "rule": "large_empty_room",
+      "label": "large empty room tone",
+      "prompt": "the room tone of a very large empty hard-surfaced interior — a low still air presence with long decay, no traffic, no voices, no music",
+      "gain_db": -26,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “dining room”",
+        "action: “empty room”",
+        "action: “alone”",
+        "the space: “long”"
+      ],
+      "why": "a big hard-surfaced room reads as silent on screen but never is",
+      "clip_has_audio": false,
+      "kind": "ambience",
+      "start_s": 13.524,
+      "end_s": 19.642,
+      "dur_s": 6.12,
+      "scene": 4,
+      "shots": [
+        "shot13",
+        "shot12",
+        "shot14"
+      ],
+      "on": true
+    },
+    {
+      "rule": "water_still",
+      "label": "still water room tone",
+      "prompt": "still indoor water — the faintest lapping against a hard edge, glassy tiled room tone, no splashing, no music, no voices",
+      "gain_db": -22,
+      "confidence": "high",
+      "evidence": [
+        "in frame: “pool”",
+        "action: “water”",
+        "action: “ankle-deep”",
+        "the space: “water”"
+      ],
+      "why": "the space holds standing water",
+      "clip_has_audio": true,
+      "kind": "ambience",
+      "start_s": 19.642,
+      "end_s": 24.619,
+      "dur_s": 4.98,
+      "scene": 5,
+      "shots": [
+        "shot15",
+        "shot16"
+      ],
+      "on": true
+    },
+    {
+      "rule": "large_empty_room",
+      "label": "large empty room tone",
+      "prompt": "the room tone of a very large empty hard-surfaced interior — a low still air presence with long decay, no traffic, no voices, no music",
+      "gain_db": -26,
+      "confidence": "medium",
+      "evidence": [
+        "action: “long”",
+        "the space: “long”",
+        "the space: “marble”"
+      ],
+      "why": "a big hard-surfaced room reads as silent on screen but never is",
+      "clip_has_audio": true,
+      "kind": "ambience",
+      "start_s": 24.619,
+      "end_s": 32.218,
+      "dur_s": 7.6,
+      "scene": 6,
+      "shots": [
+        "shot17",
+        "shot18"
+      ],
+      "on": true
+    }
+  ],
+  "instruments": [
+    {
+      "instrument": "solo cello",
+      "from_s": 19.642,
+      "shot": "shot15",
+      "carries_forward": true,
+      "why": "cello is played on screen at 19.6s — the bed picks it up from here"
+    },
+    {
+      "instrument": "solo cello",
+      "from_s": 21.891,
+      "shot": "shot16",
+      "carries_forward": true,
+      "why": "cello is played on screen at 21.9s — the bed picks it up from here"
+    }
+  ],
+  "warnings": [
+    "8 clip(s) were generated WITH sound (shot4, shot5, shot6, shot8, shot9, shot16…). Listen before adding a cue on top — use ⇅ Detach to hear what is already in there."
+  ],
+  "elevenlabs_ready": true
+}

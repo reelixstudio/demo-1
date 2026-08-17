@@ -1,0 +1,48 @@
+{
+ "_what": "PREVIEW ONLY — the title treatment + a Pinterest-photo overture, kept OUT of cut.json so the real edit is untouched. Bake: python3 tools/shotlist/bake.py --root projects/demo-1 --cut cut.overture.json --out _review/overture.mp4",
+ "_treatment": "Measured off the reference (dna-intake/proxy.mp4), not guessed: type is #F2D92E canary, a Didone ITALIC, all-caps, centred, popping on and off with the voice inside the first ~4.3s only; the film then runs clean until a white letterspaced lockup fades up on black at the tail. Sampled windows: 0.12-0.88 / 1.12-2.13 / 3.37-4.25.",
+ "video": [
+  {"id": "ov1", "in": 0, "out": 1.04,
+   "overlays": [{"type": "title", "text": "LUXURY", "font": "didone-italic", "fill": "#F2D92E",
+                 "size": 0.155, "align": "center", "valign": "center",
+                 "start": 0.12, "dur": 0.80, "fade": 0.10}]},
+  {"id": "ov2", "in": 0, "out": 1.04,
+   "overlays": [{"type": "title", "text": "IS…", "font": "didone-italic", "fill": "#F2D92E",
+                 "size": 0.155, "align": "center", "valign": "center",
+                 "start": 0.10, "dur": 0.78, "fade": 0.10}]},
+  {"id": "ov3", "in": 0, "out": 0.32},
+  {"id": "ov4", "in": 0, "out": 0.36},
+  {"id": "ov5", "in": 0, "out": 0.36},
+  {"id": "ov6", "in": 0, "out": 1.20},
+  {"id": "ov7", "in": 0, "out": 1.36},
+
+  {"id": "shot1", "in": 0, "out": 2.111},
+
+  {"black": true, "dur": 0.35},
+  {"black": true, "dur": 2.80,
+   "overlays": [
+    {"type": "title", "text": "LUXURY IS—", "font": "didone", "fill": "#F4F1EA",
+     "size": 0.062, "track": 0.20, "align": "center", "valign": "center",
+     "shadow": false, "start": 0.15, "dur": 2.60, "fade": 0.55},
+    {"type": "title", "text": "FOR YOU TO DEFINE", "font": "didone", "fill": "#C9C2B4",
+     "size": 0.020, "track": 0.62, "align": "center", "y": 0.565,
+     "shadow": false, "start": 0.55, "dur": 2.20, "fade": 0.50}
+   ]}
+ ],
+ "audio": null,
+ "audiotracks": [
+  {"id": "vo", "name": "Voice-over", "gain_db": 0, "muted": false, "solo": false, "kind": "vo"},
+  {"id": "music", "name": "Music", "gain_db": -7, "muted": false, "solo": false, "kind": "music"}
+ ],
+ "audioclips": [
+  {"id": "bed", "src": "music_score_bed_mastered", "track": "music", "start": 0, "offset": 0,
+   "dur": 10.9, "gain_db": 0, "fade_in": 0.4, "fade_out": 1.6},
+  {"id": "vo1", "src": "vo_line_01", "track": "vo", "start": 5.72, "offset": 0,
+   "dur": 2.88, "gain_db": 0}
+ ],
+ "overlay": [],
+ "meta": {"fade_in": 0.4, "fade_out": 0.9, "bar_h": 0, "audio_fade_out": 1.2},
+ "grain": {"amt": 8},
+ "notes": [],
+ "verdicts": {}
+}

@@ -1,0 +1,215 @@
+{
+  "schema": 1,
+  "at": "2026-07-28T08:24:26",
+  "title": "Elements Luxury Living — Luxury Is Subjective",
+  "reference_s": 50.94,
+  "rows_read": 23,
+  "rows_by": "measured cuts",
+  "rate": {
+    "asl_s": 2.12,
+    "cuts_per_min": 27.1,
+    "shot_count": 24,
+    "median_s": 2.0,
+    "shortest_s": 0.32,
+    "longest_s": 5.96,
+    "quantiles": {
+      "p10": 0.56,
+      "p25": 1.23,
+      "p50": 1.82,
+      "p75": 2.74,
+      "p90": 3.58
+    },
+    "shape": [
+      1.04,
+      1.04,
+      0.32,
+      0.36,
+      0.36,
+      1.2,
+      1.36,
+      3.52,
+      2.28,
+      2.64,
+      2.0,
+      2.0,
+      1.64,
+      2.24,
+      1.64,
+      2.2,
+      3.44,
+      3.04,
+      5.96,
+      1.36,
+      1.24,
+      1.44,
+      3.6,
+      5.02
+    ],
+    "pace_curve": [
+      {
+        "at_pct": 5,
+        "asl_s": 1.0
+      },
+      {
+        "at_pct": 15,
+        "asl_s": 1.3
+      },
+      {
+        "at_pct": 35,
+        "asl_s": 2.3
+      },
+      {
+        "at_pct": 60,
+        "asl_s": 2.5
+      },
+      {
+        "at_pct": 90,
+        "asl_s": 4.5
+      }
+    ],
+    "rhythm": "settling — shots open out from ~1.5s to ~2.5s; it lands and holds",
+    "under_1s": 3,
+    "under_2s": 12,
+    "orderable": 2,
+    "shorter_than_a_gen": 22
+  },
+  "sizes": {
+    "mix": {
+      "WS": 35,
+      "EWS": 20,
+      "CU": 20,
+      "MS": 20,
+      "MCU": 5
+    },
+    "counted": {
+      "EWS": 4,
+      "WS": 7,
+      "CU": 4,
+      "MS": 4,
+      "MCU": 1
+    },
+    "coverage": "20/23 rows"
+  },
+  "moves": {
+    "mix": {
+      "locked": 45,
+      "push": 20,
+      "track": 15,
+      "pull": 15,
+      "pan": 5
+    },
+    "counted": {
+      "locked": 9,
+      "track": 3,
+      "push": 4,
+      "pull": 3,
+      "pan": 1
+    },
+    "coverage": "20/24 shots measured",
+    "unnamed": 4,
+    "depth": {
+      "flat": 1,
+      "parallax": 7
+    },
+    "vocabulary": [
+      "slow push-in",
+      "slow orbit/arc",
+      "locked wide with the subject moving inside it",
+      "tracking follow (hoverboard)",
+      "static detail insert"
+    ],
+    "forbid": [
+      "shaky handheld",
+      "whip pans",
+      "fast punch-zooms",
+      "drone-style flybys"
+    ]
+  },
+  "optics": {
+    "lens_set": [
+      "wide establishing (~24-35mm feel)",
+      "detail inserts (~50-85mm feel)",
+      "one low ultra-wide for the pop room"
+    ],
+    "dof": "mostly deep for the interiors so the whole space reads; shallow on the detail inserts (shoes, hands, bow tie, teacup)",
+    "angle_bias": "eye-level to slightly low; strong central symmetry favoured; one dramatic low ultra-wide for the pop-room dance",
+    "composition": [
+      "centre the hero space symmetrically",
+      "let the architecture frame the subject (arches, columns, doorways, the lift box)",
+      "leave negative space early for the on-screen serif word",
+      "make the subject small inside a large, richly-dressed volume"
+    ]
+  },
+  "shape": {
+    "hook_by_s": 2.1,
+    "hook_by_pct": 4.1,
+    "hook_promise": "we will redefine what luxury means — and it will surprise you",
+    "payoff_at_pct": 92,
+    "structure": "anaphora montage — a chain of 'it's…' vignettes escalating to a brand reveal",
+    "engine": "escalation",
+    "loop": false,
+    "device": [
+      "every space is aspirational, impossibly clean and fully styled",
+      "reality bends for the fantasy — a moon-floor lounge, a giant teapot shower, a pet cheetah indoors",
+      "one 'owner' character inhabits each hero space",
+      "the brand's argument (luxury = personal) overrides physical logic"
+    ]
+  },
+  "cutting": {
+    "default_transition": "hard cut",
+    "allowed": [
+      "hard cut",
+      "fade to black (into the logo)"
+    ],
+    "forbid": [
+      "dissolve",
+      "wipe",
+      "whip pan"
+    ],
+    "match_cuts": [
+      "the gold/mustard-yellow accent is carried across cuts as the visual glue",
+      "the on-screen gold serif word (LUXURY? → IT'S SUBJECTIVE → SUBJECTIVE) links the first three shots"
+    ],
+    "bpm": 143.6,
+    "on_beat": {
+      "share": 0.7,
+      "hits": 16,
+      "cuts": 23,
+      "tolerance_s": 0.107,
+      "beat_period_s": 0.427
+    }
+  },
+  "voice": {
+    "wpm": 129,
+    "words_per_s": 2.15,
+    "presence": "wall-to-wall — one continuous voiced take covering ~86% of the runtime (first word 0.0s, last 49.6s)",
+    "pause_style": "no measured silence between the first and last word — the delivery never stops for breath; inter-line beats sit ~0.9-1.5s (longest 1.47s)",
+    "style": "conversational, playful and fragmentary — a running list of definitions of luxury"
+  },
+  "setups": {
+    "unique": 17,
+    "shots": 24,
+    "reuse": {
+      "@wood_elevator": 3,
+      "@moon_lounge": 2,
+      "@poolside_terrace": 2,
+      "@ballroom": 2,
+      "@rose_parlor": 2,
+      "@plant_library": 2
+    },
+    "shots_per_setup": 1.41
+  },
+  "sources": {
+    "rate": "measured (ffmpeg cut detection)",
+    "sizes": "counted off the shot rows (measured cuts)",
+    "moves": "MEASURED — optical flow over the source video, decoded once at 12fps and bucketed by the cut map",
+    "optics": "read (film-level prose only — no per-shot focal lengths yet)",
+    "shape": "read",
+    "cutting": "measured (beats from the audio, cuts from ffmpeg)",
+    "voice": "measured (transcript + silence map)",
+    "setups": "counted off the shot rows"
+  },
+  "warnings": [
+    "No per-shot lens_mm — the shot list's Lens column has nothing to fill it."
+  ]
+}
